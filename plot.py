@@ -3,17 +3,11 @@
 import argparse
 import json
 import math
-import os
 from pathlib import Path
 
-for name in ("OMP_NUM_THREADS", "OPENBLAS_NUM_THREADS", "MKL_NUM_THREADS"):
-    os.environ.setdefault(name, "2")
-
-import matplotlib
-
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
+plt.switch_backend("Agg")
 
 ROOT = Path(__file__).resolve().parent
 GREEN = "#24644f"
