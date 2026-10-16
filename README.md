@@ -6,7 +6,7 @@ All 100 have usable jolt data. No cheating established. Some timing differences 
 
 ![Linear timing plots for the top 100 runs](plots/overview.png)
 
-[Individual plots](plots/) | [Run and video index](data/index.json)
+[Individual plots](plots/) | [Run and video index](data/index.json) | [Vector overview](plots/overview.svg)
 
 Each plot uses one proof recording. The x-axis shows elapsed video time and the y-axis shows elapsed GUI time. Both are linear, in seconds, with the same scale. Zero is the first resolved jolt. The dashed line is equal elapsed time. Separate segments stay disconnected. Recordings can include menus, credits or other attempts.
 
