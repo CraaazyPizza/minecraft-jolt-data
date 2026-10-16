@@ -1,0 +1,6 @@
+[project]
+name = "minecraft-jolt-data"
+version = "0.1.0"
+description = "Minecraft speedrun hunger-jolt observations and linear clock plots"
+requires-python = ">=3.11"
+dependencies = ["matplotlib>=3.10,<4"]

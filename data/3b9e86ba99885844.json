@@ -1,0 +1,6335 @@
+{
+  "source_id": "3b9e86ba99885844",
+  "video_url": "https://www.youtube.com/watch?v=4iAQ3Gzilcc",
+  "source_sha256": "84649b3b2ca3c6f9ad57eaa672f858afeb6042d8a93b4c385aa62bd3d05fdb05",
+  "report_sha256": "bc025e4bca700c7ff35dabad05effaf1078cd0c1bba75995e4bdf1d7c19da8c9",
+  "analysis_observations_sha256": "f3a425b2f7a1833152ba2f2b864fa8dc8b4517291cd6ba152c9fcc5865e1e431",
+  "observations": [
+    {
+      "pattern": "0--00+0+0+",
+      "food": 20,
+      "error": 0.0328776091337204,
+      "max_error": 0.03445122018456459,
+      "margin": 0.03220149874687195,
+      "seconds": 81.71666666666667,
+      "pts": 5020672,
+      "time_base": "1/61440",
+      "frame": 4904,
+      "candidates": [
+        {
+          "tick": 45628,
+          "low_health": false
+        },
+        {
+          "tick": 153171,
+          "low_health": false
+        },
+        {
+          "tick": 229055,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++-+---0++",
+      "food": 0,
+      "error": 0.05726370960474014,
+      "max_error": 0.060164593160152435,
+      "margin": 0.024353977292776108,
+      "seconds": 84.76666666666667,
+      "pts": 5208064,
+      "time_base": "1/61440",
+      "frame": 5087,
+      "candidates": [
+        {
+          "tick": 1138,
+          "low_health": true
+        },
+        {
+          "tick": 10890,
+          "low_health": false
+        },
+        {
+          "tick": 45468,
+          "low_health": false
+        },
+        {
+          "tick": 45689,
+          "low_health": false
+        },
+        {
+          "tick": 58672,
+          "low_health": false
+        },
+        {
+          "tick": 70238,
+          "low_health": false
+        },
+        {
+          "tick": 86073,
+          "low_health": false
+        },
+        {
+          "tick": 141206,
+          "low_health": true
+        },
+        {
+          "tick": 163957,
+          "low_health": false
+        },
+        {
+          "tick": 199914,
+          "low_health": true
+        },
+        {
+          "tick": 222303,
+          "low_health": false
+        },
+        {
+          "tick": 257690,
+          "low_health": true
+        },
+        {
+          "tick": 296446,
+          "low_health": false
+        },
+        {
+          "tick": 319709,
+          "low_health": true
+        },
+        {
+          "tick": 359635,
+          "low_health": true
+        },
+        {
+          "tick": 406942,
+          "low_health": true
+        },
+        {
+          "tick": 424743,
+          "low_health": false
+        },
+        {
+          "tick": 434936,
+          "low_health": false
+        },
+        {
+          "tick": 493821,
+          "low_health": false
+        },
+        {
+          "tick": 501403,
+          "low_health": false
+        },
+        {
+          "tick": 502025,
+          "low_health": true
+        },
+        {
+          "tick": 503902,
+          "low_health": true
+        },
+        {
+          "tick": 521720,
+          "low_health": true
+        },
+        {
+          "tick": 576596,
+          "low_health": true
+        },
+        {
+          "tick": 622811,
+          "low_health": false
+        },
+        {
+          "tick": 704513,
+          "low_health": false
+        },
+        {
+          "tick": 763502,
+          "low_health": true
+        },
+        {
+          "tick": 830586,
+          "low_health": true
+        },
+        {
+          "tick": 890900,
+          "low_health": true
+        },
+        {
+          "tick": 940295,
+          "low_health": false
+        },
+        {
+          "tick": 942533,
+          "low_health": true
+        },
+        {
+          "tick": 967574,
+          "low_health": true
+        },
+        {
+          "tick": 972959,
+          "low_health": false
+        },
+        {
+          "tick": 1014884,
+          "low_health": true
+        },
+        {
+          "tick": 1121704,
+          "low_health": true
+        },
+        {
+          "tick": 1144644,
+          "low_health": true
+        },
+        {
+          "tick": 1165156,
+          "low_health": false
+        },
+        {
+          "tick": 1179908,
+          "low_health": false
+        },
+        {
+          "tick": 1188962,
+          "low_health": false
+        },
+        {
+          "tick": 1191989,
+          "low_health": false
+        },
+        {
+          "tick": 1254875,
+          "low_health": false
+        },
+        {
+          "tick": 1259737,
+          "low_health": true
+        },
+        {
+          "tick": 1320915,
+          "low_health": false
+        },
+        {
+          "tick": 1332649,
+          "low_health": false
+        },
+        {
+          "tick": 1350707,
+          "low_health": false
+        },
+        {
+          "tick": 1416081,
+          "low_health": true
+        },
+        {
+          "tick": 1434460,
+          "low_health": false
+        },
+        {
+          "tick": 1448827,
+          "low_health": false
+        },
+        {
+          "tick": 1451968,
+          "low_health": false
+        },
+        {
+          "tick": 1504403,
+          "low_health": false
+        },
+        {
+          "tick": 1560908,
+          "low_health": true
+        },
+        {
+          "tick": 1571430,
+          "low_health": true
+        },
+        {
+          "tick": 1621286,
+          "low_health": true
+        },
+        {
+          "tick": 1675069,
+          "low_health": true
+        },
+        {
+          "tick": 1702047,
+          "low_health": false
+        },
+        {
+          "tick": 1704695,
+          "low_health": false
+        },
+        {
+          "tick": 1706116,
+          "low_health": false
+        },
+        {
+          "tick": 1713421,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "00++-+---+",
+      "food": 19,
+      "error": 0.04455463960766792,
+      "max_error": 0.048132870346307755,
+      "margin": 0.035126734524965286,
+      "seconds": 85.51666666666667,
+      "pts": 5254144,
+      "time_base": "1/61440",
+      "frame": 5132,
+      "candidates": [
+        {
+          "tick": 36192,
+          "low_health": true
+        },
+        {
+          "tick": 45704,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0+--0---0",
+      "food": 19,
+      "error": 0.04293220862746239,
+      "max_error": 0.04520365223288536,
+      "margin": 0.03192252665758133,
+      "seconds": 92.6,
+      "pts": 5689344,
+      "time_base": "1/61440",
+      "frame": 5557,
+      "candidates": [
+        {
+          "tick": 45820,
+          "low_health": false
+        },
+        {
+          "tick": 61190,
+          "low_health": false
+        },
+        {
+          "tick": 368242,
+          "low_health": false
+        },
+        {
+          "tick": 1135176,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "--0-++-+-0",
+      "food": 18,
+      "error": 0.03924079239368439,
+      "max_error": 0.0440339557826519,
+      "margin": 0.03112545795738697,
+      "seconds": 97.86666666666666,
+      "pts": 6012928,
+      "time_base": "1/61440",
+      "frame": 5873,
+      "candidates": [
+        {
+          "tick": 45925,
+          "low_health": false
+        },
+        {
+          "tick": 869385,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-00---0++-",
+      "food": 18,
+      "error": 0.040516696870326996,
+      "max_error": 0.043153196573257446,
+      "margin": 0.030786704272031784,
+      "seconds": 100.6,
+      "pts": 6180864,
+      "time_base": "1/61440",
+      "frame": 6037,
+      "candidates": [
+        {
+          "tick": 45980,
+          "low_health": false
+        },
+        {
+          "tick": 1155935,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "000+0+--+0",
+      "food": 18,
+      "error": 0.03680356591939926,
+      "max_error": 0.04080384224653244,
+      "margin": 0.031165311112999916,
+      "seconds": 103.35,
+      "pts": 6349824,
+      "time_base": "1/61440",
+      "frame": 6202,
+      "candidates": [
+        {
+          "tick": 16280,
+          "low_health": true
+        },
+        {
+          "tick": 46035,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0-+0+-+0+",
+      "food": 17,
+      "error": 0.04510660842061043,
+      "max_error": 0.05222182348370552,
+      "margin": 0.030340347439050674,
+      "seconds": 107.8,
+      "pts": 6623232,
+      "time_base": "1/61440",
+      "frame": 6469,
+      "candidates": [
+        {
+          "tick": 46124,
+          "low_health": false
+        },
+        {
+          "tick": 525564,
+          "low_health": false
+        },
+        {
+          "tick": 958204,
+          "low_health": true
+        },
+        {
+          "tick": 1634984,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0+000++-+-",
+      "food": 17,
+      "error": 0.04278016835451126,
+      "max_error": 0.04930455982685089,
+      "margin": 0.028949465602636337,
+      "seconds": 110.4,
+      "pts": 6782976,
+      "time_base": "1/61440",
+      "frame": 6625,
+      "candidates": [
+        {
+          "tick": 46176,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+----00--+",
+      "food": 17,
+      "error": 0.03973936289548874,
+      "max_error": 0.04496253654360771,
+      "margin": 0.02953929454088211,
+      "seconds": 113.0,
+      "pts": 6942720,
+      "time_base": "1/61440",
+      "frame": 6781,
+      "candidates": [
+        {
+          "tick": 46228,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-+-+00---0",
+      "food": 17,
+      "error": 0.026547307148575783,
+      "max_error": 0.03095010295510292,
+      "margin": 0.03423003479838371,
+      "seconds": 115.6,
+      "pts": 7102464,
+      "time_base": "1/61440",
+      "frame": 6937,
+      "candidates": [
+        {
+          "tick": 46280,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0++0+-0+0-",
+      "food": 16,
+      "error": 0.024951379746198654,
+      "max_error": 0.030455922707915306,
+      "margin": 0.03399091213941574,
+      "seconds": 119.3,
+      "pts": 7329792,
+      "time_base": "1/61440",
+      "frame": 7159,
+      "candidates": [
+        {
+          "tick": 46354,
+          "low_health": false
+        },
+        {
+          "tick": 132006,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0+0+---0+",
+      "food": 16,
+      "error": 0.02758050337433815,
+      "max_error": 0.03595767542719841,
+      "margin": 0.033110152930021286,
+      "seconds": 121.75,
+      "pts": 7480320,
+      "time_base": "1/61440",
+      "frame": 7306,
+      "candidates": [
+        {
+          "tick": 46403,
+          "low_health": false
+        },
+        {
+          "tick": 161161,
+          "low_health": true
+        },
+        {
+          "tick": 1196923,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0+-+--++-",
+      "food": 16,
+      "error": 0.03257173299789429,
+      "max_error": 0.038673680275678635,
+      "margin": 0.0306711308658123,
+      "seconds": 124.2,
+      "pts": 7630848,
+      "time_base": "1/61440",
+      "frame": 7453,
+      "candidates": [
+        {
+          "tick": 46452,
+          "low_health": false
+        },
+        {
+          "tick": 151459,
+          "low_health": true
+        },
+        {
+          "tick": 1672860,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "00-+++--+-",
+      "food": 16,
+      "error": 0.024271680042147636,
+      "max_error": 0.03027857467532158,
+      "margin": 0.032811254262924194,
+      "seconds": 126.65,
+      "pts": 7781376,
+      "time_base": "1/61440",
+      "frame": 7600,
+      "candidates": [
+        {
+          "tick": 46501,
+          "low_health": false
+        },
+        {
+          "tick": 1129107,
+          "low_health": false
+        },
+        {
+          "tick": 1628711,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-+0---++0+",
+      "food": 16,
+      "error": 0.02455384097993374,
+      "max_error": 0.02980232797563076,
+      "margin": 0.03428582847118378,
+      "seconds": 129.1,
+      "pts": 7931904,
+      "time_base": "1/61440",
+      "frame": 7747,
+      "candidates": [
+        {
+          "tick": 46550,
+          "low_health": false
+        },
+        {
+          "tick": 928109,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0--0+000-+",
+      "food": 16,
+      "error": 0.02381974458694458,
+      "max_error": 0.028965407982468605,
+      "margin": 0.03374780714511871,
+      "seconds": 131.55,
+      "pts": 8082432,
+      "time_base": "1/61440",
+      "frame": 7894,
+      "candidates": [
+        {
+          "tick": 46599,
+          "low_health": false
+        },
+        {
+          "tick": 820309,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0-++-+0+00",
+      "food": 0,
+      "error": 0.060634545981884,
+      "max_error": 0.06997648626565933,
+      "margin": 0.006360592786222696,
+      "seconds": 134.75,
+      "pts": 8279040,
+      "time_base": "1/61440",
+      "frame": 8086,
+      "candidates": [
+        {
+          "tick": 17562,
+          "low_health": false
+        },
+        {
+          "tick": 72690,
+          "low_health": false
+        },
+        {
+          "tick": 88946,
+          "low_health": false
+        },
+        {
+          "tick": 93669,
+          "low_health": true
+        },
+        {
+          "tick": 107029,
+          "low_health": true
+        },
+        {
+          "tick": 112455,
+          "low_health": true
+        },
+        {
+          "tick": 121866,
+          "low_health": false
+        },
+        {
+          "tick": 154904,
+          "low_health": false
+        },
+        {
+          "tick": 177445,
+          "low_health": false
+        },
+        {
+          "tick": 258129,
+          "low_health": false
+        },
+        {
+          "tick": 260928,
+          "low_health": false
+        },
+        {
+          "tick": 287870,
+          "low_health": false
+        },
+        {
+          "tick": 379874,
+          "low_health": true
+        },
+        {
+          "tick": 402800,
+          "low_health": true
+        },
+        {
+          "tick": 474197,
+          "low_health": false
+        },
+        {
+          "tick": 482216,
+          "low_health": true
+        },
+        {
+          "tick": 489813,
+          "low_health": true
+        },
+        {
+          "tick": 588698,
+          "low_health": false
+        },
+        {
+          "tick": 610355,
+          "low_health": false
+        },
+        {
+          "tick": 640872,
+          "low_health": true
+        },
+        {
+          "tick": 666042,
+          "low_health": true
+        },
+        {
+          "tick": 687351,
+          "low_health": false
+        },
+        {
+          "tick": 755977,
+          "low_health": false
+        },
+        {
+          "tick": 796794,
+          "low_health": true
+        },
+        {
+          "tick": 802844,
+          "low_health": false
+        },
+        {
+          "tick": 818855,
+          "low_health": false
+        },
+        {
+          "tick": 829393,
+          "low_health": true
+        },
+        {
+          "tick": 833979,
+          "low_health": true
+        },
+        {
+          "tick": 858549,
+          "low_health": false
+        },
+        {
+          "tick": 868972,
+          "low_health": true
+        },
+        {
+          "tick": 883261,
+          "low_health": false
+        },
+        {
+          "tick": 915681,
+          "low_health": false
+        },
+        {
+          "tick": 946188,
+          "low_health": true
+        },
+        {
+          "tick": 947378,
+          "low_health": true
+        },
+        {
+          "tick": 950625,
+          "low_health": false
+        },
+        {
+          "tick": 1000355,
+          "low_health": false
+        },
+        {
+          "tick": 1041256,
+          "low_health": false
+        },
+        {
+          "tick": 1055963,
+          "low_health": true
+        },
+        {
+          "tick": 1062296,
+          "low_health": true
+        },
+        {
+          "tick": 1108595,
+          "low_health": false
+        },
+        {
+          "tick": 1111268,
+          "low_health": true
+        },
+        {
+          "tick": 1137980,
+          "low_health": false
+        },
+        {
+          "tick": 1139666,
+          "low_health": true
+        },
+        {
+          "tick": 1154256,
+          "low_health": true
+        },
+        {
+          "tick": 1195441,
+          "low_health": false
+        },
+        {
+          "tick": 1216923,
+          "low_health": false
+        },
+        {
+          "tick": 1217570,
+          "low_health": true
+        },
+        {
+          "tick": 1250898,
+          "low_health": false
+        },
+        {
+          "tick": 1301423,
+          "low_health": false
+        },
+        {
+          "tick": 1364038,
+          "low_health": false
+        },
+        {
+          "tick": 1366352,
+          "low_health": true
+        },
+        {
+          "tick": 1394663,
+          "low_health": true
+        },
+        {
+          "tick": 1431562,
+          "low_health": true
+        },
+        {
+          "tick": 1440160,
+          "low_health": false
+        },
+        {
+          "tick": 1549870,
+          "low_health": false
+        },
+        {
+          "tick": 1555521,
+          "low_health": true
+        },
+        {
+          "tick": 1566291,
+          "low_health": true
+        },
+        {
+          "tick": 1587993,
+          "low_health": true
+        },
+        {
+          "tick": 1625910,
+          "low_health": true
+        },
+        {
+          "tick": 1663878,
+          "low_health": true
+        },
+        {
+          "tick": 1666053,
+          "low_health": true
+        },
+        {
+          "tick": 1668684,
+          "low_health": true
+        },
+        {
+          "tick": 1672242,
+          "low_health": true
+        },
+        {
+          "tick": 1725463,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+--000-0++",
+      "food": 16,
+      "error": 0.024572571739554405,
+      "max_error": 0.03010919876396656,
+      "margin": 0.03438546136021614,
+      "seconds": 155.2,
+      "pts": 9535488,
+      "time_base": "1/61440",
+      "frame": 9313,
+      "candidates": [
+        {
+          "tick": 47040,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-+++-00+-+",
+      "food": 14,
+      "error": 0.03749840706586838,
+      "max_error": 0.04544675722718239,
+      "margin": 0.029236409813165665,
+      "seconds": 186.86666666666667,
+      "pts": 11481088,
+      "time_base": "1/61440",
+      "frame": 11213,
+      "candidates": [
+        {
+          "tick": 5848,
+          "low_health": false
+        },
+        {
+          "tick": 47644,
+          "low_health": false
+        },
+        {
+          "tick": 474935,
+          "low_health": true
+        },
+        {
+          "tick": 523482,
+          "low_health": false
+        },
+        {
+          "tick": 1347663,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0+--+-0-00",
+      "food": 0,
+      "error": 0.06079204007983208,
+      "max_error": 0.06828311830759048,
+      "margin": 0.007381635718047619,
+      "seconds": 191.16666666666666,
+      "pts": 11745280,
+      "time_base": "1/61440",
+      "frame": 11471,
+      "candidates": [
+        {
+          "tick": 4887,
+          "low_health": false
+        },
+        {
+          "tick": 30228,
+          "low_health": true
+        },
+        {
+          "tick": 137952,
+          "low_health": false
+        },
+        {
+          "tick": 166169,
+          "low_health": false
+        },
+        {
+          "tick": 215216,
+          "low_health": true
+        },
+        {
+          "tick": 250087,
+          "low_health": true
+        },
+        {
+          "tick": 250436,
+          "low_health": false
+        },
+        {
+          "tick": 257054,
+          "low_health": false
+        },
+        {
+          "tick": 258762,
+          "low_health": false
+        },
+        {
+          "tick": 346533,
+          "low_health": false
+        },
+        {
+          "tick": 379408,
+          "low_health": false
+        },
+        {
+          "tick": 418506,
+          "low_health": true
+        },
+        {
+          "tick": 430457,
+          "low_health": false
+        },
+        {
+          "tick": 444939,
+          "low_health": true
+        },
+        {
+          "tick": 455453,
+          "low_health": false
+        },
+        {
+          "tick": 515461,
+          "low_health": false
+        },
+        {
+          "tick": 551820,
+          "low_health": false
+        },
+        {
+          "tick": 585558,
+          "low_health": false
+        },
+        {
+          "tick": 587911,
+          "low_health": false
+        },
+        {
+          "tick": 687386,
+          "low_health": true
+        },
+        {
+          "tick": 759649,
+          "low_health": false
+        },
+        {
+          "tick": 763344,
+          "low_health": true
+        },
+        {
+          "tick": 794761,
+          "low_health": true
+        },
+        {
+          "tick": 798645,
+          "low_health": true
+        },
+        {
+          "tick": 837815,
+          "low_health": false
+        },
+        {
+          "tick": 873528,
+          "low_health": true
+        },
+        {
+          "tick": 941430,
+          "low_health": false
+        },
+        {
+          "tick": 963198,
+          "low_health": false
+        },
+        {
+          "tick": 968937,
+          "low_health": false
+        },
+        {
+          "tick": 975709,
+          "low_health": true
+        },
+        {
+          "tick": 986559,
+          "low_health": false
+        },
+        {
+          "tick": 995169,
+          "low_health": false
+        },
+        {
+          "tick": 996072,
+          "low_health": false
+        },
+        {
+          "tick": 1048595,
+          "low_health": true
+        },
+        {
+          "tick": 1051001,
+          "low_health": true
+        },
+        {
+          "tick": 1053559,
+          "low_health": true
+        },
+        {
+          "tick": 1069040,
+          "low_health": true
+        },
+        {
+          "tick": 1105720,
+          "low_health": true
+        },
+        {
+          "tick": 1122568,
+          "low_health": false
+        },
+        {
+          "tick": 1141341,
+          "low_health": false
+        },
+        {
+          "tick": 1179177,
+          "low_health": true
+        },
+        {
+          "tick": 1294613,
+          "low_health": true
+        },
+        {
+          "tick": 1315396,
+          "low_health": true
+        },
+        {
+          "tick": 1349429,
+          "low_health": true
+        },
+        {
+          "tick": 1369201,
+          "low_health": false
+        },
+        {
+          "tick": 1441978,
+          "low_health": false
+        },
+        {
+          "tick": 1455731,
+          "low_health": false
+        },
+        {
+          "tick": 1479900,
+          "low_health": true
+        },
+        {
+          "tick": 1654917,
+          "low_health": false
+        },
+        {
+          "tick": 1665989,
+          "low_health": false
+        },
+        {
+          "tick": 1692968,
+          "low_health": false
+        },
+        {
+          "tick": 1718416,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-00--++0--",
+      "food": 14,
+      "error": 0.02730332314968109,
+      "max_error": 0.035463493317365646,
+      "margin": 0.03275546059012413,
+      "seconds": 193.31666666666666,
+      "pts": 11877376,
+      "time_base": "1/61440",
+      "frame": 11600,
+      "candidates": [
+        {
+          "tick": 47773,
+          "low_health": false
+        },
+        {
+          "tick": 149038,
+          "low_health": false
+        },
+        {
+          "tick": 666801,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+-++0--0+-",
+      "food": 20,
+      "error": 0.03169436380267143,
+      "max_error": 0.032942771911621094,
+      "margin": 0.03367607295513153,
+      "seconds": 201.96666666666667,
+      "pts": 12408832,
+      "time_base": "1/61440",
+      "frame": 12119,
+      "candidates": [
+        {
+          "tick": 47946,
+          "low_health": false
+        },
+        {
+          "tick": 483974,
+          "low_health": false
+        },
+        {
+          "tick": 720837,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0+--0+++-+",
+      "food": 0,
+      "error": 0.059975214302539825,
+      "max_error": 0.06674198806285858,
+      "margin": 0.023691615089774132,
+      "seconds": 205.86666666666667,
+      "pts": 12648448,
+      "time_base": "1/61440",
+      "frame": 12353,
+      "candidates": [
+        {
+          "tick": 27368,
+          "low_health": true
+        },
+        {
+          "tick": 48024,
+          "low_health": false
+        },
+        {
+          "tick": 86075,
+          "low_health": true
+        },
+        {
+          "tick": 95733,
+          "low_health": false
+        },
+        {
+          "tick": 195901,
+          "low_health": true
+        },
+        {
+          "tick": 232188,
+          "low_health": true
+        },
+        {
+          "tick": 241152,
+          "low_health": false
+        },
+        {
+          "tick": 252457,
+          "low_health": false
+        },
+        {
+          "tick": 320346,
+          "low_health": true
+        },
+        {
+          "tick": 355949,
+          "low_health": true
+        },
+        {
+          "tick": 394898,
+          "low_health": false
+        },
+        {
+          "tick": 405188,
+          "low_health": true
+        },
+        {
+          "tick": 413463,
+          "low_health": true
+        },
+        {
+          "tick": 460764,
+          "low_health": false
+        },
+        {
+          "tick": 547687,
+          "low_health": false
+        },
+        {
+          "tick": 623992,
+          "low_health": false
+        },
+        {
+          "tick": 638493,
+          "low_health": true
+        },
+        {
+          "tick": 647379,
+          "low_health": true
+        },
+        {
+          "tick": 690689,
+          "low_health": true
+        },
+        {
+          "tick": 724831,
+          "low_health": true
+        },
+        {
+          "tick": 783444,
+          "low_health": false
+        },
+        {
+          "tick": 950059,
+          "low_health": false
+        },
+        {
+          "tick": 987588,
+          "low_health": true
+        },
+        {
+          "tick": 1051765,
+          "low_health": false
+        },
+        {
+          "tick": 1090717,
+          "low_health": false
+        },
+        {
+          "tick": 1107827,
+          "low_health": true
+        },
+        {
+          "tick": 1142321,
+          "low_health": false
+        },
+        {
+          "tick": 1150362,
+          "low_health": true
+        },
+        {
+          "tick": 1196397,
+          "low_health": true
+        },
+        {
+          "tick": 1203692,
+          "low_health": true
+        },
+        {
+          "tick": 1229935,
+          "low_health": false
+        },
+        {
+          "tick": 1232638,
+          "low_health": false
+        },
+        {
+          "tick": 1271697,
+          "low_health": false
+        },
+        {
+          "tick": 1318611,
+          "low_health": true
+        },
+        {
+          "tick": 1350531,
+          "low_health": true
+        },
+        {
+          "tick": 1459862,
+          "low_health": false
+        },
+        {
+          "tick": 1471250,
+          "low_health": true
+        },
+        {
+          "tick": 1489396,
+          "low_health": true
+        },
+        {
+          "tick": 1491453,
+          "low_health": false
+        },
+        {
+          "tick": 1529454,
+          "low_health": true
+        },
+        {
+          "tick": 1552010,
+          "low_health": true
+        },
+        {
+          "tick": 1565392,
+          "low_health": true
+        },
+        {
+          "tick": 1565994,
+          "low_health": true
+        },
+        {
+          "tick": 1607197,
+          "low_health": false
+        },
+        {
+          "tick": 1631288,
+          "low_health": true
+        },
+        {
+          "tick": 1685462,
+          "low_health": false
+        },
+        {
+          "tick": 1689104,
+          "low_health": false
+        },
+        {
+          "tick": 1703946,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0-+0+--0+-",
+      "food": 19,
+      "error": 0.041251398622989655,
+      "max_error": 0.04226446524262428,
+      "margin": 0.03279132768511772,
+      "seconds": 210.16666666666666,
+      "pts": 12912640,
+      "time_base": "1/61440",
+      "frame": 12611,
+      "candidates": [
+        {
+          "tick": 48082,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0--0++0-00",
+      "food": 17,
+      "error": 0.04271440953016281,
+      "max_error": 0.04713255167007446,
+      "margin": 0.03163956478238106,
+      "seconds": 211.06666666666666,
+      "pts": 12967936,
+      "time_base": "1/61440",
+      "frame": 12665,
+      "candidates": [
+        {
+          "tick": 48100,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0+--+-000",
+      "food": 17,
+      "error": 0.04217838495969772,
+      "max_error": 0.047620754688978195,
+      "margin": 0.030667144805192947,
+      "seconds": 213.66666666666666,
+      "pts": 13127680,
+      "time_base": "1/61440",
+      "frame": 12821,
+      "candidates": [
+        {
+          "tick": 48152,
+          "low_health": false
+        },
+        {
+          "tick": 205660,
+          "low_health": true
+        },
+        {
+          "tick": 641472,
+          "low_health": false
+        },
+        {
+          "tick": 1566032,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "---0-+0-++",
+      "food": 17,
+      "error": 0.04112207144498825,
+      "max_error": 0.044412560760974884,
+      "margin": 0.03256017714738846,
+      "seconds": 216.26666666666668,
+      "pts": 13287424,
+      "time_base": "1/61440",
+      "frame": 12977,
+      "candidates": [
+        {
+          "tick": 48204,
+          "low_health": false
+        },
+        {
+          "tick": 1132040,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "000-0+0+0+",
+      "food": 16,
+      "error": 0.03309939429163933,
+      "max_error": 0.03834688290953636,
+      "margin": 0.031603697687387466,
+      "seconds": 219.31666666666666,
+      "pts": 13474816,
+      "time_base": "1/61440",
+      "frame": 13160,
+      "candidates": [
+        {
+          "tick": 48265,
+          "low_health": false
+        },
+        {
+          "tick": 210553,
+          "low_health": true
+        },
+        {
+          "tick": 838243,
+          "low_health": true
+        },
+        {
+          "tick": 928991,
+          "low_health": true
+        },
+        {
+          "tick": 1131116,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-00---+-++",
+      "food": 16,
+      "error": 0.03594472259283066,
+      "max_error": 0.04036744683980942,
+      "margin": 0.03299059346318245,
+      "seconds": 224.21666666666667,
+      "pts": 13775872,
+      "time_base": "1/61440",
+      "frame": 13454,
+      "candidates": [
+        {
+          "tick": 48363,
+          "low_health": false
+        },
+        {
+          "tick": 850983,
+          "low_health": true
+        },
+        {
+          "tick": 1327557,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0-0+-0--0+",
+      "food": 15,
+      "error": 0.03811653330922127,
+      "max_error": 0.09172844141721725,
+      "margin": 0.009636537171900272,
+      "seconds": 230.28333333333333,
+      "pts": 14148608,
+      "time_base": "1/61440",
+      "frame": 13818,
+      "candidates": [
+        {
+          "tick": 48484,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0000-++--",
+      "food": 15,
+      "error": 0.02671070396900177,
+      "max_error": 0.034425314515829086,
+      "margin": 0.03423401713371277,
+      "seconds": 232.56666666666666,
+      "pts": 14288896,
+      "time_base": "1/61440",
+      "frame": 13955,
+      "candidates": [
+        {
+          "tick": 48530,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0+--+-++-",
+      "food": 15,
+      "error": 0.038676075637340546,
+      "max_error": 0.046516817063093185,
+      "margin": 0.03133269399404526,
+      "seconds": 234.86666666666667,
+      "pts": 14430208,
+      "time_base": "1/61440",
+      "frame": 14093,
+      "candidates": [
+        {
+          "tick": 48576,
+          "low_health": false
+        },
+        {
+          "tick": 272458,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+-++--+000",
+      "food": 15,
+      "error": 0.03234437108039856,
+      "max_error": 0.03859596699476242,
+      "margin": 0.03236091136932373,
+      "seconds": 239.46666666666667,
+      "pts": 14712832,
+      "time_base": "1/61440",
+      "frame": 14369,
+      "candidates": [
+        {
+          "tick": 48668,
+          "low_health": false
+        },
+        {
+          "tick": 729974,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-+0--+++0-",
+      "food": 15,
+      "error": 0.03088892623782158,
+      "max_error": 0.03904033079743385,
+      "margin": 0.03304639086127281,
+      "seconds": 241.75,
+      "pts": 14853120,
+      "time_base": "1/61440",
+      "frame": 14506,
+      "candidates": [
+        {
+          "tick": 48714,
+          "low_health": false
+        },
+        {
+          "tick": 1051192,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++++000++-",
+      "food": 0,
+      "error": 0.06150836870074272,
+      "max_error": 0.06537860631942749,
+      "margin": 0.0209305752068758,
+      "seconds": 253.7,
+      "pts": 15587328,
+      "time_base": "1/61440",
+      "frame": 15223,
+      "candidates": [
+        {
+          "tick": 7357,
+          "low_health": true
+        },
+        {
+          "tick": 48952,
+          "low_health": false
+        },
+        {
+          "tick": 143281,
+          "low_health": false
+        },
+        {
+          "tick": 155093,
+          "low_health": false
+        },
+        {
+          "tick": 238481,
+          "low_health": true
+        },
+        {
+          "tick": 360877,
+          "low_health": false
+        },
+        {
+          "tick": 370542,
+          "low_health": false
+        },
+        {
+          "tick": 372053,
+          "low_health": true
+        },
+        {
+          "tick": 441598,
+          "low_health": true
+        },
+        {
+          "tick": 460692,
+          "low_health": true
+        },
+        {
+          "tick": 465331,
+          "low_health": true
+        },
+        {
+          "tick": 481346,
+          "low_health": false
+        },
+        {
+          "tick": 527270,
+          "low_health": false
+        },
+        {
+          "tick": 528628,
+          "low_health": false
+        },
+        {
+          "tick": 529030,
+          "low_health": false
+        },
+        {
+          "tick": 549022,
+          "low_health": true
+        },
+        {
+          "tick": 567865,
+          "low_health": true
+        },
+        {
+          "tick": 578914,
+          "low_health": false
+        },
+        {
+          "tick": 595835,
+          "low_health": true
+        },
+        {
+          "tick": 601686,
+          "low_health": true
+        },
+        {
+          "tick": 667208,
+          "low_health": false
+        },
+        {
+          "tick": 676624,
+          "low_health": false
+        },
+        {
+          "tick": 681000,
+          "low_health": true
+        },
+        {
+          "tick": 694785,
+          "low_health": true
+        },
+        {
+          "tick": 698040,
+          "low_health": true
+        },
+        {
+          "tick": 705088,
+          "low_health": true
+        },
+        {
+          "tick": 746393,
+          "low_health": true
+        },
+        {
+          "tick": 814974,
+          "low_health": true
+        },
+        {
+          "tick": 853758,
+          "low_health": true
+        },
+        {
+          "tick": 869795,
+          "low_health": false
+        },
+        {
+          "tick": 872232,
+          "low_health": false
+        },
+        {
+          "tick": 953322,
+          "low_health": true
+        },
+        {
+          "tick": 1026035,
+          "low_health": true
+        },
+        {
+          "tick": 1075377,
+          "low_health": true
+        },
+        {
+          "tick": 1075539,
+          "low_health": false
+        },
+        {
+          "tick": 1087554,
+          "low_health": true
+        },
+        {
+          "tick": 1182130,
+          "low_health": false
+        },
+        {
+          "tick": 1337334,
+          "low_health": false
+        },
+        {
+          "tick": 1349974,
+          "low_health": true
+        },
+        {
+          "tick": 1356090,
+          "low_health": true
+        },
+        {
+          "tick": 1404834,
+          "low_health": true
+        },
+        {
+          "tick": 1424796,
+          "low_health": true
+        },
+        {
+          "tick": 1436616,
+          "low_health": false
+        },
+        {
+          "tick": 1522278,
+          "low_health": true
+        },
+        {
+          "tick": 1597732,
+          "low_health": false
+        },
+        {
+          "tick": 1633813,
+          "low_health": true
+        },
+        {
+          "tick": 1656131,
+          "low_health": false
+        },
+        {
+          "tick": 1676935,
+          "low_health": true
+        },
+        {
+          "tick": 1704277,
+          "low_health": true
+        },
+        {
+          "tick": 1724113,
+          "low_health": true
+        },
+        {
+          "tick": 1726227,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "--0+-+++00",
+      "food": 19,
+      "error": 0.04094571992754936,
+      "max_error": 0.09233421087265015,
+      "margin": 0.013709548860788345,
+      "seconds": 256.56666666666666,
+      "pts": 15763456,
+      "time_base": "1/61440",
+      "frame": 15395,
+      "candidates": [
+        {
+          "tick": 49010,
+          "low_health": false
+        },
+        {
+          "tick": 247196,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0++0-+00++",
+      "food": 17,
+      "error": 0.038688819855451584,
+      "max_error": 0.08857006579637527,
+      "margin": 0.013207396492362022,
+      "seconds": 257.8666666666667,
+      "pts": 15843328,
+      "time_base": "1/61440",
+      "frame": 15473,
+      "candidates": [
+        {
+          "tick": 49036,
+          "low_health": false
+        },
+        {
+          "tick": 725972,
+          "low_health": true
+        },
+        {
+          "tick": 773760,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0+-00++--+",
+      "food": 17,
+      "error": 0.034799735993146896,
+      "max_error": 0.037503983825445175,
+      "margin": 0.03337717056274414,
+      "seconds": 260.46666666666664,
+      "pts": 16003072,
+      "time_base": "1/61440",
+      "frame": 15629,
+      "candidates": [
+        {
+          "tick": 49088,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++-+00-0-0",
+      "food": 17,
+      "error": 0.046695757657289505,
+      "max_error": 0.0654989629983902,
+      "margin": 0.030595408752560616,
+      "seconds": 263.06666666666666,
+      "pts": 16162816,
+      "time_base": "1/61440",
+      "frame": 15785,
+      "candidates": [
+        {
+          "tick": 49140,
+          "low_health": false
+        },
+        {
+          "tick": 981656,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+0+00+++--",
+      "food": 17,
+      "error": 0.042624738067388535,
+      "max_error": 0.04640522971749306,
+      "margin": 0.03142435848712921,
+      "seconds": 265.6666666666667,
+      "pts": 16322560,
+      "time_base": "1/61440",
+      "frame": 15941,
+      "candidates": [
+        {
+          "tick": 49192,
+          "low_health": false
+        },
+        {
+          "tick": 54496,
+          "low_health": false
+        },
+        {
+          "tick": 1437748,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0-+0++0--",
+      "food": 17,
+      "error": 0.03354037180542946,
+      "max_error": 0.038892872631549835,
+      "margin": 0.03264785557985306,
+      "seconds": 268.26666666666665,
+      "pts": 16482304,
+      "time_base": "1/61440",
+      "frame": 16097,
+      "candidates": [
+        {
+          "tick": 49244,
+          "low_health": false
+        },
+        {
+          "tick": 169312,
+          "low_health": true
+        },
+        {
+          "tick": 252148,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "000-+-+-00",
+      "food": 17,
+      "error": 0.03418739140033722,
+      "max_error": 0.04208911210298538,
+      "margin": 0.031013868749141693,
+      "seconds": 270.8666666666667,
+      "pts": 16642048,
+      "time_base": "1/61440",
+      "frame": 16253,
+      "candidates": [
+        {
+          "tick": 49296,
+          "low_health": false
+        },
+        {
+          "tick": 1211808,
+          "low_health": true
+        },
+        {
+          "tick": 1369784,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++0+-0-0+-",
+      "food": 17,
+      "error": 0.031973935663700104,
+      "max_error": 0.03636019304394722,
+      "margin": 0.03421010822057724,
+      "seconds": 273.46666666666664,
+      "pts": 16801792,
+      "time_base": "1/61440",
+      "frame": 16409,
+      "candidates": [
+        {
+          "tick": 49348,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+-0+-++-0+",
+      "food": 17,
+      "error": 0.047440219670534134,
+      "max_error": 0.06516220420598984,
+      "margin": 0.034783996641635895,
+      "seconds": 278.6666666666667,
+      "pts": 17121280,
+      "time_base": "1/61440",
+      "frame": 16721,
+      "candidates": [
+        {
+          "tick": 49452,
+          "low_health": false
+        },
+        {
+          "tick": 422656,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+-0+00--0+",
+      "food": 17,
+      "error": 0.049505218863487244,
+      "max_error": 0.06961182504892349,
+      "margin": 0.03319384530186653,
+      "seconds": 281.26666666666665,
+      "pts": 17281024,
+      "time_base": "1/61440",
+      "frame": 16877,
+      "candidates": [
+        {
+          "tick": 49504,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "--0---00+0",
+      "food": 17,
+      "error": 0.039695918560028076,
+      "max_error": 0.04277857393026352,
+      "margin": 0.03056352585554123,
+      "seconds": 283.8666666666667,
+      "pts": 17440768,
+      "time_base": "1/61440",
+      "frame": 17033,
+      "candidates": [
+        {
+          "tick": 49556,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+000-+-00-",
+      "food": 0,
+      "error": 0.06219802424311638,
+      "max_error": 0.0654069036245346,
+      "margin": 0.0206675436347723,
+      "seconds": 286.46666666666664,
+      "pts": 17600512,
+      "time_base": "1/61440",
+      "frame": 17189,
+      "candidates": [
+        {
+          "tick": 11399,
+          "low_health": false
+        },
+        {
+          "tick": 35806,
+          "low_health": true
+        },
+        {
+          "tick": 47150,
+          "low_health": true
+        },
+        {
+          "tick": 47248,
+          "low_health": false
+        },
+        {
+          "tick": 49608,
+          "low_health": false
+        },
+        {
+          "tick": 66024,
+          "low_health": false
+        },
+        {
+          "tick": 102843,
+          "low_health": true
+        },
+        {
+          "tick": 116662,
+          "low_health": true
+        },
+        {
+          "tick": 169114,
+          "low_health": true
+        },
+        {
+          "tick": 182988,
+          "low_health": true
+        },
+        {
+          "tick": 208765,
+          "low_health": false
+        },
+        {
+          "tick": 213936,
+          "low_health": false
+        },
+        {
+          "tick": 253929,
+          "low_health": false
+        },
+        {
+          "tick": 321750,
+          "low_health": true
+        },
+        {
+          "tick": 337873,
+          "low_health": false
+        },
+        {
+          "tick": 341354,
+          "low_health": false
+        },
+        {
+          "tick": 388202,
+          "low_health": true
+        },
+        {
+          "tick": 395715,
+          "low_health": false
+        },
+        {
+          "tick": 400636,
+          "low_health": false
+        },
+        {
+          "tick": 441529,
+          "low_health": true
+        },
+        {
+          "tick": 466295,
+          "low_health": true
+        },
+        {
+          "tick": 520783,
+          "low_health": false
+        },
+        {
+          "tick": 522322,
+          "low_health": true
+        },
+        {
+          "tick": 531841,
+          "low_health": false
+        },
+        {
+          "tick": 547149,
+          "low_health": false
+        },
+        {
+          "tick": 573178,
+          "low_health": false
+        },
+        {
+          "tick": 584904,
+          "low_health": true
+        },
+        {
+          "tick": 631625,
+          "low_health": true
+        },
+        {
+          "tick": 684843,
+          "low_health": true
+        },
+        {
+          "tick": 705956,
+          "low_health": true
+        },
+        {
+          "tick": 803503,
+          "low_health": false
+        },
+        {
+          "tick": 818977,
+          "low_health": true
+        },
+        {
+          "tick": 827013,
+          "low_health": true
+        },
+        {
+          "tick": 922886,
+          "low_health": true
+        },
+        {
+          "tick": 944559,
+          "low_health": false
+        },
+        {
+          "tick": 962086,
+          "low_health": true
+        },
+        {
+          "tick": 982044,
+          "low_health": false
+        },
+        {
+          "tick": 982233,
+          "low_health": false
+        },
+        {
+          "tick": 984308,
+          "low_health": false
+        },
+        {
+          "tick": 1000149,
+          "low_health": false
+        },
+        {
+          "tick": 1004282,
+          "low_health": true
+        },
+        {
+          "tick": 1016076,
+          "low_health": true
+        },
+        {
+          "tick": 1041806,
+          "low_health": false
+        },
+        {
+          "tick": 1084495,
+          "low_health": false
+        },
+        {
+          "tick": 1118647,
+          "low_health": true
+        },
+        {
+          "tick": 1173872,
+          "low_health": false
+        },
+        {
+          "tick": 1187193,
+          "low_health": true
+        },
+        {
+          "tick": 1366164,
+          "low_health": true
+        },
+        {
+          "tick": 1410566,
+          "low_health": false
+        },
+        {
+          "tick": 1422017,
+          "low_health": true
+        },
+        {
+          "tick": 1426749,
+          "low_health": false
+        },
+        {
+          "tick": 1433181,
+          "low_health": true
+        },
+        {
+          "tick": 1484848,
+          "low_health": true
+        },
+        {
+          "tick": 1490026,
+          "low_health": true
+        },
+        {
+          "tick": 1516473,
+          "low_health": false
+        },
+        {
+          "tick": 1530971,
+          "low_health": true
+        },
+        {
+          "tick": 1562659,
+          "low_health": true
+        },
+        {
+          "tick": 1568621,
+          "low_health": false
+        },
+        {
+          "tick": 1617029,
+          "low_health": true
+        },
+        {
+          "tick": 1667749,
+          "low_health": true
+        },
+        {
+          "tick": 1683898,
+          "low_health": true
+        },
+        {
+          "tick": 1709714,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0+0-++00-",
+      "food": 17,
+      "error": 0.030845489352941513,
+      "max_error": 0.035772357136011124,
+      "margin": 0.03399091213941574,
+      "seconds": 289.06666666666666,
+      "pts": 17760256,
+      "time_base": "1/61440",
+      "frame": 17345,
+      "candidates": [
+        {
+          "tick": 49660,
+          "low_health": false
+        },
+        {
+          "tick": 601120,
+          "low_health": true
+        },
+        {
+          "tick": 1160380,
+          "low_health": true
+        },
+        {
+          "tick": 1445080,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0--0++0+0+",
+      "food": 17,
+      "error": 0.033160969614982605,
+      "max_error": 0.036123067140579224,
+      "margin": 0.03510282188653946,
+      "seconds": 292.71666666666664,
+      "pts": 17984512,
+      "time_base": "1/61440",
+      "frame": 17564,
+      "candidates": [
+        {
+          "tick": 49712,
+          "low_health": false
+        },
+        {
+          "tick": 417352,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "---+--++-0",
+      "food": 17,
+      "error": 0.03092041239142418,
+      "max_error": 0.03475211188197136,
+      "margin": 0.03409851714968681,
+      "seconds": 302.71666666666664,
+      "pts": 18598912,
+      "time_base": "1/61440",
+      "frame": 18164,
+      "candidates": [
+        {
+          "tick": 49764,
+          "low_health": false
+        },
+        {
+          "tick": 441376,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-00+-+++-+",
+      "food": 17,
+      "error": 0.03299538046121597,
+      "max_error": 0.03584807738661766,
+      "margin": 0.03470827266573906,
+      "seconds": 306.05,
+      "pts": 18803712,
+      "time_base": "1/61440",
+      "frame": 18364,
+      "candidates": [
+        {
+          "tick": 49816,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "000---+--0",
+      "food": 17,
+      "error": 0.032508768141269684,
+      "max_error": 0.03570859134197235,
+      "margin": 0.03313007950782776,
+      "seconds": 312.1,
+      "pts": 19175424,
+      "time_base": "1/61440",
+      "frame": 18727,
+      "candidates": [
+        {
+          "tick": 49868,
+          "low_health": false
+        },
+        {
+          "tick": 837252,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+-++----00",
+      "food": 17,
+      "error": 0.03612027317285538,
+      "max_error": 0.03940299525856972,
+      "margin": 0.03176311030983925,
+      "seconds": 316.1333333333333,
+      "pts": 19423232,
+      "time_base": "1/61440",
+      "frame": 18969,
+      "candidates": [
+        {
+          "tick": 49920,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0+-++0+-+0",
+      "food": 17,
+      "error": 0.03757472708821297,
+      "max_error": 0.042708832770586014,
+      "margin": 0.03334130346775055,
+      "seconds": 318.73333333333335,
+      "pts": 19582976,
+      "time_base": "1/61440",
+      "frame": 19125,
+      "candidates": [
+        {
+          "tick": 49972,
+          "low_health": false
+        },
+        {
+          "tick": 551668,
+          "low_health": true
+        },
+        {
+          "tick": 624208,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+-+++-+--+",
+      "food": 17,
+      "error": 0.03241809830069542,
+      "max_error": 0.035646818578243256,
+      "margin": 0.03283118084073067,
+      "seconds": 321.3333333333333,
+      "pts": 19742720,
+      "time_base": "1/61440",
+      "frame": 19281,
+      "candidates": [
+        {
+          "tick": 50024,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0-0+-0-0+",
+      "food": 17,
+      "error": 0.03275366872549057,
+      "max_error": 0.0355989970266819,
+      "margin": 0.032767415046691895,
+      "seconds": 323.93333333333334,
+      "pts": 19902464,
+      "time_base": "1/61440",
+      "frame": 19437,
+      "candidates": [
+        {
+          "tick": 50076,
+          "low_health": false
+        },
+        {
+          "tick": 532480,
+          "low_health": false
+        },
+        {
+          "tick": 614796,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+-00+0-00+",
+      "food": 17,
+      "error": 0.041199784725904465,
+      "max_error": 0.06425155699253082,
+      "margin": 0.031539931893348694,
+      "seconds": 326.53333333333336,
+      "pts": 20062208,
+      "time_base": "1/61440",
+      "frame": 19593,
+      "candidates": [
+        {
+          "tick": 50128,
+          "low_health": false
+        },
+        {
+          "tick": 889460,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0-+0-0---+",
+      "food": 16,
+      "error": 0.04059082642197609,
+      "max_error": 0.060507334768772125,
+      "margin": 0.030703013762831688,
+      "seconds": 328.93333333333334,
+      "pts": 20209664,
+      "time_base": "1/61440",
+      "frame": 19737,
+      "candidates": [
+        {
+          "tick": 50176,
+          "low_health": false
+        },
+        {
+          "tick": 699720,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0-+0-0--++",
+      "food": 16,
+      "error": 0.0445217601954937,
+      "max_error": 0.048790451139211655,
+      "margin": 0.029098916798830032,
+      "seconds": 331.3833333333333,
+      "pts": 20360192,
+      "time_base": "1/61440",
+      "frame": 19884,
+      "candidates": [
+        {
+          "tick": 50225,
+          "low_health": false
+        },
+        {
+          "tick": 110544,
+          "low_health": false
+        },
+        {
+          "tick": 808598,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0-0++-00++",
+      "food": 16,
+      "error": 0.045518286526203156,
+      "max_error": 0.051428742706775665,
+      "margin": 0.02769807167351246,
+      "seconds": 333.8333333333333,
+      "pts": 20510720,
+      "time_base": "1/61440",
+      "frame": 20031,
+      "candidates": [
+        {
+          "tick": 50274,
+          "low_health": false
+        },
+        {
+          "tick": 679042,
+          "low_health": true
+        },
+        {
+          "tick": 1223285,
+          "low_health": true
+        },
+        {
+          "tick": 1416933,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0+00+++--",
+      "food": 16,
+      "error": 0.031925514340400696,
+      "max_error": 0.03684839606285095,
+      "margin": 0.03262394294142723,
+      "seconds": 336.28333333333336,
+      "pts": 20661248,
+      "time_base": "1/61440",
+      "frame": 20178,
+      "candidates": [
+        {
+          "tick": 50323,
+          "low_health": false
+        },
+        {
+          "tick": 383670,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++----+0--",
+      "food": 16,
+      "error": 0.04073967784643173,
+      "max_error": 0.045919019728899,
+      "margin": 0.0317670963704586,
+      "seconds": 338.73333333333335,
+      "pts": 20811776,
+      "time_base": "1/61440",
+      "frame": 20325,
+      "candidates": [
+        {
+          "tick": 50372,
+          "low_health": false
+        },
+        {
+          "tick": 1200059,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "---+0+0-+0",
+      "food": 15,
+      "error": 0.03926650062203407,
+      "max_error": 0.05830543488264084,
+      "margin": 0.0330384187400341,
+      "seconds": 340.93333333333334,
+      "pts": 20946944,
+      "time_base": "1/61440",
+      "frame": 20457,
+      "candidates": [
+        {
+          "tick": 50416,
+          "low_health": false
+        },
+        {
+          "tick": 1527430,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+00-+0-0-+",
+      "food": 15,
+      "error": 0.03131755068898201,
+      "max_error": 0.053022876381874084,
+      "margin": 0.032364897429943085,
+      "seconds": 343.23333333333335,
+      "pts": 21088256,
+      "time_base": "1/61440",
+      "frame": 20595,
+      "candidates": [
+        {
+          "tick": 50462,
+          "low_health": false
+        },
+        {
+          "tick": 674130,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "--0++0-+0+",
+      "food": 15,
+      "error": 0.03789335489273071,
+      "max_error": 0.05961860343813896,
+      "margin": 0.03056352585554123,
+      "seconds": 345.53333333333336,
+      "pts": 21229568,
+      "time_base": "1/61440",
+      "frame": 20733,
+      "candidates": [
+        {
+          "tick": 50508,
+          "low_health": false
+        },
+        {
+          "tick": 356914,
+          "low_health": true
+        },
+        {
+          "tick": 1593532,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0++0-++--",
+      "food": 14,
+      "error": 0.03073449805378914,
+      "max_error": 0.03898254409432411,
+      "margin": 0.03168739005923271,
+      "seconds": 348.53333333333336,
+      "pts": 21413888,
+      "time_base": "1/61440",
+      "frame": 20913,
+      "candidates": [
+        {
+          "tick": 50568,
+          "low_health": false
+        },
+        {
+          "tick": 1572639,
+          "low_health": false
+        },
+        {
+          "tick": 1675925,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+--+--00++",
+      "food": 14,
+      "error": 0.03190777823328972,
+      "max_error": 0.0398254431784153,
+      "margin": 0.031890641897916794,
+      "seconds": 350.68333333333334,
+      "pts": 21545984,
+      "time_base": "1/61440",
+      "frame": 21042,
+      "candidates": [
+        {
+          "tick": 50611,
+          "low_health": false
+        },
+        {
+          "tick": 316050,
+          "low_health": false
+        },
+        {
+          "tick": 1349641,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "--0-0+-+-0",
+      "food": 14,
+      "error": 0.029207315295934677,
+      "max_error": 0.0372210256755352,
+      "margin": 0.03252431005239487,
+      "seconds": 352.8333333333333,
+      "pts": 21678080,
+      "time_base": "1/61440",
+      "frame": 21171,
+      "candidates": [
+        {
+          "tick": 50654,
+          "low_health": false
+        },
+        {
+          "tick": 1488187,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-+000++0+-",
+      "food": 14,
+      "error": 0.041768889874219894,
+      "max_error": 0.04603060707449913,
+      "margin": 0.03262394294142723,
+      "seconds": 354.98333333333335,
+      "pts": 21810176,
+      "time_base": "1/61440",
+      "frame": 21300,
+      "candidates": [
+        {
+          "tick": 50697,
+          "low_health": false
+        },
+        {
+          "tick": 94514,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0--+0+0++0",
+      "food": 14,
+      "error": 0.039991434663534164,
+      "max_error": 0.05296110361814499,
+      "margin": 0.029387852177023888,
+      "seconds": 357.1333333333333,
+      "pts": 21942272,
+      "time_base": "1/61440",
+      "frame": 21429,
+      "candidates": [
+        {
+          "tick": 50740,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+++--++-00",
+      "food": 13,
+      "error": 0.04406503960490227,
+      "max_error": 0.05154232308268547,
+      "margin": 0.03073888085782528,
+      "seconds": 358.1333333333333,
+      "pts": 22003712,
+      "time_base": "1/61440",
+      "frame": 21489,
+      "candidates": [
+        {
+          "tick": 50760,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0++0--++0+",
+      "food": 13,
+      "error": 0.0354517363011837,
+      "max_error": 0.04578351601958275,
+      "margin": 0.03068707138299942,
+      "seconds": 360.1333333333333,
+      "pts": 22126592,
+      "time_base": "1/61440",
+      "frame": 21609,
+      "candidates": [
+        {
+          "tick": 50800,
+          "low_health": false
+        },
+        {
+          "tick": 297760,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++--+0+0-+",
+      "food": 20,
+      "error": 0.03764227777719498,
+      "max_error": 0.09150725603103638,
+      "margin": 0.010923800058662891,
+      "seconds": 388.23333333333335,
+      "pts": 23853056,
+      "time_base": "1/61440",
+      "frame": 23295,
+      "candidates": [
+        {
+          "tick": 51362,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0-+0-00--+",
+      "food": 20,
+      "error": 0.028664913028478622,
+      "max_error": 0.029132790863513947,
+      "margin": 0.03267974033951759,
+      "seconds": 391.28333333333336,
+      "pts": 24040448,
+      "time_base": "1/61440",
+      "frame": 23478,
+      "candidates": [
+        {
+          "tick": 51423,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "----++--0+",
+      "food": 19,
+      "error": 0.028548341244459152,
+      "max_error": 0.030581459403038025,
+      "margin": 0.033006537705659866,
+      "seconds": 392.43333333333334,
+      "pts": 24111104,
+      "time_base": "1/61440",
+      "frame": 23547,
+      "candidates": [
+        {
+          "tick": 51446,
+          "low_health": false
+        },
+        {
+          "tick": 491608,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "--0++++++-",
+      "food": 19,
+      "error": 0.03295034170150757,
+      "max_error": 0.0350290946662426,
+      "margin": 0.03244061768054962,
+      "seconds": 395.3333333333333,
+      "pts": 24289280,
+      "time_base": "1/61440",
+      "frame": 23721,
+      "candidates": [
+        {
+          "tick": 51504,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-00000+---",
+      "food": 17,
+      "error": 0.028670692816376686,
+      "max_error": 0.033235691487789154,
+      "margin": 0.032488442957401276,
+      "seconds": 396.73333333333335,
+      "pts": 24375296,
+      "time_base": "1/61440",
+      "frame": 23805,
+      "candidates": [
+        {
+          "tick": 51532,
+          "low_health": false
+        },
+        {
+          "tick": 495872,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0-+-00+-0",
+      "food": 17,
+      "error": 0.0300725307315588,
+      "max_error": 0.035082895308732986,
+      "margin": 0.0323369987308979,
+      "seconds": 399.35,
+      "pts": 24536064,
+      "time_base": "1/61440",
+      "frame": 23962,
+      "candidates": [
+        {
+          "tick": 51584,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-+---+-+0-",
+      "food": 17,
+      "error": 0.025857646018266678,
+      "max_error": 0.03120715729892254,
+      "margin": 0.03433365374803543,
+      "seconds": 401.93333333333334,
+      "pts": 24694784,
+      "time_base": "1/61440",
+      "frame": 24117,
+      "candidates": [
+        {
+          "tick": 51636,
+          "low_health": false
+        },
+        {
+          "tick": 1450228,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+++-0-0++-",
+      "food": 17,
+      "error": 0.02524111233651638,
+      "max_error": 0.027634305879473686,
+      "margin": 0.033915191888809204,
+      "seconds": 404.53333333333336,
+      "pts": 24854528,
+      "time_base": "1/61440",
+      "frame": 24273,
+      "candidates": [
+        {
+          "tick": 25012,
+          "low_health": false
+        },
+        {
+          "tick": 51688,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++-0+-0+-+",
+      "food": 17,
+      "error": 0.035005778074264526,
+      "max_error": 0.03829706832766533,
+      "margin": 0.03220149874687195,
+      "seconds": 407.1333333333333,
+      "pts": 25014272,
+      "time_base": "1/61440",
+      "frame": 24429,
+      "candidates": [
+        {
+          "tick": 51740,
+          "low_health": false
+        },
+        {
+          "tick": 1096056,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-00-0+00-+",
+      "food": 17,
+      "error": 0.04437509924173355,
+      "max_error": 0.055326398462057114,
+      "margin": 0.033863384276628494,
+      "seconds": 411.43333333333334,
+      "pts": 25278464,
+      "time_base": "1/61440",
+      "frame": 24687,
+      "candidates": [
+        {
+          "tick": 51792,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0+-0+-++0-",
+      "food": 17,
+      "error": 0.053667306900024414,
+      "max_error": 0.05977204069495201,
+      "margin": 0.02728758193552494,
+      "seconds": 415.03333333333336,
+      "pts": 25499648,
+      "time_base": "1/61440",
+      "frame": 24903,
+      "candidates": [
+        {
+          "tick": 51844,
+          "low_health": false
+        },
+        {
+          "tick": 426660,
+          "low_health": true
+        },
+        {
+          "tick": 1193868,
+          "low_health": false
+        },
+        {
+          "tick": 1320124,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "00-+0+-++-",
+      "food": 17,
+      "error": 0.02748146653175354,
+      "max_error": 0.030617328360676765,
+      "margin": 0.03297465294599533,
+      "seconds": 417.6333333333333,
+      "pts": 25659392,
+      "time_base": "1/61440",
+      "frame": 25059,
+      "candidates": [
+        {
+          "tick": 51896,
+          "low_health": false
+        },
+        {
+          "tick": 908960,
+          "low_health": false
+        },
+        {
+          "tick": 1262040,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0-000-0++0",
+      "food": 17,
+      "error": 0.02638450637459755,
+      "max_error": 0.030308464542031288,
+      "margin": 0.033556513488292694,
+      "seconds": 420.8333333333333,
+      "pts": 25856000,
+      "time_base": "1/61440",
+      "frame": 25251,
+      "candidates": [
+        {
+          "tick": 51948,
+          "low_health": false
+        },
+        {
+          "tick": 723528,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+++-0-00++",
+      "food": 17,
+      "error": 0.028156185522675514,
+      "max_error": 0.03177506849169731,
+      "margin": 0.03318587690591812,
+      "seconds": 423.4,
+      "pts": 26013696,
+      "time_base": "1/61440",
+      "frame": 25405,
+      "candidates": [
+        {
+          "tick": 52000,
+          "low_health": false
+        },
+        {
+          "tick": 817336,
+          "low_health": true
+        },
+        {
+          "tick": 968136,
+          "low_health": true
+        },
+        {
+          "tick": 1011972,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "++--0-+0--",
+      "food": 16,
+      "error": 0.03535987809300423,
+      "max_error": 0.04206918552517891,
+      "margin": 0.030583452433347702,
+      "seconds": 427.76666666666665,
+      "pts": 26281984,
+      "time_base": "1/61440",
+      "frame": 25667,
+      "candidates": [
+        {
+          "tick": 52087,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0++0-+0--+",
+      "food": 16,
+      "error": 0.0383608341217041,
+      "max_error": 0.044914714992046356,
+      "margin": 0.030842499807476997,
+      "seconds": 432.65,
+      "pts": 26582016,
+      "time_base": "1/61440",
+      "frame": 25960,
+      "candidates": [
+        {
+          "tick": 52185,
+          "low_health": false
+        },
+        {
+          "tick": 1435308,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "--0-+-0+00",
+      "food": 16,
+      "error": 0.03449944406747818,
+      "max_error": 0.03886497765779495,
+      "margin": 0.03259604796767235,
+      "seconds": 439.31666666666666,
+      "pts": 26991616,
+      "time_base": "1/61440",
+      "frame": 26360,
+      "candidates": [
+        {
+          "tick": 52283,
+          "low_health": false
+        },
+        {
+          "tick": 380926,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "--00+00-++",
+      "food": 16,
+      "error": 0.03201837092638016,
+      "max_error": 0.037671368569135666,
+      "margin": 0.03344890847802162,
+      "seconds": 441.76666666666665,
+      "pts": 27142144,
+      "time_base": "1/61440",
+      "frame": 26507,
+      "candidates": [
+        {
+          "tick": 52332,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+++0-+---0",
+      "food": 16,
+      "error": 0.030448149889707565,
+      "max_error": 0.035025108605623245,
+      "margin": 0.03297465294599533,
+      "seconds": 444.21666666666664,
+      "pts": 27292672,
+      "time_base": "1/61440",
+      "frame": 26654,
+      "candidates": [
+        {
+          "tick": 52381,
+          "low_health": false
+        },
+        {
+          "tick": 323253,
+          "low_health": false
+        },
+        {
+          "tick": 481180,
+          "low_health": true
+        },
+        {
+          "tick": 769153,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0--0++0-+-",
+      "food": 16,
+      "error": 0.03072991594672203,
+      "max_error": 0.03712737187743187,
+      "margin": 0.031998246908187866,
+      "seconds": 446.6666666666667,
+      "pts": 27443200,
+      "time_base": "1/61440",
+      "frame": 26801,
+      "candidates": [
+        {
+          "tick": 52430,
+          "low_health": false
+        },
+        {
+          "tick": 1691823,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0--00-0+--",
+      "food": 16,
+      "error": 0.030454128980636597,
+      "max_error": 0.03596564754843712,
+      "margin": 0.03261198848485947,
+      "seconds": 449.1166666666667,
+      "pts": 27593728,
+      "time_base": "1/61440",
+      "frame": 26948,
+      "candidates": [
+        {
+          "tick": 52479,
+          "low_health": false
+        },
+        {
+          "tick": 303555,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "--+-+--+0+",
+      "food": 16,
+      "error": 0.03333333507180214,
+      "max_error": 0.040333572775125504,
+      "margin": 0.03332137688994408,
+      "seconds": 451.56666666666666,
+      "pts": 27744256,
+      "time_base": "1/61440",
+      "frame": 27095,
+      "candidates": [
+        {
+          "tick": 28469,
+          "low_health": true
+        },
+        {
+          "tick": 52528,
+          "low_health": false
+        },
+        {
+          "tick": 328153,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+-+++0-0-0",
+      "food": 16,
+      "error": 0.03910449892282486,
+      "max_error": 0.04880240559577942,
+      "margin": 0.026036186143755913,
+      "seconds": 454.01666666666665,
+      "pts": 27894784,
+      "time_base": "1/61440",
+      "frame": 27242,
+      "candidates": [
+        {
+          "tick": 52577,
+          "low_health": false
+        },
+        {
+          "tick": 306985,
+          "low_health": true
+        },
+        {
+          "tick": 1429771,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "00++--+---",
+      "food": 15,
+      "error": 0.03768691420555115,
+      "max_error": 0.04276861250400543,
+      "margin": 0.025633668527007103,
+      "seconds": 456.3666666666667,
+      "pts": 28039168,
+      "time_base": "1/61440",
+      "frame": 27383,
+      "candidates": [
+        {
+          "tick": 52624,
+          "low_health": false
+        },
+        {
+          "tick": 437874,
+          "low_health": false
+        },
+        {
+          "tick": 1136062,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0--0+0+-+-",
+      "food": 15,
+      "error": 0.0363127663731575,
+      "max_error": 0.04217679053544998,
+      "margin": 0.027526700869202614,
+      "seconds": 458.6666666666667,
+      "pts": 28180480,
+      "time_base": "1/61440",
+      "frame": 27521,
+      "candidates": [
+        {
+          "tick": 52670,
+          "low_health": false
+        },
+        {
+          "tick": 250424,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+----+0++-",
+      "food": 15,
+      "error": 0.04543638974428177,
+      "max_error": 0.052488841116428375,
+      "margin": 0.0273832306265831,
+      "seconds": 463.26666666666665,
+      "pts": 28463104,
+      "time_base": "1/61440",
+      "frame": 27797,
+      "candidates": [
+        {
+          "tick": 52762,
+          "low_health": false
+        },
+        {
+          "tick": 1057494,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+--+---+0+",
+      "food": 0,
+      "error": 0.05913979932665825,
+      "max_error": 0.0657305121421814,
+      "margin": 0.024629363790154457,
+      "seconds": 465.3666666666667,
+      "pts": 28592128,
+      "time_base": "1/61440",
+      "frame": 27923,
+      "candidates": [
+        {
+          "tick": 20230,
+          "low_health": false
+        },
+        {
+          "tick": 31021,
+          "low_health": true
+        },
+        {
+          "tick": 34004,
+          "low_health": false
+        },
+        {
+          "tick": 37726,
+          "low_health": false
+        },
+        {
+          "tick": 52804,
+          "low_health": false
+        },
+        {
+          "tick": 74486,
+          "low_health": true
+        },
+        {
+          "tick": 119772,
+          "low_health": true
+        },
+        {
+          "tick": 159417,
+          "low_health": true
+        },
+        {
+          "tick": 201723,
+          "low_health": true
+        },
+        {
+          "tick": 203748,
+          "low_health": false
+        },
+        {
+          "tick": 237013,
+          "low_health": false
+        },
+        {
+          "tick": 239279,
+          "low_health": false
+        },
+        {
+          "tick": 246957,
+          "low_health": false
+        },
+        {
+          "tick": 329518,
+          "low_health": false
+        },
+        {
+          "tick": 331386,
+          "low_health": true
+        },
+        {
+          "tick": 337305,
+          "low_health": true
+        },
+        {
+          "tick": 405516,
+          "low_health": true
+        },
+        {
+          "tick": 436754,
+          "low_health": true
+        },
+        {
+          "tick": 441222,
+          "low_health": true
+        },
+        {
+          "tick": 472353,
+          "low_health": false
+        },
+        {
+          "tick": 529930,
+          "low_health": true
+        },
+        {
+          "tick": 530038,
+          "low_health": true
+        },
+        {
+          "tick": 563302,
+          "low_health": false
+        },
+        {
+          "tick": 581155,
+          "low_health": true
+        },
+        {
+          "tick": 627973,
+          "low_health": true
+        },
+        {
+          "tick": 652902,
+          "low_health": true
+        },
+        {
+          "tick": 667030,
+          "low_health": true
+        },
+        {
+          "tick": 683506,
+          "low_health": true
+        },
+        {
+          "tick": 702696,
+          "low_health": true
+        },
+        {
+          "tick": 708670,
+          "low_health": true
+        },
+        {
+          "tick": 715587,
+          "low_health": true
+        },
+        {
+          "tick": 744371,
+          "low_health": true
+        },
+        {
+          "tick": 816406,
+          "low_health": true
+        },
+        {
+          "tick": 817289,
+          "low_health": false
+        },
+        {
+          "tick": 822755,
+          "low_health": false
+        },
+        {
+          "tick": 837671,
+          "low_health": false
+        },
+        {
+          "tick": 846694,
+          "low_health": false
+        },
+        {
+          "tick": 883366,
+          "low_health": true
+        },
+        {
+          "tick": 936920,
+          "low_health": true
+        },
+        {
+          "tick": 970585,
+          "low_health": false
+        },
+        {
+          "tick": 999066,
+          "low_health": false
+        },
+        {
+          "tick": 1011871,
+          "low_health": true
+        },
+        {
+          "tick": 1020077,
+          "low_health": false
+        },
+        {
+          "tick": 1121200,
+          "low_health": true
+        },
+        {
+          "tick": 1149612,
+          "low_health": true
+        },
+        {
+          "tick": 1186214,
+          "low_health": true
+        },
+        {
+          "tick": 1202662,
+          "low_health": false
+        },
+        {
+          "tick": 1222469,
+          "low_health": true
+        },
+        {
+          "tick": 1332557,
+          "low_health": false
+        },
+        {
+          "tick": 1350138,
+          "low_health": true
+        },
+        {
+          "tick": 1350683,
+          "low_health": true
+        },
+        {
+          "tick": 1352198,
+          "low_health": true
+        },
+        {
+          "tick": 1367329,
+          "low_health": false
+        },
+        {
+          "tick": 1394628,
+          "low_health": false
+        },
+        {
+          "tick": 1395812,
+          "low_health": false
+        },
+        {
+          "tick": 1408888,
+          "low_health": false
+        },
+        {
+          "tick": 1412721,
+          "low_health": true
+        },
+        {
+          "tick": 1491944,
+          "low_health": true
+        },
+        {
+          "tick": 1502224,
+          "low_health": false
+        },
+        {
+          "tick": 1552342,
+          "low_health": false
+        },
+        {
+          "tick": 1594598,
+          "low_health": true
+        },
+        {
+          "tick": 1626332,
+          "low_health": false
+        },
+        {
+          "tick": 1628408,
+          "low_health": false
+        },
+        {
+          "tick": 1697866,
+          "low_health": false
+        },
+        {
+          "tick": 1701785,
+          "low_health": false
+        },
+        {
+          "tick": 1712316,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "--0-0+0++-",
+      "food": 0,
+      "error": 0.06036274507641792,
+      "max_error": 0.06951060146093369,
+      "margin": 0.04473895952105522,
+      "seconds": 467.51666666666665,
+      "pts": 28724224,
+      "time_base": "1/61440",
+      "frame": 28052,
+      "candidates": [
+        {
+          "tick": 8079,
+          "low_health": false
+        },
+        {
+          "tick": 52847,
+          "low_health": false
+        },
+        {
+          "tick": 73407,
+          "low_health": true
+        },
+        {
+          "tick": 135429,
+          "low_health": false
+        },
+        {
+          "tick": 206694,
+          "low_health": true
+        },
+        {
+          "tick": 234594,
+          "low_health": false
+        },
+        {
+          "tick": 278058,
+          "low_health": true
+        },
+        {
+          "tick": 332749,
+          "low_health": false
+        },
+        {
+          "tick": 362777,
+          "low_health": false
+        },
+        {
+          "tick": 395993,
+          "low_health": true
+        },
+        {
+          "tick": 440169,
+          "low_health": false
+        },
+        {
+          "tick": 460954,
+          "low_health": true
+        },
+        {
+          "tick": 467932,
+          "low_health": false
+        },
+        {
+          "tick": 473838,
+          "low_health": true
+        },
+        {
+          "tick": 476533,
+          "low_health": true
+        },
+        {
+          "tick": 491080,
+          "low_health": true
+        },
+        {
+          "tick": 493015,
+          "low_health": true
+        },
+        {
+          "tick": 493952,
+          "low_health": false
+        },
+        {
+          "tick": 506669,
+          "low_health": false
+        },
+        {
+          "tick": 568548,
+          "low_health": false
+        },
+        {
+          "tick": 613468,
+          "low_health": true
+        },
+        {
+          "tick": 617290,
+          "low_health": false
+        },
+        {
+          "tick": 646569,
+          "low_health": false
+        },
+        {
+          "tick": 688034,
+          "low_health": true
+        },
+        {
+          "tick": 751404,
+          "low_health": true
+        },
+        {
+          "tick": 763781,
+          "low_health": false
+        },
+        {
+          "tick": 816860,
+          "low_health": false
+        },
+        {
+          "tick": 838491,
+          "low_health": false
+        },
+        {
+          "tick": 915541,
+          "low_health": true
+        },
+        {
+          "tick": 927467,
+          "low_health": true
+        },
+        {
+          "tick": 945943,
+          "low_health": true
+        },
+        {
+          "tick": 949366,
+          "low_health": true
+        },
+        {
+          "tick": 966974,
+          "low_health": false
+        },
+        {
+          "tick": 993914,
+          "low_health": true
+        },
+        {
+          "tick": 1206059,
+          "low_health": true
+        },
+        {
+          "tick": 1216714,
+          "low_health": true
+        },
+        {
+          "tick": 1237323,
+          "low_health": true
+        },
+        {
+          "tick": 1288595,
+          "low_health": false
+        },
+        {
+          "tick": 1292775,
+          "low_health": true
+        },
+        {
+          "tick": 1371885,
+          "low_health": false
+        },
+        {
+          "tick": 1372833,
+          "low_health": true
+        },
+        {
+          "tick": 1373779,
+          "low_health": false
+        },
+        {
+          "tick": 1413071,
+          "low_health": false
+        },
+        {
+          "tick": 1471168,
+          "low_health": true
+        },
+        {
+          "tick": 1486508,
+          "low_health": false
+        },
+        {
+          "tick": 1632703,
+          "low_health": true
+        },
+        {
+          "tick": 1632992,
+          "low_health": true
+        },
+        {
+          "tick": 1700771,
+          "low_health": false
+        },
+        {
+          "tick": 1722803,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-000+0+--+",
+      "food": 0,
+      "error": 0.05594436451792717,
+      "max_error": 0.05979674682021141,
+      "margin": 0.052427466958761215,
+      "seconds": 469.6666666666667,
+      "pts": 28856320,
+      "time_base": "1/61440",
+      "frame": 28181,
+      "candidates": [
+        {
+          "tick": 8887,
+          "low_health": true
+        },
+        {
+          "tick": 34035,
+          "low_health": false
+        },
+        {
+          "tick": 43666,
+          "low_health": true
+        },
+        {
+          "tick": 52890,
+          "low_health": false
+        },
+        {
+          "tick": 69520,
+          "low_health": false
+        },
+        {
+          "tick": 70890,
+          "low_health": false
+        },
+        {
+          "tick": 72116,
+          "low_health": false
+        },
+        {
+          "tick": 134102,
+          "low_health": false
+        },
+        {
+          "tick": 155193,
+          "low_health": true
+        },
+        {
+          "tick": 202664,
+          "low_health": false
+        },
+        {
+          "tick": 268401,
+          "low_health": true
+        },
+        {
+          "tick": 271550,
+          "low_health": false
+        },
+        {
+          "tick": 325332,
+          "low_health": false
+        },
+        {
+          "tick": 336851,
+          "low_health": false
+        },
+        {
+          "tick": 348264,
+          "low_health": true
+        },
+        {
+          "tick": 357284,
+          "low_health": false
+        },
+        {
+          "tick": 382982,
+          "low_health": true
+        },
+        {
+          "tick": 408830,
+          "low_health": false
+        },
+        {
+          "tick": 410630,
+          "low_health": true
+        },
+        {
+          "tick": 450530,
+          "low_health": true
+        },
+        {
+          "tick": 484075,
+          "low_health": true
+        },
+        {
+          "tick": 517254,
+          "low_health": true
+        },
+        {
+          "tick": 520491,
+          "low_health": true
+        },
+        {
+          "tick": 522745,
+          "low_health": true
+        },
+        {
+          "tick": 631906,
+          "low_health": true
+        },
+        {
+          "tick": 689093,
+          "low_health": true
+        },
+        {
+          "tick": 698042,
+          "low_health": false
+        },
+        {
+          "tick": 711266,
+          "low_health": false
+        },
+        {
+          "tick": 779320,
+          "low_health": false
+        },
+        {
+          "tick": 799401,
+          "low_health": true
+        },
+        {
+          "tick": 800239,
+          "low_health": true
+        },
+        {
+          "tick": 818364,
+          "low_health": true
+        },
+        {
+          "tick": 844822,
+          "low_health": false
+        },
+        {
+          "tick": 858399,
+          "low_health": false
+        },
+        {
+          "tick": 865660,
+          "low_health": false
+        },
+        {
+          "tick": 875724,
+          "low_health": false
+        },
+        {
+          "tick": 891564,
+          "low_health": true
+        },
+        {
+          "tick": 899816,
+          "low_health": false
+        },
+        {
+          "tick": 934489,
+          "low_health": false
+        },
+        {
+          "tick": 948780,
+          "low_health": true
+        },
+        {
+          "tick": 951634,
+          "low_health": true
+        },
+        {
+          "tick": 954213,
+          "low_health": true
+        },
+        {
+          "tick": 1037722,
+          "low_health": true
+        },
+        {
+          "tick": 1074837,
+          "low_health": true
+        },
+        {
+          "tick": 1100209,
+          "low_health": false
+        },
+        {
+          "tick": 1129641,
+          "low_health": true
+        },
+        {
+          "tick": 1157973,
+          "low_health": false
+        },
+        {
+          "tick": 1207631,
+          "low_health": false
+        },
+        {
+          "tick": 1213458,
+          "low_health": true
+        },
+        {
+          "tick": 1232454,
+          "low_health": true
+        },
+        {
+          "tick": 1291624,
+          "low_health": true
+        },
+        {
+          "tick": 1300914,
+          "low_health": true
+        },
+        {
+          "tick": 1313432,
+          "low_health": false
+        },
+        {
+          "tick": 1345043,
+          "low_health": true
+        },
+        {
+          "tick": 1378682,
+          "low_health": false
+        },
+        {
+          "tick": 1389900,
+          "low_health": true
+        },
+        {
+          "tick": 1422787,
+          "low_health": false
+        },
+        {
+          "tick": 1437910,
+          "low_health": false
+        },
+        {
+          "tick": 1475814,
+          "low_health": false
+        },
+        {
+          "tick": 1498686,
+          "low_health": true
+        },
+        {
+          "tick": 1549120,
+          "low_health": true
+        },
+        {
+          "tick": 1631372,
+          "low_health": false
+        },
+        {
+          "tick": 1632896,
+          "low_health": true
+        },
+        {
+          "tick": 1675794,
+          "low_health": true
+        },
+        {
+          "tick": 1684536,
+          "low_health": false
+        },
+        {
+          "tick": 1685637,
+          "low_health": true
+        },
+        {
+          "tick": 1724304,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+++---+0+0",
+      "food": 14,
+      "error": 0.027739915996789932,
+      "max_error": 0.03347282111644745,
+      "margin": 0.03187071532011032,
+      "seconds": 471.81666666666666,
+      "pts": 28988416,
+      "time_base": "1/61440",
+      "frame": 28310,
+      "candidates": [
+        {
+          "tick": 52933,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0---+000+",
+      "food": 14,
+      "error": 0.028517255559563637,
+      "max_error": 0.033016499131917953,
+      "margin": 0.032356925308704376,
+      "seconds": 473.96666666666664,
+      "pts": 29120512,
+      "time_base": "1/61440",
+      "frame": 28439,
+      "candidates": [
+        {
+          "tick": 52976,
+          "low_health": false
+        },
+        {
+          "tick": 1296708,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "--+-+000++",
+      "food": 14,
+      "error": 0.03367825970053673,
+      "max_error": 0.042957913130521774,
+      "margin": 0.02980232797563076,
+      "seconds": 476.1166666666667,
+      "pts": 29252608,
+      "time_base": "1/61440",
+      "frame": 28568,
+      "candidates": [
+        {
+          "tick": 53019,
+          "low_health": false
+        },
+        {
+          "tick": 1075043,
+          "low_health": false
+        },
+        {
+          "tick": 1139586,
+          "low_health": true
+        },
+        {
+          "tick": 1273187,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-+-+0000++",
+      "food": 14,
+      "error": 0.030812209472060204,
+      "max_error": 0.03823728859424591,
+      "margin": 0.030882352963089943,
+      "seconds": 478.26666666666665,
+      "pts": 29384704,
+      "time_base": "1/61440",
+      "frame": 28697,
+      "candidates": [
+        {
+          "tick": 53062,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "0--++0--++",
+      "food": 14,
+      "error": 0.03746213763952255,
+      "max_error": 0.04352383315563202,
+      "margin": 0.031241033226251602,
+      "seconds": 480.4166666666667,
+      "pts": 29516800,
+      "time_base": "1/61440",
+      "frame": 28826,
+      "candidates": [
+        {
+          "tick": 53105,
+          "low_health": false
+        },
+        {
+          "tick": 747168,
+          "low_health": true
+        },
+        {
+          "tick": 1052296,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0--00-0+0+",
+      "food": 14,
+      "error": 0.03376534581184387,
+      "max_error": 0.042963892221450806,
+      "margin": 0.029088953509926796,
+      "seconds": 482.56666666666666,
+      "pts": 29648896,
+      "time_base": "1/61440",
+      "frame": 28955,
+      "candidates": [
+        {
+          "tick": 53148,
+          "low_health": true
+        },
+        {
+          "tick": 138116,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-+-++000+-",
+      "food": 14,
+      "error": 0.03403634950518608,
+      "max_error": 0.0434640534222126,
+      "margin": 0.030926192179322243,
+      "seconds": 484.71666666666664,
+      "pts": 29780992,
+      "time_base": "1/61440",
+      "frame": 29084,
+      "candidates": [
+        {
+          "tick": 23134,
+          "low_health": false
+        },
+        {
+          "tick": 53191,
+          "low_health": true
+        },
+        {
+          "tick": 1592763,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "-0+--0--0+",
+      "food": 14,
+      "error": 0.03138410672545433,
+      "max_error": 0.04111868143081665,
+      "margin": 0.030471863225102425,
+      "seconds": 486.8666666666667,
+      "pts": 29913088,
+      "time_base": "1/61440",
+      "frame": 29213,
+      "candidates": [
+        {
+          "tick": 53234,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "+0+-00000+",
+      "food": 14,
+      "error": 0.032248325645923615,
+      "max_error": 0.043541766703128815,
+      "margin": 0.03108161874115467,
+      "seconds": 489.01666666666665,
+      "pts": 30045184,
+      "time_base": "1/61440",
+      "frame": 29342,
+      "candidates": [
+        {
+          "tick": 53277,
+          "low_health": true
+        },
+        {
+          "tick": 1531961,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0++----+--",
+      "food": 14,
+      "error": 0.030068349093198776,
+      "max_error": 0.04084568843245506,
+      "margin": 0.032348956912755966,
+      "seconds": 491.1666666666667,
+      "pts": 30177280,
+      "time_base": "1/61440",
+      "frame": 29471,
+      "candidates": [
+        {
+          "tick": 53320,
+          "low_health": true
+        },
+        {
+          "tick": 887348,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0+0+-++-0+",
+      "food": 14,
+      "error": 0.029491472989320755,
+      "max_error": 0.0386677011847496,
+      "margin": 0.033409055322408676,
+      "seconds": 493.31666666666666,
+      "pts": 30309376,
+      "time_base": "1/61440",
+      "frame": 29600,
+      "candidates": [
+        {
+          "tick": 53363,
+          "low_health": true
+        },
+        {
+          "tick": 277221,
+          "low_health": true
+        },
+        {
+          "tick": 1385847,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "---000-++0",
+      "food": 14,
+      "error": 0.024653274565935135,
+      "max_error": 0.030786704272031784,
+      "margin": 0.03455284610390663,
+      "seconds": 503.4,
+      "pts": 30928896,
+      "time_base": "1/61440",
+      "frame": 30205,
+      "candidates": [
+        {
+          "tick": 53449,
+          "low_health": true
+        },
+        {
+          "tick": 355911,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "---++-+0++",
+      "food": 14,
+      "error": 0.021432727575302124,
+      "max_error": 0.027209866791963577,
+      "margin": 0.03609118610620499,
+      "seconds": 505.55,
+      "pts": 31060992,
+      "time_base": "1/61440",
+      "frame": 30334,
+      "candidates": [
+        {
+          "tick": 53492,
+          "low_health": true
+        },
+        {
+          "tick": 1360649,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "+0000-++0-",
+      "food": 14,
+      "error": 0.021514426916837692,
+      "max_error": 0.027335405349731445,
+      "margin": 0.03603140264749527,
+      "seconds": 507.7,
+      "pts": 31193088,
+      "time_base": "1/61440",
+      "frame": 30463,
+      "candidates": [
+        {
+          "tick": 53535,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "00++----++",
+      "food": 14,
+      "error": 0.021371353417634964,
+      "max_error": 0.02712816745042801,
+      "margin": 0.03619878739118576,
+      "seconds": 509.85,
+      "pts": 31325184,
+      "time_base": "1/61440",
+      "frame": 30592,
+      "candidates": [
+        {
+          "tick": 53578,
+          "low_health": true
+        },
+        {
+          "tick": 336647,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "++0+0-00--",
+      "food": 0,
+      "error": 0.056197989732027054,
+      "max_error": 0.0598134845495224,
+      "margin": 0.05152120068669319,
+      "seconds": 512.0,
+      "pts": 31457280,
+      "time_base": "1/61440",
+      "frame": 30721,
+      "candidates": [
+        {
+          "tick": 8074,
+          "low_health": true
+        },
+        {
+          "tick": 12764,
+          "low_health": true
+        },
+        {
+          "tick": 53621,
+          "low_health": true
+        },
+        {
+          "tick": 115326,
+          "low_health": false
+        },
+        {
+          "tick": 117174,
+          "low_health": true
+        },
+        {
+          "tick": 131897,
+          "low_health": true
+        },
+        {
+          "tick": 159601,
+          "low_health": false
+        },
+        {
+          "tick": 178222,
+          "low_health": false
+        },
+        {
+          "tick": 179289,
+          "low_health": true
+        },
+        {
+          "tick": 246054,
+          "low_health": false
+        },
+        {
+          "tick": 246470,
+          "low_health": true
+        },
+        {
+          "tick": 284336,
+          "low_health": true
+        },
+        {
+          "tick": 294256,
+          "low_health": true
+        },
+        {
+          "tick": 301678,
+          "low_health": true
+        },
+        {
+          "tick": 321364,
+          "low_health": true
+        },
+        {
+          "tick": 322201,
+          "low_health": true
+        },
+        {
+          "tick": 370482,
+          "low_health": true
+        },
+        {
+          "tick": 373733,
+          "low_health": true
+        },
+        {
+          "tick": 397188,
+          "low_health": false
+        },
+        {
+          "tick": 492823,
+          "low_health": true
+        },
+        {
+          "tick": 529814,
+          "low_health": false
+        },
+        {
+          "tick": 546596,
+          "low_health": true
+        },
+        {
+          "tick": 554106,
+          "low_health": true
+        },
+        {
+          "tick": 602049,
+          "low_health": true
+        },
+        {
+          "tick": 609526,
+          "low_health": false
+        },
+        {
+          "tick": 635340,
+          "low_health": true
+        },
+        {
+          "tick": 655104,
+          "low_health": true
+        },
+        {
+          "tick": 692647,
+          "low_health": true
+        },
+        {
+          "tick": 705559,
+          "low_health": false
+        },
+        {
+          "tick": 811167,
+          "low_health": true
+        },
+        {
+          "tick": 830382,
+          "low_health": true
+        },
+        {
+          "tick": 865183,
+          "low_health": true
+        },
+        {
+          "tick": 877649,
+          "low_health": true
+        },
+        {
+          "tick": 897660,
+          "low_health": false
+        },
+        {
+          "tick": 922230,
+          "low_health": false
+        },
+        {
+          "tick": 926073,
+          "low_health": false
+        },
+        {
+          "tick": 928284,
+          "low_health": true
+        },
+        {
+          "tick": 953559,
+          "low_health": false
+        },
+        {
+          "tick": 955778,
+          "low_health": false
+        },
+        {
+          "tick": 990090,
+          "low_health": false
+        },
+        {
+          "tick": 1001485,
+          "low_health": true
+        },
+        {
+          "tick": 1100228,
+          "low_health": false
+        },
+        {
+          "tick": 1177945,
+          "low_health": true
+        },
+        {
+          "tick": 1299294,
+          "low_health": false
+        },
+        {
+          "tick": 1310588,
+          "low_health": true
+        },
+        {
+          "tick": 1362855,
+          "low_health": false
+        },
+        {
+          "tick": 1395872,
+          "low_health": true
+        },
+        {
+          "tick": 1461121,
+          "low_health": false
+        },
+        {
+          "tick": 1463272,
+          "low_health": true
+        },
+        {
+          "tick": 1467519,
+          "low_health": false
+        },
+        {
+          "tick": 1539406,
+          "low_health": false
+        },
+        {
+          "tick": 1646352,
+          "low_health": false
+        },
+        {
+          "tick": 1651981,
+          "low_health": true
+        },
+        {
+          "tick": 1661391,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "-0+--0+00-",
+      "food": 14,
+      "error": 0.021777857095003128,
+      "max_error": 0.027949146926403046,
+      "margin": 0.03562091663479805,
+      "seconds": 520.6,
+      "pts": 31985664,
+      "time_base": "1/61440",
+      "frame": 31237,
+      "candidates": [
+        {
+          "tick": 53793,
+          "low_health": true
+        },
+        {
+          "tick": 397234,
+          "low_health": true
+        },
+        {
+          "tick": 875738,
+          "low_health": true
+        }
+      ]
+    },
+    {
+      "pattern": "0--+--00+0",
+      "food": 14,
+      "error": 0.02150406502187252,
+      "max_error": 0.027425074949860573,
+      "margin": 0.03591184318065643,
+      "seconds": 522.75,
+      "pts": 32117760,
+      "time_base": "1/61440",
+      "frame": 31366,
+      "candidates": [
+        {
+          "tick": 53836,
+          "low_health": true
+        },
+        {
+          "tick": 485685,
+          "low_health": false
+        },
+        {
+          "tick": 549196,
+          "low_health": false
+        }
+      ]
+    },
+    {
+      "pattern": "++++00-+0+",
+      "food": 14,
+      "error": 0.02151123806834221,
+      "max_error": 0.027464929968118668,
+      "margin": 0.035784315317869186,
+      "seconds": 524.9,
+      "pts": 32249856,
+      "time_base": "1/61440",
+      "frame": 31495,
+      "candidates": [
+        {
+          "tick": 53879,
+          "low_health": true
+        }
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "start": 92.6,
+      "end": 131.55,
+      "support": 14,
+      "event_indices": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "assignments": [
+        {
+          "event_index": 3,
+          "tick": 45820,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 4,
+          "tick": 45925,
+          "low_health": false,
+          "offset_ticks": 43967.666666666664,
+          "residual_ticks": -0.33333333333575865,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 5,
+          "tick": 45980,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 6,
+          "tick": 46035,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 7,
+          "tick": 46124,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 8,
+          "tick": 46176,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 9,
+          "tick": 46228,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 10,
+          "tick": 46280,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 11,
+          "tick": 46354,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 12,
+          "tick": 46403,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 13,
+          "tick": 46452,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 14,
+          "tick": 46501,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 15,
+          "tick": 46550,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 16,
+          "tick": 46599,
+          "low_health": false,
+          "offset_ticks": 43968.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43968.0,
+      "max_residual_ticks": 0.33333333333575865,
+      "ambiguous": false
+    },
+    {
+      "start": 186.86666666666667,
+      "end": 205.86666666666667,
+      "support": 4,
+      "event_indices": [
+        19,
+        21,
+        22,
+        23
+      ],
+      "assignments": [
+        {
+          "event_index": 19,
+          "tick": 47644,
+          "low_health": false,
+          "offset_ticks": 43906.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 21,
+          "tick": 47773,
+          "low_health": false,
+          "offset_ticks": 43906.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 22,
+          "tick": 47946,
+          "low_health": false,
+          "offset_ticks": 43906.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 23,
+          "tick": 48024,
+          "low_health": false,
+          "offset_ticks": 43906.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43906.666666666664,
+      "max_residual_ticks": 0.0,
+      "ambiguous": false
+    },
+    {
+      "start": 210.16666666666666,
+      "end": 289.06666666666666,
+      "support": 25,
+      "event_indices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "assignments": [
+        {
+          "event_index": 24,
+          "tick": 48082,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 25,
+          "tick": 48100,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 26,
+          "tick": 48152,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 27,
+          "tick": 48204,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 28,
+          "tick": 48265,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 29,
+          "tick": 48363,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 30,
+          "tick": 48484,
+          "low_health": false,
+          "offset_ticks": 43878.333333333336,
+          "residual_ticks": -0.3333333333284827,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 31,
+          "tick": 48530,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 32,
+          "tick": 48576,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 33,
+          "tick": 48668,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 34,
+          "tick": 48714,
+          "low_health": false,
+          "offset_ticks": 43879.0,
+          "residual_ticks": 0.33333333333575865,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 35,
+          "tick": 48952,
+          "low_health": false,
+          "offset_ticks": 43878.0,
+          "residual_ticks": -0.6666666666642413,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 36,
+          "tick": 49010,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 37,
+          "tick": 49036,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 38,
+          "tick": 49088,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 39,
+          "tick": 49140,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 40,
+          "tick": 49192,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 41,
+          "tick": 49244,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 42,
+          "tick": 49296,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 43,
+          "tick": 49348,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 44,
+          "tick": 49452,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 45,
+          "tick": 49504,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 46,
+          "tick": 49556,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 47,
+          "tick": 49608,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 48,
+          "tick": 49660,
+          "low_health": false,
+          "offset_ticks": 43878.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43878.666666666664,
+      "max_residual_ticks": 0.6666666666642413,
+      "ambiguous": false
+    },
+    {
+      "start": 316.1333333333333,
+      "end": 407.1333333333333,
+      "support": 29,
+      "event_indices": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "assignments": [
+        {
+          "event_index": 53,
+          "tick": 49920,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 54,
+          "tick": 49972,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 55,
+          "tick": 50024,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 56,
+          "tick": 50076,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 57,
+          "tick": 50128,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 58,
+          "tick": 50176,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 59,
+          "tick": 50225,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 60,
+          "tick": 50274,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 61,
+          "tick": 50323,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 62,
+          "tick": 50372,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 63,
+          "tick": 50416,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 64,
+          "tick": 50462,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 65,
+          "tick": 50508,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 66,
+          "tick": 50568,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 67,
+          "tick": 50611,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 68,
+          "tick": 50654,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 69,
+          "tick": 50697,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 70,
+          "tick": 50740,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 71,
+          "tick": 50760,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 72,
+          "tick": 50800,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 73,
+          "tick": 51362,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 74,
+          "tick": 51423,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 75,
+          "tick": 51446,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 76,
+          "tick": 51504,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 77,
+          "tick": 51532,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 78,
+          "tick": 51584,
+          "low_health": false,
+          "offset_ticks": 43597.0,
+          "residual_ticks": -0.33333333333575865,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 79,
+          "tick": 51636,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 80,
+          "tick": 51688,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 81,
+          "tick": 51740,
+          "low_health": false,
+          "offset_ticks": 43597.333333333336,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43597.333333333336,
+      "max_residual_ticks": 0.33333333333575865,
+      "ambiguous": false
+    },
+    {
+      "start": 420.8333333333333,
+      "end": 432.65,
+      "support": 4,
+      "event_indices": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "assignments": [
+        {
+          "event_index": 85,
+          "tick": 51948,
+          "low_health": false,
+          "offset_ticks": 43531.333333333336,
+          "residual_ticks": -0.5,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 86,
+          "tick": 52000,
+          "low_health": false,
+          "offset_ticks": 43532.0,
+          "residual_ticks": 0.16666666666424135,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 87,
+          "tick": 52087,
+          "low_health": false,
+          "offset_ticks": 43531.66666666667,
+          "residual_ticks": -0.16666666666424135,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 88,
+          "tick": 52185,
+          "low_health": false,
+          "offset_ticks": 43532.0,
+          "residual_ticks": 0.16666666666424135,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43531.833333333336,
+      "max_residual_ticks": 0.5,
+      "ambiguous": false
+    },
+    {
+      "start": 439.31666666666666,
+      "end": 493.31666666666666,
+      "support": 24,
+      "event_indices": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "assignments": [
+        {
+          "event_index": 89,
+          "tick": 52283,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 90,
+          "tick": 52332,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 91,
+          "tick": 52381,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 92,
+          "tick": 52430,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 93,
+          "tick": 52479,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 94,
+          "tick": 52528,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 95,
+          "tick": 52577,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 96,
+          "tick": 52624,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 97,
+          "tick": 52670,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 98,
+          "tick": 52762,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 99,
+          "tick": 52804,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 100,
+          "tick": 52847,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 101,
+          "tick": 52890,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 102,
+          "tick": 52933,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 103,
+          "tick": 52976,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 104,
+          "tick": 53019,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 105,
+          "tick": 53062,
+          "low_health": false,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 106,
+          "tick": 53105,
+          "low_health": false,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 107,
+          "tick": 53148,
+          "low_health": true,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 108,
+          "tick": 53191,
+          "low_health": true,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 109,
+          "tick": 53234,
+          "low_health": true,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 110,
+          "tick": 53277,
+          "low_health": true,
+          "offset_ticks": 43496.66666666667,
+          "residual_ticks": 7.275957614183426e-12,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 111,
+          "tick": 53320,
+          "low_health": true,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 112,
+          "tick": 53363,
+          "low_health": true,
+          "offset_ticks": 43496.666666666664,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43496.666666666664,
+      "max_residual_ticks": 7.275957614183426e-12,
+      "ambiguous": false
+    },
+    {
+      "start": 503.4,
+      "end": 524.9,
+      "support": 8,
+      "event_indices": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "assignments": [
+        {
+          "event_index": 113,
+          "tick": 53449,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 114,
+          "tick": 53492,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 115,
+          "tick": 53535,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 116,
+          "tick": 53578,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 117,
+          "tick": 53621,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 118,
+          "tick": 53793,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 119,
+          "tick": 53836,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        },
+        {
+          "event_index": 120,
+          "tick": 53879,
+          "low_health": true,
+          "offset_ticks": 43381.0,
+          "residual_ticks": 0.0,
+          "alternatives": [],
+          "matching_tick_ambiguous": false,
+          "matching_mode_ambiguous": false
+        }
+      ],
+      "offset_ticks": 43381.0,
+      "max_residual_ticks": 0.0,
+      "ambiguous": false
+    }
+  ],
+  "flags": [
+    {
+      "kind": "timeline_discontinuity",
+      "bracket": [
+        289.06666666666666,
+        316.1333333333333
+      ],
+      "jump_seconds": -14.066666666666425,
+      "left_support": 25,
+      "right_support": 29,
+      "classification": "gui_clock_deficit_needs_pause_review",
+      "review_state": "agent_reviewed",
+      "reviews": [
+        {
+          "classification": "pause_and_settings_observed",
+          "specific_visual_observations": "Menus sampled at source 291.07, 293.07, 294.07, 297.07, 299.07-301.07, 305.07, 307.07-308.07, 311.07, 313.07.",
+          "explanation_assessment": "Repeated settings/pause behavior provides a plausible ordinary cause for the deficit; cumulative paused duration was not reconstructed exactly.",
+          "decoded_proxy_frames": 124
+        }
+      ]
+    },
+    {
+      "kind": "timeline_discontinuity",
+      "bracket": [
+        493.31666666666666,
+        503.4
+      ],
+      "jump_seconds": -5.783333333333212,
+      "left_support": 24,
+      "right_support": 8,
+      "classification": "gui_clock_deficit_needs_pause_review",
+      "review_state": "agent_reviewed",
+      "reviews": [
+        {
+          "classification": "post_completion_loading_observed",
+          "specific_visual_observations": "Loading present at all proxy frames source 494.82-499.07, gameplay at 494.57 and 499.32; LAN menu sampled at 502.32.",
+          "explanation_assessment": "Post-completion loading plus later menu are ordinary context. Loading alone approximately 4.25-4.75 seconds does not establish the entire 5.7833-second deficit; exact GUI-clock restart/loading and menu contribution remain unresolved.",
+          "decoded_proxy_frames": 56
+        }
+      ]
+    },
+    {
+      "kind": "timeline_discontinuity",
+      "bracket": [
+        407.1333333333333,
+        420.8333333333333
+      ],
+      "jump_seconds": -3.275,
+      "left_support": 29,
+      "right_support": 4,
+      "classification": "gui_clock_deficit_needs_pause_review",
+      "review_state": "agent_reviewed",
+      "reviews": [
+        {
+          "assessment": "ordinary_pause_behavior_duration_compatible",
+          "conclusion": "Pause/settings menus directly visible in 3 separate visits. Their combined proxy transition bounds are 2.75-4.25 s; the reported deficit is 3.275 s. The deficit falls within those coarse menu-duration bounds. Ordinary pause behavior provides a compatible explanation; this is not native-frame or exact tick accounting. A dimension-loading screen is also visible.",
+          "decoded_proxy_frames": 71,
+          "context_clip_sha256": "fa6416815b513474d5acca011f2e7d19d6f3ad148f1688f4cc1e904dec85b271"
+        }
+      ]
+    },
+    {
+      "kind": "timeline_discontinuity",
+      "bracket": [
+        131.55,
+        186.86666666666667
+      ],
+      "jump_seconds": -3.066666666666788,
+      "left_support": 14,
+      "right_support": 4,
+      "classification": "gui_clock_deficit_needs_pause_review",
+      "review_state": "agent_reviewed",
+      "reviews": [
+        {
+          "assessment": "ordinary_pause_behavior_duration_compatible",
+          "conclusion": "Pause/settings menus directly visible in 3 separate visits. Their combined proxy transition bounds are 2.50-4.00 s; the reported deficit is 3.067 s. The deficit falls within those coarse menu-duration bounds. Ordinary pause behavior provides a compatible explanation; this is not native-frame or exact tick accounting.",
+          "decoded_proxy_frames": 237,
+          "context_clip_sha256": "3f7941c45dd699a3e4cefbf6b11dc06fc6905133c7e312e3324c81e29b132bca"
+        }
+      ]
+    },
+    {
+      "kind": "timeline_discontinuity",
+      "bracket": [
+        432.65,
+        439.31666666666666
+      ],
+      "jump_seconds": -1.7583333333335758,
+      "left_support": 4,
+      "right_support": 24,
+      "classification": "gui_clock_deficit_needs_pause_review",
+      "review_state": "agent_reviewed",
+      "reviews": [
+        {
+          "assessment": "ordinary_pause_behavior_duration_compatible",
+          "conclusion": "Pause/settings menus directly visible in 1 separate visits. Their combined proxy transition bounds are 1.50-2.00 s; the reported deficit is 1.758 s. The deficit falls within those coarse menu-duration bounds. Ordinary pause behavior provides a compatible explanation; this is not native-frame or exact tick accounting.",
+          "decoded_proxy_frames": 43,
+          "context_clip_sha256": "c10b97975c17d1ee3448731da248789d074ccf40c0bfc9d1a4ee47c70372e61b"
+        }
+      ]
+    },
+    {
+      "kind": "timeline_discontinuity",
+      "bracket": [
+        205.86666666666667,
+        210.16666666666666
+      ],
+      "jump_seconds": -1.4,
+      "left_support": 4,
+      "right_support": 25,
+      "classification": "gui_clock_deficit_needs_pause_review",
+      "review_state": "agent_reviewed",
+      "reviews": [
+        {
+          "assessment": "ordinary_pause_behavior_duration_compatible",
+          "conclusion": "Pause/settings menus directly visible in 1 separate visits. Their combined proxy transition bounds are 1.25-1.75 s; the reported deficit is 1.400 s. The deficit falls within those coarse menu-duration bounds. Ordinary pause behavior provides a compatible explanation; this is not native-frame or exact tick accounting.",
+          "decoded_proxy_frames": 33,
+          "context_clip_sha256": "8674bcc00b865c3f2014d1ab9ac1e84a7ab35c6d54217f67c0907213dab97b9e"
+        }
+      ]
+    }
+  ],
+  "scan_bounds_s": [
+    81.71666666666667,
+    524.9
+  ],
+  "calibration": {
+    "bbox": [
+      1000,
+      920,
+      324,
+      44
+    ],
+    "scale": 4.0,
+    "support": 5,
+    "mean_error": 0.034832775592803955,
+    "sample_times": [
+      42.14266666666666,
+      105.35666666666667,
+      210.71333333333334,
+      316.07,
+      421.4266666666667
+    ]
+  },
+  "parameters": {
+    "tolerance_ticks": 3.0,
+    "min_support": 4,
+    "min_span_seconds": 2.0,
+    "max_gap_seconds": 30.0,
+    "min_jump_seconds": 1.0
+  },
+  "search_max_tick": 1728000,
+  "coverage": {
+    "first_event": 81.71666666666667,
+    "last_event": 524.9,
+    "basis": "observed_event_extent",
+    "range_seconds": [
+      81.71666666666667,
+      524.9
+    ],
+    "denominator_seconds": 443.1833333333333,
+    "supported_spans_seconds": [
+      [
+        92.6,
+        131.55
+      ],
+      [
+        186.86666666666667,
+        205.86666666666667
+      ],
+      [
+        210.16666666666666,
+        289.06666666666666
+      ],
+      [
+        316.1333333333333,
+        407.1333333333333
+      ],
+      [
+        420.8333333333333,
+        432.65
+      ],
+      [
+        439.31666666666666,
+        493.31666666666666
+      ],
+      [
+        503.4,
+        524.9
+      ]
+    ],
+    "supported_span_seconds": 315.1666666666667,
+    "unsupported_seconds": 128.0166666666666,
+    "largest_unsupported_gap_seconds": 55.31666666666666,
+    "supported_span_fraction": 0.7111428678876313,
+    "interpretation": "Evidence-span interpolation between events in resolved, nonambiguous segments; not proof of continuity throughout those spans or the whole video. Matching heart modes are inference alternatives, not observed heart states."
+  },
+  "implementation": {
+    "source_hashes": {
+      "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "batch.py": "ee5d59371fd2ba6fec215a7da05eb5c0e89e95adf79609e4805a9dde004e2714",
+      "catalog.py": "a032710fe99e3055491b2d3ce8121467a33dd70a652da00d84172b0258fe75d5",
+      "cli.py": "f741ca058c013eaae1da85b5811c8f0750fed72937b77a24c03ed785f62552af",
+      "controls.py": "9bcc57fa3ed9143d49e1c4929fd78ec580a6bf6811536083a36d175deecf1582",
+      "io.py": "99f8b0fb50afca20f537c583d3b6973d7db0075ddf89a096931a33dc7760a407",
+      "report.py": "b067247e442af037c8cdcfa9329eea45e8a638dccbff93e15aab624d94d3c089",
+      "review.py": "30b0ec42ae06d7e242ceb40f54b92da57aa80d0e695b484284b188113d961b0c",
+      "rng.py": "6c5783fa853603b0910e240ad6d56376810d7d6e6af42e663f432c30942200ca",
+      "timeline.py": "b1dc9ed936762ddd03a47992b58fbf14d15711188acce8f1f96d4b2d50eb4ac5",
+      "video.py": "01ef81593276e156c9ecf1f83271e0aec5dbb1c97792c2c52f7311ea7733b1ec",
+      "vision.py": "e93101ad5fe55962edb6a425e9f0bb5fbd43c6e9c639f7e0744aa3c8152cc80b",
+      "hud_search.py": "cce59092a1cab5be848e1a73e60b2350b1b85d61739ecee72ccfd25c6377512a",
+      "reconcile.py": "8d419ecd090acfe08e0d52a697db319dd66df46f58beae6743ad5ee4817ccfb2"
+    },
+    "dependencies": {
+      "av": "19.0.1",
+      "numpy": "2.5.4",
+      "numba": "0.68.0",
+      "pillow": "12.3.0",
+      "yt-dlp": "2026.8.19"
+    },
+    "upstream_commit": "dbcd5ea7c48cc5f831a3908c37c66ff5cf12d35d"
+  }
+}

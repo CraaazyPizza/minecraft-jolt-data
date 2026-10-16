@@ -1,0 +1,2089 @@
+{
+  "snapshot_utc": "2026-10-15T20:14:33.553126+00:00",
+  "category": "Minecraft Java 1.16.1 / Any% Glitchless / Random Seed",
+  "catalog_sha256": "0614def3c4db2dcbf8b3f1ea69a0654c67a427e35ce0729639ebee28d85ccd07",
+  "scope": "Submitted proof recordings. Some include menus, other attempts or credits. Resolved observations cover parts of a recording and do not certify a run.",
+  "runs": [
+    {
+      "rank": 1,
+      "run_id": "y44238ky",
+      "run_url": "https://www.speedrun.com/mc/runs/y44238ky",
+      "status": "extracted",
+      "date": "2026-07-27",
+      "official_igt_s": 399.813,
+      "official_rta_s": 409.349,
+      "proofs": [
+        {
+          "id": "576c146278cc6bf8193fa20c",
+          "video_url": "https://youtu.be/NemhyWVAY68?si=4oI__cNW0kDomyP3",
+          "data_file": "data/576c146278cc6bf8193fa20c.json",
+          "supported_events": 100,
+          "source_sha256": "b5d299d46f85639c86cd78fd765eb7a13c108bbf24985b5b8cb30a4f0a296e1b",
+          "report_sha256": "e13c8c4d509aa8eaa37c564a64d9a13d9a5d6038f2c8f71a6d46f3fef538394b",
+          "data_sha256": "191adbedb78794db926252cc69955bfa0030d9826aa8d6ae43fd47ea2e66060f"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "run_id": "m7l7960y",
+      "run_url": "https://www.speedrun.com/mc/runs/m7l7960y",
+      "status": "extracted",
+      "date": "2025-06-11",
+      "official_igt_s": 410.359,
+      "official_rta_s": 416.72,
+      "proofs": [
+        {
+          "id": "f54d152aee19c1492293ff8d",
+          "video_url": "https://www.youtube.com/watch?v=rVs0EdiVefM&t",
+          "data_file": "data/f54d152aee19c1492293ff8d.json",
+          "supported_events": 39,
+          "source_sha256": "6f65e067b27cce25bce782a2758e2ce2c215a2b5e456f719ff24fa2c1b5c0534",
+          "report_sha256": "bc9b54630284f4fa701036b06aed4d42b803d0b390135ec316617d0b3becad82",
+          "data_sha256": "b736df2e8bdeff498f43797927b7dc8f175ffcc94462e0ac1da08119fff94905"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "run_id": "mep526qy",
+      "run_url": "https://www.speedrun.com/mc/runs/mep526qy",
+      "status": "extracted",
+      "date": "2026-02-05",
+      "official_igt_s": 416.731,
+      "official_rta_s": 428.468,
+      "proofs": [
+        {
+          "id": "726a1cc56fe9cd7979f9f3a0",
+          "video_url": "https://www.twitch.tv/videos/2689489715",
+          "data_file": "data/726a1cc56fe9cd7979f9f3a0.json",
+          "supported_events": 85,
+          "source_sha256": "df773d29ae2dde17732907c351264038a9a28d6fd26417ae102fcd3038cf1899",
+          "report_sha256": "a9ec830830baa61f18f2c23b4c4e3672898c0d178938863363997787618eced7",
+          "data_sha256": "cbfdf0427b2454866670a7db4feaa2cf6efca60b89d842a90e5503273b11bb3d"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "run_id": "y8ko8qny",
+      "run_url": "https://www.speedrun.com/mc/runs/y8ko8qny",
+      "status": "extracted",
+      "date": "2024-01-04",
+      "official_igt_s": 421.494,
+      "official_rta_s": 434.1,
+      "proofs": [
+        {
+          "id": "d89d5047ef6cfb81df5446fc",
+          "video_url": "https://youtu.be/E3t24Urba6Y",
+          "data_file": "data/d89d5047ef6cfb81df5446fc.json",
+          "supported_events": 110,
+          "source_sha256": "fe10cf7ee7ded84742392732b0b16c719e238034c91ee4511eaf26c9b3dd6755",
+          "report_sha256": "e2b29235f43602c41dd032bf4bbcb7c666e1df9da395d03ea81ebf14af225e1e",
+          "data_sha256": "6a441f3e902d7f55f4103a59bb761ea39d2eb8218c7bc3aa4c92ec37328f7570"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "run_id": "medppl8y",
+      "run_url": "https://www.speedrun.com/mc/runs/medppl8y",
+      "status": "extracted",
+      "date": "2026-06-02",
+      "official_igt_s": 425.066,
+      "official_rta_s": 431.326,
+      "proofs": [
+        {
+          "id": "7f75d36eb10a6cbb3ff3e2c1",
+          "video_url": "https://youtu.be/D33RRwcqqY4",
+          "data_file": "data/7f75d36eb10a6cbb3ff3e2c1.json",
+          "supported_events": 76,
+          "source_sha256": "e0332f7ce61da8743d4b1534014fe721b2637f23d8baebd3d773e463a385cd49",
+          "report_sha256": "9be01d0d3b87b40537826053264145af6298e4976b52f72c3fbc22b0420ec529",
+          "data_sha256": "ceae2aa581ee6c4f0ee58a4318d9a25957da2f191c98abe498665372298d8af7"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "run_id": "y4vwx5ny",
+      "run_url": "https://www.speedrun.com/mc/runs/y4vwx5ny",
+      "status": "extracted",
+      "date": "2026-03-11",
+      "official_igt_s": 428.699,
+      "official_rta_s": 440.866,
+      "proofs": [
+        {
+          "id": "5470a08b49afa75f274c4836",
+          "video_url": "https://youtu.be/zhRaEdGVzsQ?si=Q5X2-2-smx4cYjhO",
+          "data_file": "data/5470a08b49afa75f274c4836.json",
+          "supported_events": 95,
+          "source_sha256": "e6bb686cab055ec0c36442de514e3803b89ac4c09624f8f2c5a0db740324d4a6",
+          "report_sha256": "c4a861c3bc44dbea1128ae3c46d8f470f3c37457b14561c3821a8fcff424e7fe",
+          "data_sha256": "60b6f3d588ce05bc1e4886ea687c6e8cfde247e4d9ddb5f502d26339b8baaf88"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "run_id": "ydo05ojz",
+      "run_url": "https://www.speedrun.com/mc/runs/ydo05ojz",
+      "status": "extracted",
+      "date": "2025-10-22",
+      "official_igt_s": 431.35,
+      "official_rta_s": 557.246,
+      "proofs": [
+        {
+          "id": "3c8412cde49cf15151f82d2d",
+          "video_url": "https://youtu.be/C6F0AVC-6zs?si=KSGbxC17XDysxtrs",
+          "data_file": "data/3c8412cde49cf15151f82d2d.json",
+          "supported_events": 52,
+          "source_sha256": "86e895bd37b3a6781e7032a8559b57d20ba2bb158ec8f6e194dc20e880fe1da7",
+          "report_sha256": "720d9be16633fde3f39eee590fd4388c5330ff3437d357de013b67b6831b387a",
+          "data_sha256": "eb7932d4da0fe7b14eec264bb44bb7d0fdfb402a3d82030f66c419c71018bcfd"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "run_id": "yv535lom",
+      "run_url": "https://www.speedrun.com/mc/runs/yv535lom",
+      "status": "extracted",
+      "date": "2025-10-16",
+      "official_igt_s": 433.157,
+      "official_rta_s": 447.967,
+      "proofs": [
+        {
+          "id": "7b910ede20c08d9ff78b2225",
+          "video_url": "https://youtu.be/MizvTxMV_EM",
+          "data_file": "data/7b910ede20c08d9ff78b2225.json",
+          "supported_events": 96,
+          "source_sha256": "88fe60bf155080592d958680dd1da459979ba02f1b7c20d0a6f7faee45c457e1",
+          "report_sha256": "45c5fcc4ec6e99ea95b0e113649bffd64b5bdd998aca7ccae343ba16ff076261",
+          "data_sha256": "8d80d12c0acbb3065d0434b22a716db81e4a8efa382425e9c5b7cc81e56f0938"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "run_id": "y9wx8x2z",
+      "run_url": "https://www.speedrun.com/mc/runs/y9wx8x2z",
+      "status": "extracted",
+      "date": "2025-12-07",
+      "official_igt_s": 436.326,
+      "official_rta_s": 442.937,
+      "proofs": [
+        {
+          "id": "d9d5ff36799ba93c5b442605",
+          "video_url": "https://www.twitch.tv/videos/2637822778",
+          "data_file": "data/d9d5ff36799ba93c5b442605.json",
+          "supported_events": 172,
+          "source_sha256": "4c6f8dceff5740622c424acd33fe324e18f0a34296875abd0afe02e7ef968b08",
+          "report_sha256": "1e751d7629514cdd286dad90f21b169e77e8a17ff67731b2cdb09342e82b5a76",
+          "data_sha256": "b9584d695bed6535786cbb53a9993414a9d300e24aeaa7aafa1d0abdce69ee55"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "run_id": "z02q5n9m",
+      "run_url": "https://www.speedrun.com/mc/runs/z02q5n9m",
+      "status": "extracted",
+      "date": "2026-05-14",
+      "official_igt_s": 437.054,
+      "official_rta_s": 449.13,
+      "proofs": [
+        {
+          "id": "6820f9d7dc14917224428bbe",
+          "video_url": "https://www.youtube.com/watch?v=LcAQVGqidk0",
+          "data_file": "data/6820f9d7dc14917224428bbe.json",
+          "supported_events": 96,
+          "source_sha256": "ea2e47a6000598a3d3669799385f4f6bdb66be5df055ae434e315b7f154eca67",
+          "report_sha256": "952a1fd7a0d422b89129d1be139324a0bae2e08007d064c9ff12440e7e2ef762",
+          "data_sha256": "a3c1f5bd35555c3fc37a4cdd881fca5c6da3e042d28b6a57951faaaf79227d7f"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "run_id": "mrpjve7z",
+      "run_url": "https://www.speedrun.com/mc/runs/mrpjve7z",
+      "status": "extracted",
+      "date": "2026-06-27",
+      "official_igt_s": 437.356,
+      "official_rta_s": 448.099,
+      "proofs": [
+        {
+          "id": "cbec415c38f0c56b",
+          "video_url": "https://www.youtube.com/watch?v=ypH5grSQGOo",
+          "data_file": "data/cbec415c38f0c56b.json",
+          "supported_events": 62,
+          "source_sha256": "b2c6a26accdaa5ec5f2c38e317aba0b1d17a204089465d72cdc25abc25963432",
+          "report_sha256": "2b77f6994b84450f266b4b2dbb3d435e9d140de8d29fa398d032161b80bbe38f",
+          "data_sha256": "74eeb4f47308d3e27844e589153f6cea142ec4d9aacc9edd43e89d1d24c44c0f"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "run_id": "z5nrjxez",
+      "run_url": "https://www.speedrun.com/mc/runs/z5nrjxez",
+      "status": "extracted",
+      "date": "2026-03-24",
+      "official_igt_s": 441.82,
+      "official_rta_s": 447.199,
+      "proofs": [
+        {
+          "id": "6aa8d1e2718841e5b3f0b00c",
+          "video_url": "https://www.twitch.tv/videos/2730089434",
+          "data_file": "data/6aa8d1e2718841e5b3f0b00c.json",
+          "supported_events": 121,
+          "source_sha256": "5e6ff491b78a9a777d833fa01f7b48d148ca3ba8821c34f403c5838842e201fa",
+          "report_sha256": "4133536dd592979a62b732af0f9eaaa16d5a5831fbbf37906a5093e32c4978ce",
+          "data_sha256": "8a98c211421b8fdb3440a4ba3258b365224c0f1323b53bf100d5272d8a76fca4"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "run_id": "z58ewkez",
+      "run_url": "https://www.speedrun.com/mc/runs/z58ewkez",
+      "status": "extracted",
+      "date": "2024-04-30",
+      "official_igt_s": 442.283,
+      "official_rta_s": 468.267,
+      "proofs": [
+        {
+          "id": "336c26e4a61063cb",
+          "video_url": "https://www.youtube.com/watch?v=cF1qFdtjdMQ",
+          "data_file": "data/336c26e4a61063cb.json",
+          "supported_events": 93,
+          "source_sha256": "3f5b76bba9049073e6671b3972cbabd89b0d0ba44f1c127f85c480174239bdca",
+          "report_sha256": "4cff9256bf6d20dca73725ac21fec0cc1cde6c02d259290fcfa00e89ece7635a",
+          "data_sha256": "1e48eafb8d7e4acb0d4a48a83facf5f8d173e200acb83927da66e69af3d388f2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "run_id": "m389g06y",
+      "run_url": "https://www.speedrun.com/mc/runs/m389g06y",
+      "status": "extracted",
+      "date": "2026-02-17",
+      "official_igt_s": 448.874,
+      "official_rta_s": 464.567,
+      "proofs": [
+        {
+          "id": "b086d430f5d0e69d1b9be4e2",
+          "video_url": "https://youtu.be/RNTNMHEVNBo",
+          "data_file": "data/b086d430f5d0e69d1b9be4e2.json",
+          "supported_events": 123,
+          "source_sha256": "0115b816733075e74fd5d57595f243b5a962e42db857787bd40d59e74e408b78",
+          "report_sha256": "464af402ac88ec609d0749e5741ee8c66cfe8ed14a5b5c7a9c0733375e58ffbe",
+          "data_sha256": "cec23870da2e0e9650acc1b969e6423a302318cf72f2749583b8580768bf41c1"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "run_id": "y24e456z",
+      "run_url": "https://www.speedrun.com/mc/runs/y24e456z",
+      "status": "extracted",
+      "date": "2026-08-27",
+      "official_igt_s": 449.226,
+      "official_rta_s": 462.635,
+      "proofs": [
+        {
+          "id": "7f1ec79d7c3e45ad",
+          "video_url": "https://www.youtube.com/watch?v=VDmy38L2Lps",
+          "data_file": "data/7f1ec79d7c3e45ad.json",
+          "supported_events": 32,
+          "source_sha256": "7b6d26de09a3e2de809b7d85b00823e81b1fc4237f937587237a72ca9630c123",
+          "report_sha256": "75c74ad53aa989bb82cb644d8fd7e76ed7529ade5cd381df584bd312e3d9d75e",
+          "data_sha256": "bce5e1c9d4347935989c47511f36d38a2e2af2cbacd3bc628af77674d8c631dd"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "run_id": "znxxp6vy",
+      "run_url": "https://www.speedrun.com/mc/runs/znxxp6vy",
+      "status": "extracted",
+      "date": "2024-10-06",
+      "official_igt_s": 449.374,
+      "official_rta_s": 469.936,
+      "proofs": [
+        {
+          "id": "3dc6696afe64733b925f130d",
+          "video_url": "https://youtu.be/zcKGazXCGcg",
+          "data_file": "data/3dc6696afe64733b925f130d.json",
+          "supported_events": 90,
+          "source_sha256": "6cc2353a5c0cbbfffb91e03e45716e8b7c5943486b4c426e3e3a02d9e46523a1",
+          "report_sha256": "64ccff23124a70855178efe7346535de275e9cd7243868eca3b3f8299516b015",
+          "data_sha256": "c2c11a279e565b8a636b3e79f2a873dd07c86db1cb6ed1443a5997b6cc3d39c6"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "run_id": "zg0rqq0m",
+      "run_url": "https://www.speedrun.com/mc/runs/zg0rqq0m",
+      "status": "extracted",
+      "date": "2026-08-09",
+      "official_igt_s": 449.487,
+      "official_rta_s": 457.431,
+      "proofs": [
+        {
+          "id": "93c34579919bb9ea",
+          "video_url": "https://www.youtube.com/watch?v=hZsxp0w7K2g&t=35s",
+          "data_file": "data/93c34579919bb9ea.json",
+          "supported_events": 99,
+          "source_sha256": "43ed41c24001735550dba8c7d1102ac36410fcbe4fc4b7f763903f84700de1ed",
+          "report_sha256": "bf4d9a06450a8d225d73bb4826d711fae9179aebce2800338dc6cdf38a2a3590",
+          "data_sha256": "11aa724892085861c92d3a942780931148a66002930b44bc11cd8531dfdaa482"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "run_id": "z5l4r5gy",
+      "run_url": "https://www.speedrun.com/mc/runs/z5l4r5gy",
+      "status": "extracted",
+      "date": "2025-04-02",
+      "official_igt_s": 449.931,
+      "official_rta_s": 465.025,
+      "proofs": [
+        {
+          "id": "d8f3b6447d7c6bc9",
+          "video_url": "https://www.youtube.com/watch?v=kNQvnooJbWY",
+          "data_file": "data/d8f3b6447d7c6bc9.json",
+          "supported_events": 108,
+          "source_sha256": "a830c993f39846faf13c7e811dffa3249e98a6a9dc76e7192af212d8ab6fffec",
+          "report_sha256": "5c0be101240abe034f5c18a53dc55e868faf6b3ba80205f03e29214c45728ae3",
+          "data_sha256": "3147ac41d1686b25c288b52593be6024a9c1824eb579da5dfac94339191395df"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "run_id": "m3kq8ddy",
+      "run_url": "https://www.speedrun.com/mc/runs/m3kq8ddy",
+      "status": "extracted",
+      "date": "2023-12-12",
+      "official_igt_s": 450.439,
+      "official_rta_s": 474.762,
+      "proofs": [
+        {
+          "id": "cef6418792ada075",
+          "video_url": "https://youtu.be/ClDvxk9E444",
+          "data_file": "data/cef6418792ada075.json",
+          "supported_events": 97,
+          "source_sha256": "b70a3145365a823d9476eddc175797aea26b3059d4bbfab5e23731252b3d10d7",
+          "report_sha256": "512345e8c9076397aaebde11c149d05d48c29b73e27b55a9a55b026cae765fd8",
+          "data_sha256": "b639c329f9b8eb519d586f3c4b56961ca88d29c1349368da5261b767d892e9d8"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "run_id": "zqp1639m",
+      "run_url": "https://www.speedrun.com/mc/runs/zqp1639m",
+      "status": "extracted",
+      "date": "2025-06-05",
+      "official_igt_s": 452.783,
+      "official_rta_s": 467.982,
+      "proofs": [
+        {
+          "id": "a718a6cd38d88119",
+          "video_url": "https://youtu.be/xKl2Jh5OrNs?si=Yi-DlNOpkfzo9zK7",
+          "data_file": "data/a718a6cd38d88119.json",
+          "supported_events": 120,
+          "source_sha256": "f05cb71e398cdb5e2819e29cb98a9df3eca503e19fed7d3870f035ad589aa4ba",
+          "report_sha256": "70ee24a2c348271587519d3f8ceb1421ead676bd600774a8ade5a04a90090d67",
+          "data_sha256": "89c7b9d4a5289d7204dc7d1d751f2ed6198a199773f5bb9cf8a0cbd03cc6b823"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "run_id": "zpe30dry",
+      "run_url": "https://www.speedrun.com/mc/runs/zpe30dry",
+      "status": "extracted",
+      "date": "2026-05-17",
+      "official_igt_s": 453.014,
+      "official_rta_s": 459.698,
+      "proofs": [
+        {
+          "id": "2b4a7fb4f322baa6",
+          "video_url": "https://youtu.be/nIqa8Is866M?si=tmE4Duim02z_fKDe",
+          "data_file": "data/2b4a7fb4f322baa6.json",
+          "supported_events": 98,
+          "source_sha256": "044446b9759bb12530bc434fffd0db0ff2e157a6ccfeb210f5eabd8c72230243",
+          "report_sha256": "cad40bb62c7219ab3f90bdd832dffd9134ed3320ef46fa0fe7537655b7e891ef",
+          "data_sha256": "50fd10f7200919ad1da8db1b32a5d58850d99fd15e95f00d4750dd45b30ed4dc"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "run_id": "yjqo30nm",
+      "run_url": "https://www.speedrun.com/mc/runs/yjqo30nm",
+      "status": "extracted",
+      "date": "2025-07-24",
+      "official_igt_s": 453.804,
+      "official_rta_s": 480.394,
+      "proofs": [
+        {
+          "id": "3b9e86ba99885844",
+          "video_url": "https://www.youtube.com/watch?v=4iAQ3Gzilcc",
+          "data_file": "data/3b9e86ba99885844.json",
+          "supported_events": 108,
+          "source_sha256": "84649b3b2ca3c6f9ad57eaa672f858afeb6042d8a93b4c385aa62bd3d05fdb05",
+          "report_sha256": "bc025e4bca700c7ff35dabad05effaf1078cd0c1bba75995e4bdf1d7c19da8c9",
+          "data_sha256": "8dd4a97434dd47800fe09e5e72722d214aea0b1ba424eaddc38dfdb6ea5d8a77"
+        },
+        {
+          "id": "a3aa888d171a4654e0aa7a1f",
+          "video_url": "https://www.youtube.com/watch?v=XDlibptGdhQ",
+          "data_file": "data/a3aa888d171a4654e0aa7a1f.json",
+          "supported_events": 186,
+          "source_sha256": "e47a7c167f82c8fa3f10c598343fa27eba18962b969760184e63dd66aaeed52f",
+          "report_sha256": "ecf1f5245274d5a05d93f7dfb0dad4e0a7f5178581b88527d851a8939ef6aa56",
+          "data_sha256": "81dc6a9f4c4eb26ee3a5e9df9d92067ffb62158016f06074ab96336f144d6661"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "run_id": "yl2j33kz",
+      "run_url": "https://www.speedrun.com/mc/runs/yl2j33kz",
+      "status": "extracted",
+      "date": "2026-05-23",
+      "official_igt_s": 454.354,
+      "official_rta_s": 463.854,
+      "proofs": [
+        {
+          "id": "970eae33123be02f",
+          "video_url": "https://youtu.be/_pwU147XQfA",
+          "data_file": "data/970eae33123be02f.json",
+          "supported_events": 93,
+          "source_sha256": "93d44045bc0c63e72f4d2ac641bee5827ecd2541e647cb8efeaa7d15ddad01db",
+          "report_sha256": "bfe8002200f566d73c21e5be8484e1a73d8bd7bb6b51eedbd28fa553f4575e54",
+          "data_sha256": "6a2f7707267bc3a3ef1462861fb6f62e0aed63f5682a3ffb562fc42b00a276da"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "run_id": "zx0e765z",
+      "run_url": "https://www.speedrun.com/mc/runs/zx0e765z",
+      "status": "extracted",
+      "date": "2025-09-14",
+      "official_igt_s": 454.838,
+      "official_rta_s": 470.077,
+      "proofs": [
+        {
+          "id": "2dd30f72d1279e64",
+          "video_url": "https://www.youtube.com/watch?v=_JVEFcmL-5k",
+          "data_file": "data/2dd30f72d1279e64.json",
+          "supported_events": 100,
+          "source_sha256": "524730226703e4307a6860d4c755eab5b25617186310e5139651f7250ed5a9a8",
+          "report_sha256": "f26c4c4adaaa95c62381bc0282b6d5f84947c40aab7b544269af8492e2d956a1",
+          "data_sha256": "889b3068240a5e134db8fcce63b1e8291d641ed82c095095e4c324ace9830feb"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "run_id": "yworw29m",
+      "run_url": "https://www.speedrun.com/mc/runs/yworw29m",
+      "status": "extracted",
+      "date": "2026-04-28",
+      "official_igt_s": 456.445,
+      "official_rta_s": 465.774,
+      "proofs": [
+        {
+          "id": "9611b2ddf3eeaab8a01e004d",
+          "video_url": "https://www.youtube.com/watch?v=iOWwIieY6C4",
+          "data_file": "data/9611b2ddf3eeaab8a01e004d.json",
+          "supported_events": 114,
+          "source_sha256": "8887cb92778e8ef1a6c90674e11f3a72da77bd2b06098e225a2277e3d9225fc7",
+          "report_sha256": "bca556de6ebc69881fbb9df69d7bdd5e70b2b0e5f062ace1828b65b1bb9a9786",
+          "data_sha256": "fb8c3fef4e0c2176e238090f29ea3bc894d16757ae8444c29a44ad9f3bfdfab8"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "run_id": "y24qr7wz",
+      "run_url": "https://www.speedrun.com/mc/runs/y24qr7wz",
+      "status": "extracted",
+      "date": "2026-07-09",
+      "official_igt_s": 457.096,
+      "official_rta_s": 466.057,
+      "proofs": [
+        {
+          "id": "8dcb7fceef13c2e0",
+          "video_url": "https://www.youtube.com/watch?v=kKbKFBzHTuc",
+          "data_file": "data/8dcb7fceef13c2e0.json",
+          "supported_events": 106,
+          "source_sha256": "e539e0dad5541b7dd0860337b519f34facc4242ad5e1fae9cf9d384e69364b9f",
+          "report_sha256": "e5b6dc94988e8ae1e387261c43e52eaa074ba392b8622e9374edc58d8d684b2a",
+          "data_sha256": "2194d26ef853fae52140ab92a5489c0ebfa1e1cc1e6694a54b1b2e10f6edeac3"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "run_id": "mkxdwo3z",
+      "run_url": "https://www.speedrun.com/mc/runs/mkxdwo3z",
+      "status": "extracted",
+      "date": "2026-04-17",
+      "official_igt_s": 458.905,
+      "official_rta_s": 468.877,
+      "proofs": [
+        {
+          "id": "f09eb9d829102e32",
+          "video_url": "https://youtu.be/OYGFbW4afPw",
+          "data_file": "data/f09eb9d829102e32.json",
+          "supported_events": 102,
+          "source_sha256": "80c345348c85a060d305d7dbe98fbb9b977981b0fb906e76ee16383ca8c09798",
+          "report_sha256": "49bff1f1281ba6a6d0497bd588aad95386869aeb70adc25c455bb97999f56118",
+          "data_sha256": "32ffd9e6bba67ce759defee212eefe703a684d3e195ac73562a49410d8368215"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "run_id": "ydop9ejz",
+      "run_url": "https://www.speedrun.com/mc/runs/ydop9ejz",
+      "status": "extracted",
+      "date": "2026-01-27",
+      "official_igt_s": 460.572,
+      "official_rta_s": 467.428,
+      "proofs": [
+        {
+          "id": "9f30e393748657c5",
+          "video_url": "https://youtu.be/S0Z9IxoLP14",
+          "data_file": "data/9f30e393748657c5.json",
+          "supported_events": 114,
+          "source_sha256": "56f2577216995c184e22952a2425c1fadb7e9826a11e877e9de86686b7ebe00e",
+          "report_sha256": "3a99390bb717b2d24175bfe2ba3117e8026e6aaf4faee488715fce0677ee5a45",
+          "data_sha256": "06f474f2eeaf75d282b33597ac71e7caabeede9d95c153fa4757ee62ce93f09c"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "run_id": "y2rqdr6m",
+      "run_url": "https://www.speedrun.com/mc/runs/y2rqdr6m",
+      "status": "extracted",
+      "date": "2025-10-05",
+      "official_igt_s": 461.49,
+      "official_rta_s": 479.313,
+      "proofs": [
+        {
+          "id": "641cc22f16377e44dcc3e2fb",
+          "video_url": "https://www.youtube.com/watch?v=mnROYSM-T34",
+          "data_file": "data/641cc22f16377e44dcc3e2fb.json",
+          "supported_events": 81,
+          "source_sha256": "293e10e33aad52895aae16372f998900a84c7c0cf9d6711ce4571473a3067c65",
+          "report_sha256": "7d64a5b1adec8cb346e2613ec7497b35fbdc2057cc1c47ec5f835a61b2120406",
+          "data_sha256": "910c0c55a05aa961a21886a8c4119c5a26228e161d57e71efd37544f0b9f9dec"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "run_id": "y8l53jwm",
+      "run_url": "https://www.speedrun.com/mc/runs/y8l53jwm",
+      "status": "extracted",
+      "date": "2026-06-20",
+      "official_igt_s": 462.297,
+      "official_rta_s": 473.517,
+      "proofs": [
+        {
+          "id": "1f068a6bfdf2190e",
+          "video_url": "https://www.youtube.com/watch?v=5oHU3C5M_N0",
+          "data_file": "data/1f068a6bfdf2190e.json",
+          "supported_events": 99,
+          "source_sha256": "1a478c79335bff427b4be91227ed9c179429b879f9bebc33ba794e51e55d42ab",
+          "report_sha256": "6701cbb2458ac4c60b180629ca922279352cd71d9e1c95f86e3e1b92671f3de7",
+          "data_sha256": "293adbd6d2cd121453c2bbb7ca596dbaf58232829c75793766234ba4505f4392"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "run_id": "y6e87kpz",
+      "run_url": "https://www.speedrun.com/mc/runs/y6e87kpz",
+      "status": "extracted",
+      "date": "2024-10-24",
+      "official_igt_s": 463.909,
+      "official_rta_s": 487.972,
+      "proofs": [
+        {
+          "id": "ef171446ef824e59",
+          "video_url": "https://www.youtube.com/watch?v=7xey7I0Mobk",
+          "data_file": "data/ef171446ef824e59.json",
+          "supported_events": 71,
+          "source_sha256": "b0c2cf655a9897774332396f0efbb5bdbba02085343565e92e247dfc33fa3b54",
+          "report_sha256": "c19ee2c0f0e3cf7f27b99a06fcc9647b26a099614b9f2acda10113a78877cf39",
+          "data_sha256": "e165edfefbdbb8d4cfc6dbc4b60c1e46d28f2dbd808864a785ae004f1f75bb0e"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "run_id": "zngk8olm",
+      "run_url": "https://www.speedrun.com/mc/runs/zngk8olm",
+      "status": "extracted",
+      "date": "2025-05-15",
+      "official_igt_s": 465.368,
+      "official_rta_s": 484.017,
+      "proofs": [
+        {
+          "id": "634b570d6b16e770",
+          "video_url": "https://www.youtube.com/watch?v=RVkc0vvSN5Q",
+          "data_file": "data/634b570d6b16e770.json",
+          "supported_events": 104,
+          "source_sha256": "58f42bf27a3aeb89744e912a9d47ba6c4a6e6107cf9870eb68d0c8a4ab9cd509",
+          "report_sha256": "ba7df2c8e7f07a96847890c6cde683cfad9f601ff6ed7e2a9d055bbbade6ab26",
+          "data_sha256": "ce501c1642fea47864d49e93dd58c27aad385e1c982f783cdbe594efc22de492"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "run_id": "yv580x4m",
+      "run_url": "https://www.speedrun.com/mc/runs/yv580x4m",
+      "status": "extracted",
+      "date": "2025-12-08",
+      "official_igt_s": 465.59,
+      "official_rta_s": 475.561,
+      "proofs": [
+        {
+          "id": "d0eaefccc349b2f55068190c",
+          "video_url": "https://youtu.be/cFhBNA3Khpg?si=UG1oO3CnMc8bIFS3",
+          "data_file": "data/d0eaefccc349b2f55068190c.json",
+          "supported_events": 86,
+          "source_sha256": "04a33c9197ad1ba3057f27a042756dfcbc150ae81125b8bf1313405492e55da3",
+          "report_sha256": "a64a3b9cd4b6f7d8e6e18771848208007d3ec240cf4f72bede8a7a49de7848b4",
+          "data_sha256": "9d88819b59cedc8a71322eb06d52955f61ffc1711ce1fcba19c0395ea690356a"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "run_id": "zg2q0lny",
+      "run_url": "https://www.speedrun.com/mc/runs/zg2q0lny",
+      "status": "extracted",
+      "date": "2023-02-08",
+      "official_igt_s": 465.828,
+      "official_rta_s": 481.561,
+      "proofs": [
+        {
+          "id": "d63c015cb57b4295a06b17ef",
+          "video_url": "https://www.youtube.com/watch?v=eFbXCm4VRyg",
+          "data_file": "data/d63c015cb57b4295a06b17ef.json",
+          "supported_events": 125,
+          "source_sha256": "b4c72579d06c4dd3fe9abd7edd6b88b007ccf1ecf0a1f89dac4652bb4875148e",
+          "report_sha256": "2c94356e656e62dc773c5c0b4facff74c0a1b68e7b78480ad50c4d1aaf9d306d",
+          "data_sha256": "bfb3a7e38e4fd2c9772b4cae76a98efd598e794ea64a80ae5f898f2853a4c187"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "run_id": "y4lpk63z",
+      "run_url": "https://www.speedrun.com/mc/runs/y4lpk63z",
+      "status": "extracted",
+      "date": "2024-11-23",
+      "official_igt_s": 467.588,
+      "official_rta_s": 482.735,
+      "proofs": [
+        {
+          "id": "1805c4c7ab7f523b880104fb",
+          "video_url": "https://youtu.be/8_z_9phKL-Y",
+          "data_file": "data/1805c4c7ab7f523b880104fb.json",
+          "supported_events": 89,
+          "source_sha256": "990166d65f4c37a5c51d1b5a28a3aee3038769394d04a5a251711973fcb46299",
+          "report_sha256": "4d3e194d07760a05bc0fd3cff877b1a853a9477776cfcf3df2cf596768729a4e",
+          "data_sha256": "87e72b7ff0ede6cc9a163bf8c36404f1405a2911cf9953f4bef445209de6abef"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "run_id": "y6w2popz",
+      "run_url": "https://www.speedrun.com/mc/runs/y6w2popz",
+      "status": "extracted",
+      "date": "2026-04-25",
+      "official_igt_s": 468.485,
+      "official_rta_s": 480.998,
+      "proofs": [
+        {
+          "id": "24cfaa91e031014c96d8e22d",
+          "video_url": "https://youtu.be/d8QiCnwtxak",
+          "data_file": "data/24cfaa91e031014c96d8e22d.json",
+          "supported_events": 154,
+          "source_sha256": "efdd2a2c460c0be23fc8979ebd04b359a8dd82f3a941b631dd6ede5666c70830",
+          "report_sha256": "c10df1b1c9f75ba0c3a07df5a826da51cfbec9caa773ad824cdb5132a6320494",
+          "data_sha256": "774cae388fd3541cf42fda1561b2f1d0ee038032af528e9fb1c491b12e94352f"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "run_id": "ywo45l2m",
+      "run_url": "https://www.speedrun.com/mc/runs/ywo45l2m",
+      "status": "extracted",
+      "date": "2026-03-07",
+      "official_igt_s": 469.051,
+      "official_rta_s": 478.068,
+      "proofs": [
+        {
+          "id": "d67f1982114051de00267f8e",
+          "video_url": "https://youtu.be/3d8W_UAMDIg",
+          "data_file": "data/d67f1982114051de00267f8e.json",
+          "supported_events": 86,
+          "source_sha256": "7ebdf62ea824c6e399f440bab1dad7d9fb5398ccff7134208268b38daa93af92",
+          "report_sha256": "7df131631b8855a4e2b8b02425db94d1cc4293ea85eebcc1bec554c34df3f2b7",
+          "data_sha256": "9854783c96ae72c950429b99dc813eaf8df7f5225c20831d872b11435bcc1d90"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "run_id": "yw2qgp0y",
+      "run_url": "https://www.speedrun.com/mc/runs/yw2qgp0y",
+      "status": "extracted",
+      "date": "2025-06-08",
+      "official_igt_s": 469.149,
+      "official_rta_s": 483.853,
+      "proofs": [
+        {
+          "id": "b6d247631354d84bf49475b2",
+          "video_url": "https://youtu.be/AGBRwcyqcaU",
+          "data_file": "data/b6d247631354d84bf49475b2.json",
+          "supported_events": 100,
+          "source_sha256": "2f132693886dc9844d02880f9ee875ff94daa9a8222836024838e2a999bdc2a9",
+          "report_sha256": "30fd60ad2e67f56c3c3c1f08948eb065a350894a19bad405a5be73c21b95fcfe",
+          "data_sha256": "0affcbd05c394435b266453cbe7808033b461db90bd301f334eb7809b02b62ca"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "run_id": "mkxlkkxz",
+      "run_url": "https://www.speedrun.com/mc/runs/mkxlkkxz",
+      "status": "extracted",
+      "date": "2026-02-18",
+      "official_igt_s": 469.351,
+      "official_rta_s": 480.946,
+      "proofs": [
+        {
+          "id": "8973d419356e8cbbad40f97f",
+          "video_url": "https://www.youtube.com/watch?v=YP00gNdzuZ4",
+          "data_file": "data/8973d419356e8cbbad40f97f.json",
+          "supported_events": 100,
+          "source_sha256": "f6fc903f64366c6db5ac5823bb4e5b36b8842e3a3b1b9c49fae48c93e4c7aba2",
+          "report_sha256": "f964a86f1bdd2fce8c180a252e95d7a46681c3a487695890d15ea11b5286399a",
+          "data_sha256": "3d749004e05c14aec651df9bb339c1816764f96e996dac7d0b7d84c741d6d419"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "run_id": "zqow99ry",
+      "run_url": "https://www.speedrun.com/mc/runs/zqow99ry",
+      "status": "extracted",
+      "date": "2026-07-19",
+      "official_igt_s": 469.744,
+      "official_rta_s": 479.829,
+      "proofs": [
+        {
+          "id": "ac9d50ea2c6e0b2035c33b28",
+          "video_url": "https://youtu.be/Bi6PM1AvpFg",
+          "data_file": "data/ac9d50ea2c6e0b2035c33b28.json",
+          "supported_events": 100,
+          "source_sha256": "9d662a5bccc194725a3b105a5406e5b3b42cba82c7f2188fd0801aac1e4f7407",
+          "report_sha256": "87eef9375ff8f2f4e959dfcb82e6fc1173df82894923c5e4eaa6227340f46df5",
+          "data_sha256": "a0ea3d5decfe86230bca43547429e10d99244a7a397e229d2f2c39b099353249"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "run_id": "y640dwpm",
+      "run_url": "https://www.speedrun.com/mc/runs/y640dwpm",
+      "status": "extracted",
+      "date": "2026-08-18",
+      "official_igt_s": 470.685,
+      "official_rta_s": 482.966,
+      "proofs": [
+        {
+          "id": "e7550a09b03bdf53d96dce9c",
+          "video_url": "https://youtu.be/fH4z2JJ6rX0",
+          "data_file": "data/e7550a09b03bdf53d96dce9c.json",
+          "supported_events": 121,
+          "source_sha256": "d4c114860e99602edc77626220749d9af514179c9341040a972dee9fbb704c40",
+          "report_sha256": "3538ad802921f33ae406e749b2318d9e72bc6572274157d12cfb011fba8c24a6",
+          "data_sha256": "ab98702d4c7988eefe64819a9ff7194f00febb7b9803762ec28491a7a2f45a44"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "run_id": "ydljp8jz",
+      "run_url": "https://www.speedrun.com/mc/runs/ydljp8jz",
+      "status": "extracted",
+      "date": "2024-09-19",
+      "official_igt_s": 471.62,
+      "official_rta_s": 495.276,
+      "proofs": [
+        {
+          "id": "816d12ab0f5aa012a5159c96",
+          "video_url": "https://youtu.be/ixD1OgfGF9Q",
+          "data_file": "data/816d12ab0f5aa012a5159c96.json",
+          "supported_events": 104,
+          "source_sha256": "5db165eda6151c00a67d0f13c5e955571b1218364810493dcb5ea7f8a49c6ebf",
+          "report_sha256": "3a6da3e0db843c51a9a2e8b2d2c5eedfb7e928b543b72806f36f19b40dd0a450",
+          "data_sha256": "dae52d6eb18e151b2ba03768549f3ccc2fb4aceb1f076164b1ca8978a0c62277"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "run_id": "yj7rg8dy",
+      "run_url": "https://www.speedrun.com/mc/runs/yj7rg8dy",
+      "status": "extracted",
+      "date": "2026-01-28",
+      "official_igt_s": 471.665,
+      "official_rta_s": 479.523,
+      "proofs": [
+        {
+          "id": "93e2b45d5ac190af5abfd2eb",
+          "video_url": "https://youtu.be/0e-OYyUWBT0",
+          "data_file": "data/93e2b45d5ac190af5abfd2eb.json",
+          "supported_events": 96,
+          "source_sha256": "aed19107845c574e85c28aaaaf892706ef8fec3ab780282b9be62c967b8fc5ed",
+          "report_sha256": "6f633ee6618c3297fd56bd9eab990b567d32fb9569f1b74144dd64584e713fda",
+          "data_sha256": "6d754241f2c68acbe3af8dcb7e46183ae7f459f971105e30a5a64708842832bc"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "run_id": "zxr7logz",
+      "run_url": "https://www.speedrun.com/mc/runs/zxr7logz",
+      "status": "extracted",
+      "date": "2026-08-18",
+      "official_igt_s": 472.802,
+      "official_rta_s": 483.011,
+      "proofs": [
+        {
+          "id": "2b03680f6f37e31d232dbce0",
+          "video_url": "https://youtu.be/n0f_0FDE5-4",
+          "data_file": "data/2b03680f6f37e31d232dbce0.json",
+          "supported_events": 105,
+          "source_sha256": "697f435cc41ed1be6b3daeaa6438ef414d09ac0b60d0358271f7807c6c89b645",
+          "report_sha256": "7d08b9a0d694d31b622443c22a6dd3ddb1d623be531a24008fbf5fc71eac809c",
+          "data_sha256": "0ece86a44eb3c04f32a70adfff90ba690b962d2c28a97dac9fd7bdd078491dbc"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "run_id": "mr5kp38y",
+      "run_url": "https://www.speedrun.com/mc/runs/mr5kp38y",
+      "status": "extracted",
+      "date": "2025-10-24",
+      "official_igt_s": 473.512,
+      "official_rta_s": 501.647,
+      "proofs": [
+        {
+          "id": "f27e2eb93e049d0b88f6cd74",
+          "video_url": "https://www.youtube.com/watch?v=1Ue2FLtnPKs",
+          "data_file": "data/f27e2eb93e049d0b88f6cd74.json",
+          "supported_events": 84,
+          "source_sha256": "411d4c08da34ce1e8db39cd961c0f0fbdb3cb81aecaae31d0141c8cc8abff89c",
+          "report_sha256": "7cee4b7739f57160fac46d57b73d4ca2c81813572061e0073da879c620a5174d",
+          "data_sha256": "6b04236efa500159cffcf6c9dbb96ae1c1c99056d0c14248dac3c97cf04f7569"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "run_id": "y6j7vnpm",
+      "run_url": "https://www.speedrun.com/mc/runs/y6j7vnpm",
+      "status": "extracted",
+      "date": "2025-04-29",
+      "official_igt_s": 474.143,
+      "official_rta_s": 483.104,
+      "proofs": [
+        {
+          "id": "94dc9a9969a0ef9153e145e1",
+          "video_url": "https://www.youtube.com/watch?v=7jXe56C3SYE",
+          "data_file": "data/94dc9a9969a0ef9153e145e1.json",
+          "supported_events": 122,
+          "source_sha256": "c5de6500cfcacdcc9d330bbf833f4546b6a9adc6b1637217da16712bb6944c89",
+          "report_sha256": "68ee0d1313bc309a690811718c226fc239bb5dafaca9617449c60de394f502d7",
+          "data_sha256": "d8a96a23d9880eb44f0a0f4d355916804f1b87f054ee192b1e176a33130bb53a"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "run_id": "zgj4w4dz",
+      "run_url": "https://www.speedrun.com/mc/runs/zgj4w4dz",
+      "status": "extracted",
+      "date": "2025-04-14",
+      "official_igt_s": 474.145,
+      "official_rta_s": 487.566,
+      "proofs": [
+        {
+          "id": "95e8da04d618314951f54b50",
+          "video_url": "https://youtu.be/PFLgUsklG4E",
+          "data_file": "data/95e8da04d618314951f54b50.json",
+          "supported_events": 150,
+          "source_sha256": "eed1b3fcd655dcb7fa2720cb06c7b4dc00c8713e67c803cd165752bd679d6eab",
+          "report_sha256": "60e62198c9ca9bcccaf3499ce5b89887015b6485f8f59c89446becb032a54a9f",
+          "data_sha256": "46132879635dfd93580b37182d9d0ce8035f5e5d6fe1dc1dfe5bd80f8dc1ca81"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "run_id": "m7lwl84y",
+      "run_url": "https://www.speedrun.com/mc/runs/m7lwl84y",
+      "status": "extracted",
+      "date": "2025-06-22",
+      "official_igt_s": 475.128,
+      "official_rta_s": 489.032,
+      "proofs": [
+        {
+          "id": "54298217594e4f111011a6e4",
+          "video_url": "https://www.youtube.com/watch?v=zF3nyDtyvDM",
+          "data_file": "data/54298217594e4f111011a6e4.json",
+          "supported_events": 110,
+          "source_sha256": "34a1ea9a8598c8ce625a9563bad63ce25f0600cd67a1643957bb354b73c4c7e5",
+          "report_sha256": "285161f8fab0017a4947e500240903a359e53d16f182ced7688156b7869f9e0b",
+          "data_sha256": "982663533a927ca86d2d77d483769defdb004a4e1d85ce223707d6e6079ea3c4"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "run_id": "yd4j7evy",
+      "run_url": "https://www.speedrun.com/mc/runs/yd4j7evy",
+      "status": "extracted",
+      "date": "2025-07-17",
+      "official_igt_s": 475.683,
+      "official_rta_s": 499.277,
+      "proofs": [
+        {
+          "id": "2b28e919b0e334b24d80ce1e",
+          "video_url": "https://www.twitch.tv/videos/2514781610",
+          "data_file": "data/2b28e919b0e334b24d80ce1e.json",
+          "supported_events": 46,
+          "source_sha256": "1507ce5f1530f412406397f81f3e91683a18dc4159cd2b567edb99c41982dc00",
+          "report_sha256": "997a5741abac7342a386476a1150cf612fe9d9f34823450b03b12010e67a0108",
+          "data_sha256": "6f0e824a7d87dbdcf48730fb73f0b14623e9ce72fa0ec1b848926dd542de46f2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "run_id": "yd437kxy",
+      "run_url": "https://www.speedrun.com/mc/runs/yd437kxy",
+      "status": "extracted",
+      "date": "2025-05-07",
+      "official_igt_s": 476.598,
+      "official_rta_s": 500.231,
+      "proofs": [
+        {
+          "id": "7347b0a1f1baa720daecbff3",
+          "video_url": "https://www.youtube.com/watch?v=WVi9UjSgMew",
+          "data_file": "data/7347b0a1f1baa720daecbff3.json",
+          "supported_events": 118,
+          "source_sha256": "e761a55a3dcda5e8dce237f3d1af4877e01ea91b18ea58eb23a7b695e81c32b5",
+          "report_sha256": "598f8343e817249b49c70fd05b5a4ac3fa1dcd4a928f129bfbb4ded27700d3a4",
+          "data_sha256": "d5f94255a544ff9b06e82133a81e3a50640faf9b24f4ebc8e027db4f7c265304"
+        },
+        {
+          "id": "b0a506b9f3a29e6673e923ef",
+          "video_url": "https://youtu.be/hXfn9yjwMPw",
+          "data_file": "data/b0a506b9f3a29e6673e923ef.json",
+          "supported_events": 109,
+          "source_sha256": "48f5dd5d3d509b56253649abe1378b291533faa27cdd28488b5b641d2833c235",
+          "report_sha256": "f8eda78e39c8decebc25d497ba8352f45b2c045b1d27994e61ca95de4da92de3",
+          "data_sha256": "96644e0c10ee20157c92f2b34d9a132e4d8746cc5fe097955172df9f62de5c81"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "run_id": "yo8wjejz",
+      "run_url": "https://www.speedrun.com/mc/runs/yo8wjejz",
+      "status": "extracted",
+      "date": "2026-06-14",
+      "official_igt_s": 477.263,
+      "official_rta_s": 484.561,
+      "proofs": [
+        {
+          "id": "1fb2a7f02bdb25e1440f7612",
+          "video_url": "https://youtu.be/iW6E1nWAlhA",
+          "data_file": "data/1fb2a7f02bdb25e1440f7612.json",
+          "supported_events": 123,
+          "source_sha256": "3ce6a9ac9d79f627b138c1caaf2fb55c5a27e33d14068607a790c50f71bfe0bf",
+          "report_sha256": "1fdc72064bcae72f70c7faab6e656149fda860fffdf2ea07a01708ceec99f47f",
+          "data_sha256": "8cbfda6c00bc0ad76fe6a4a6da1e85fb32359b424dd320181b7b7ad37df39652"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "run_id": "zpvononz",
+      "run_url": "https://www.speedrun.com/mc/runs/zpvononz",
+      "status": "extracted",
+      "date": "2026-05-23",
+      "official_igt_s": 477.707,
+      "official_rta_s": 491.805,
+      "proofs": [
+        {
+          "id": "c7d58ee3035111dffc2823e1",
+          "video_url": "https://youtu.be/qmvPZCSKPr8",
+          "data_file": "data/c7d58ee3035111dffc2823e1.json",
+          "supported_events": 122,
+          "source_sha256": "8953b6512f5584011deb2fd2a04b34fcb6a20e533d8b35d02712b59b5bdf426f",
+          "report_sha256": "f04265959a832421af9a2cd86be7c52b7eaaa81acd1e4b918ba6419d5b390c04",
+          "data_sha256": "2ee39e822f7f103f5df2db741b7af2b5b4c5615f841357502f633b6622267cef"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "run_id": "z08d87jm",
+      "run_url": "https://www.speedrun.com/mc/runs/z08d87jm",
+      "status": "extracted",
+      "date": "2025-03-01",
+      "official_igt_s": 478.102,
+      "official_rta_s": 499.541,
+      "proofs": [
+        {
+          "id": "9859eb55e5649442dd10e587",
+          "video_url": "https://www.youtube.com/watch?v=17qUlvn_8MI",
+          "data_file": "data/9859eb55e5649442dd10e587.json",
+          "supported_events": 105,
+          "source_sha256": "ea6ba81e7e8db53597abc23d0dec2a6c0880d1177d77769904b0ba1ddb97ffb6",
+          "report_sha256": "7842ee09e502c718d33a88822e539b16b0878b0367237c43a3c3a6c8170ebbc3",
+          "data_sha256": "d2b2f9067749ad8d7cf4c8c7f70cf3035bd246c78c2bbf2f888c0acb358b591f"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "run_id": "yd4epqwy",
+      "run_url": "https://www.speedrun.com/mc/runs/yd4epqwy",
+      "status": "extracted",
+      "date": "2025-06-16",
+      "official_igt_s": 478.328,
+      "official_rta_s": 505.669,
+      "proofs": [
+        {
+          "id": "b57461bc0d790514a29967c5",
+          "video_url": "https://www.youtube.com/watch?v=zJOr7Awb4-c",
+          "data_file": "data/b57461bc0d790514a29967c5.json",
+          "supported_events": 102,
+          "source_sha256": "3a7b52268a62690230f0e6383a25e48144129c3e083dd90db32df06b47fdd360",
+          "report_sha256": "db49d3cd176c67e24ffa8277f246186b157dafb302d791efc3e1daed262f3fac",
+          "data_sha256": "ab59e16711838bac73de5e94116bbc3be5de400c3ecbf6216302bb28431600b6"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "run_id": "z049en4y",
+      "run_url": "https://www.speedrun.com/mc/runs/z049en4y",
+      "status": "extracted",
+      "date": "2026-07-22",
+      "official_igt_s": 478.597,
+      "official_rta_s": 489.495,
+      "proofs": [
+        {
+          "id": "881d70d0289c9472d51efdec",
+          "video_url": "https://youtu.be/K-0eXlfU3QM",
+          "data_file": "data/881d70d0289c9472d51efdec.json",
+          "supported_events": 107,
+          "source_sha256": "9a732d624a3543b44f500107813182a7ad3cb1fbe6b00f085d2702a73ea9e5d5",
+          "report_sha256": "85a829637cfe593ab9ad90b01f7ae314905b21456ef9e30d7f1afbc7bc68e0d2",
+          "data_sha256": "c93d3bec7a54038b890ce33dab3d84995964e654a276b05a1c1b9a58e4afad2d"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "run_id": "zxr3lggz",
+      "run_url": "https://www.speedrun.com/mc/runs/zxr3lggz",
+      "status": "extracted",
+      "date": "2026-09-04",
+      "official_igt_s": 479.06,
+      "official_rta_s": 497.004,
+      "proofs": [
+        {
+          "id": "dc03f9202a9a8358739071a7",
+          "video_url": "https://www.youtube.com/watch?v=8YEipfPlsI4&t=3s",
+          "data_file": "data/dc03f9202a9a8358739071a7.json",
+          "supported_events": 125,
+          "source_sha256": "bfe9761654986152078f781875fcef25a674ce1cbe72f16c18925cf8936a8b10",
+          "report_sha256": "d8a02779a7280eddba270acf95cdee0256b4cea2d30593f3c2144767db8c487d",
+          "data_sha256": "2bde75d0c3776c4eb95430cc28ab5909ff9a348a66712463bd4c00734f8da04c"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "run_id": "zn5kqqvz",
+      "run_url": "https://www.speedrun.com/mc/runs/zn5kqqvz",
+      "status": "extracted",
+      "date": "2025-10-21",
+      "official_igt_s": 479.372,
+      "official_rta_s": 490.583,
+      "proofs": [
+        {
+          "id": "bc806b521196566796f13757",
+          "video_url": "https://www.youtube.com/watch?v=cGwrQBH8BZU",
+          "data_file": "data/bc806b521196566796f13757.json",
+          "supported_events": 86,
+          "source_sha256": "20b682260c2644ff048c4edebcb3928636a26c0aaf86debb728a3eafdf350f34",
+          "report_sha256": "68f4f42929cee73a2bfa031da58441180f511399cb1e25bf5ca3cedae56b1eca",
+          "data_sha256": "e1194d25ad8ef196564d54164c3807505b48bd104f952ed21fe6c774fa72c1b0"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "run_id": "z16jpxwm",
+      "run_url": "https://www.speedrun.com/mc/runs/z16jpxwm",
+      "status": "extracted",
+      "date": "2025-05-11",
+      "official_igt_s": 479.376,
+      "official_rta_s": 502.232,
+      "proofs": [
+        {
+          "id": "7c8fd64d2bc1d13dcfdc52b7",
+          "video_url": "https://youtu.be/giacRuKjBQs",
+          "data_file": "data/7c8fd64d2bc1d13dcfdc52b7.json",
+          "supported_events": 89,
+          "source_sha256": "753d04481e5096135d23ff3d7dc98c1cb9b6ce1179ceccf5c4e0794aac4b9fdd",
+          "report_sha256": "972798981f9a16f655e1fd5d968817a4c444fd075dc2c07bb3310cced226b62a",
+          "data_sha256": "5a6535fff4d3569c21358b1b0bcc0d8890c1871b0c514aaf64ca457dd1962942"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "run_id": "yd4634jy",
+      "run_url": "https://www.speedrun.com/mc/runs/yd4634jy",
+      "status": "extracted",
+      "date": "2025-05-09",
+      "official_igt_s": 479.698,
+      "official_rta_s": 489.113,
+      "proofs": [
+        {
+          "id": "23bc3f301a22831de964acff",
+          "video_url": "https://www.youtube.com/watch?v=oS054fLM-5A",
+          "data_file": "data/23bc3f301a22831de964acff.json",
+          "supported_events": 120,
+          "source_sha256": "8fc8418ac8f78ba1500a7c86709645124cd8ebe4dd75d16e9999dbd9dd6a3b61",
+          "report_sha256": "f9995c8db5cb047dd95f905e373341c5aa08122a3237cc3d8eaf314f765983e0",
+          "data_sha256": "5bdaa52eee1e6cc7637523c4953e34604c8bbe086439855187748ceea44791ff"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "run_id": "mko6ex3z",
+      "run_url": "https://www.speedrun.com/mc/runs/mko6ex3z",
+      "status": "extracted",
+      "date": "2025-04-09",
+      "official_igt_s": 480.384,
+      "official_rta_s": 493.283,
+      "proofs": [
+        {
+          "id": "026bbdfdb8cef74c897bbaad",
+          "video_url": "https://youtu.be/kjcEqjV6uPY?si=tc5xL5aFRV_-MQLj",
+          "data_file": "data/026bbdfdb8cef74c897bbaad.json",
+          "supported_events": 72,
+          "source_sha256": "ef1a745266d2070e5296c495537538c071fb44c665d00d6f14ff6fecc1ed13c0",
+          "report_sha256": "9328ec7a6cef2e781d3edf1fb93d6d965609fcb3ead63b3a04842c45650d9f2e",
+          "data_sha256": "ae2e78aa01dd356d0482e7210315ec93c71cb9740789b2049c485140dbbadff2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "run_id": "mel636qz",
+      "run_url": "https://www.speedrun.com/mc/runs/mel636qz",
+      "status": "extracted",
+      "date": "2023-05-28",
+      "official_igt_s": 481.217,
+      "official_rta_s": 511.307,
+      "proofs": [
+        {
+          "id": "c12ec6c57a5220aad5b15793",
+          "video_url": "https://www.youtube.com/watch?v=xmLqyeOiE-Q",
+          "data_file": "data/c12ec6c57a5220aad5b15793.json",
+          "supported_events": 75,
+          "source_sha256": "722614554d5bfdebe9bf39c3bdda3beb7f6348059a8b920b7ecfc093cb30ef15",
+          "report_sha256": "29b9d33804d0b29c4781bfc16537ce7845584b4fa8e02347a496483d1014379e",
+          "data_sha256": "6c4562236375a0b9b286891dd92f0133114b5041881a40fb9de066612b48e120"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "run_id": "y4l3p3qz",
+      "run_url": "https://www.speedrun.com/mc/runs/y4l3p3qz",
+      "status": "extracted",
+      "date": "2024-07-20",
+      "official_igt_s": 481.225,
+      "official_rta_s": 496.328,
+      "proofs": [
+        {
+          "id": "addee7528422dd3c7b2574b5",
+          "video_url": "https://youtu.be/OrpLdkwkWSI",
+          "data_file": "data/addee7528422dd3c7b2574b5.json",
+          "supported_events": 87,
+          "source_sha256": "95bf46b992b94643fb60af046dd0053410e683df4f88449d7809bbcf43897767",
+          "report_sha256": "f741e21ea834c2e3e89430d39d9120ec8d761fde0f356323ec318c65b04daf57",
+          "data_sha256": "6876f7f50c3f52a52b933941c8483363ee527b4f70a88aac1152c5a39748810c"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "run_id": "z00rj59z",
+      "run_url": "https://www.speedrun.com/mc/runs/z00rj59z",
+      "status": "extracted",
+      "date": "2025-06-08",
+      "official_igt_s": 481.422,
+      "official_rta_s": 498.005,
+      "proofs": [
+        {
+          "id": "bf0e4968f2c2ace69de2daa2",
+          "video_url": "https://youtu.be/3ryyJGb8rzo",
+          "data_file": "data/bf0e4968f2c2ace69de2daa2.json",
+          "supported_events": 123,
+          "source_sha256": "2318ff9bc73432c461a49061fea6cf343926c3e39b9728af1a446e17ed0ce2b3",
+          "report_sha256": "ae2761c9c2777e3cbfcad10359531ce8b5fe19d7e0a30e0a3ac6cdf3e46f76f9",
+          "data_sha256": "fa363927475fb94be9da24ec6f71340083ecb72297a9ff41ba536cfff43e3670"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "run_id": "y4016j2z",
+      "run_url": "https://www.speedrun.com/mc/runs/y4016j2z",
+      "status": "extracted",
+      "date": "2025-10-15",
+      "official_igt_s": 481.633,
+      "official_rta_s": 491.461,
+      "proofs": [
+        {
+          "id": "f4cdbf3de73c219d44ba5afe",
+          "video_url": "https://youtu.be/ztgB7e9qWts",
+          "data_file": "data/f4cdbf3de73c219d44ba5afe.json",
+          "supported_events": 97,
+          "source_sha256": "b8623ba74a5b4016d9224df97093ab0d6d1280a8235852cee3b95775029f0f7f",
+          "report_sha256": "87537dcd878c5130e9d5db57cafca7515925a18b7f4254bae2a4982789b85576",
+          "data_sha256": "c2c9e0eee02ddba08ea29ee3c453a7dcfe5bc64ad2ebab40bf28c4c9293e860d"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "run_id": "zngk3x8m",
+      "run_url": "https://www.speedrun.com/mc/runs/zngk3x8m",
+      "status": "extracted",
+      "date": "2025-05-17",
+      "official_igt_s": 483.631,
+      "official_rta_s": 496.816,
+      "proofs": [
+        {
+          "id": "cf2d71f6432d753dc1d572c2",
+          "video_url": "https://www.bilibili.com/video/BV1TeEbztEa5/?spm_id_from=333.999.0.0",
+          "data_file": "data/cf2d71f6432d753dc1d572c2.json",
+          "supported_events": 112,
+          "source_sha256": "691dccd7a052710f4fc9587e3d065ee2d402eaacdff70234be8c1cd80f3115fb",
+          "report_sha256": "b1508f1dccbc70d82d7a383a069af0b31720211f6036cf55474392c496fb6e53",
+          "data_sha256": "40197f319486a5a2174282587ebadfcb763fb4dfea158d26aee0bf1abe07448b"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "run_id": "zpv5o7xz",
+      "run_url": "https://www.speedrun.com/mc/runs/zpv5o7xz",
+      "status": "extracted",
+      "date": "2026-05-31",
+      "official_igt_s": 484.052,
+      "official_rta_s": 492.209,
+      "proofs": [
+        {
+          "id": "002bd4b61b675fd539549837",
+          "video_url": "https://www.youtube.com/watch?v=1YLRKZ5as50",
+          "data_file": "data/002bd4b61b675fd539549837.json",
+          "supported_events": 113,
+          "source_sha256": "a6da3cb38342d91954555773e4a346c2775e2c96a7691225047c2c63c28e84f5",
+          "report_sha256": "5e2796e69b7e588d7bbc81616553fda220aa9178bf0b912c53f17c676c402f08",
+          "data_sha256": "f82487015f7c19a50b9e90280f95fef164c1b8446ebab2d016170eccb00b0258"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "run_id": "yjvw75dy",
+      "run_url": "https://www.speedrun.com/mc/runs/yjvw75dy",
+      "status": "extracted",
+      "date": "2026-09-13",
+      "official_igt_s": 484.79,
+      "official_rta_s": 497.281,
+      "proofs": [
+        {
+          "id": "9fa02a4018fa59dd07e51864",
+          "video_url": "https://www.youtube.com/watch?v=x3WUzCOgcRU",
+          "data_file": "data/9fa02a4018fa59dd07e51864.json",
+          "supported_events": 116,
+          "source_sha256": "bdd10b408a98dd1a2fd156ee61ce5fb0284cecd57cad1b0f078dc48d462b3276",
+          "report_sha256": "88a6f9435fe3df178e104050d2ddc8de4c6ab963f93b54ad409745578407f516",
+          "data_sha256": "69540faf543ac478fc8cc57a6f0eb772cbccaf8ade91df6f2576bde6bd2c8d7a"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "run_id": "y4nwjk3m",
+      "run_url": "https://www.speedrun.com/mc/runs/y4nwjk3m",
+      "status": "extracted",
+      "date": "2025-05-12",
+      "official_igt_s": 484.797,
+      "official_rta_s": 500.832,
+      "proofs": [
+        {
+          "id": "7d27d8d67b23d46192c8ad09",
+          "video_url": "https://www.youtube.com/watch?v=cadAlso-Ioo",
+          "data_file": "data/7d27d8d67b23d46192c8ad09.json",
+          "supported_events": 80,
+          "source_sha256": "ab67099bcf13a2c8975bf9163672437e17a59f16a069b6550b552c03e8c4aae8",
+          "report_sha256": "3d4651dd19c88f2b6077615822bbe0d807102000ef7616721a3b87862f89c2b2",
+          "data_sha256": "b90f7eb8c1aa88df335d07cd48a3a42989262b1bac115a627dc1365cce152a37"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "run_id": "y8g1jl5z",
+      "run_url": "https://www.speedrun.com/mc/runs/y8g1jl5z",
+      "status": "extracted",
+      "date": "2025-05-11",
+      "official_igt_s": 485.167,
+      "official_rta_s": 520.476,
+      "proofs": [
+        {
+          "id": "8ec59065171c567f2d72204c",
+          "video_url": "https://www.youtube.com/watch?v=9_SZ_zgKwO8",
+          "data_file": "data/8ec59065171c567f2d72204c.json",
+          "supported_events": 82,
+          "source_sha256": "74113db135150364f0341fba72c8a076144c64fb0e6b98cd7d7f541f4913ddb9",
+          "report_sha256": "72d907456e58b31b594b2bf684a285c289e89bbe4df3c039a0d9e3f2e383ec84",
+          "data_sha256": "c83ca1e9203d0ca7922c5cf98809f6ad7e4bd5bbc58861feb6f3c86d13e4c5c1"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "run_id": "z02g6n9m",
+      "run_url": "https://www.speedrun.com/mc/runs/z02g6n9m",
+      "status": "extracted",
+      "date": "2026-04-07",
+      "official_igt_s": 485.683,
+      "official_rta_s": 493.638,
+      "proofs": [
+        {
+          "id": "695d4c8cd7dfd46ee60c2739",
+          "video_url": "https://www.youtube.com/watch?v=KwkMvIwsGT0",
+          "data_file": "data/695d4c8cd7dfd46ee60c2739.json",
+          "supported_events": 112,
+          "source_sha256": "a4001af2fbb170d20935beb14d9829b466c1c69fd90ef390b5d20a9c5b447e22",
+          "report_sha256": "77815f62e8e68c2a37046969f5baba89ff587ea2b1c58ebcfa0145d50efd7edb",
+          "data_sha256": "252d7c1bd8051493ceb1d0d3ad2de34836d3e5188bd081824b722d036e732683"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "run_id": "yl55743z",
+      "run_url": "https://www.speedrun.com/mc/runs/yl55743z",
+      "status": "extracted",
+      "date": "2026-01-23",
+      "official_igt_s": 486.666,
+      "official_rta_s": 507.025,
+      "proofs": [
+        {
+          "id": "980dafd7418e58f8d643f41f",
+          "video_url": "https://youtu.be/2GHG5WrB120",
+          "data_file": "data/980dafd7418e58f8d643f41f.json",
+          "supported_events": 89,
+          "source_sha256": "eaf70e7cfada0b931213cbec61a3dc57ad58666be69e6ff0ebc82f1aeafabbc2",
+          "report_sha256": "8d56399535659babf070863af4bae47829fb167b209baed08e18e39bb77f2daf",
+          "data_sha256": "50062c2cecd3c5a778f14f547cc1b7f9645a54d2d0a7373b4c784e8089e0e3dc"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "run_id": "y8lkx3xm",
+      "run_url": "https://www.speedrun.com/mc/runs/y8lkx3xm",
+      "status": "extracted",
+      "date": "2026-05-03",
+      "official_igt_s": 487.666,
+      "official_rta_s": 500.657,
+      "proofs": [
+        {
+          "id": "75637055664ad1edd2e05865",
+          "video_url": "https://youtu.be/85e2FIVhFKg",
+          "data_file": "data/75637055664ad1edd2e05865.json",
+          "supported_events": 110,
+          "source_sha256": "30058a51bcf3b2a5492fbcc693f17f12b95bd12fa736561e664203aa4dd16335",
+          "report_sha256": "a2c99c576f9590eb845eecf950d09e2bd11175ab83ea30e67899892a4516da27",
+          "data_sha256": "48ddb1f71afdbcff05d9924ce39f2de78059bb681ab5da9ae12c51f7fcea6bbc"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "run_id": "zn28n27z",
+      "run_url": "https://www.speedrun.com/mc/runs/zn28n27z",
+      "status": "extracted",
+      "date": "2024-02-23",
+      "official_igt_s": 488.421,
+      "official_rta_s": 504.751,
+      "proofs": [
+        {
+          "id": "8c2b091b50cf8430f2e30ce9",
+          "video_url": "https://www.bilibili.com/video/BV1HW421N7d8/?spm_id_from=333.999.0.0",
+          "data_file": "data/8c2b091b50cf8430f2e30ce9.json",
+          "supported_events": 100,
+          "source_sha256": "4d465183d38f83586ea46c64121eda251600a427c1afc090df6c7da8a3911a66",
+          "report_sha256": "f40a66918239ffaad62e149615922afc92dda2fe5c9c8a1fcfba8f57950a7209",
+          "data_sha256": "3bb80dd65ea4b2cb3adafe3d803c4315d0ed2515c40e3c04aa8be27a5c9026dd"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "run_id": "zqdn2l1m",
+      "run_url": "https://www.speedrun.com/mc/runs/zqdn2l1m",
+      "status": "extracted",
+      "date": "2024-01-24",
+      "official_igt_s": 488.427,
+      "official_rta_s": 509.069,
+      "proofs": [
+        {
+          "id": "e1a8f88394402134cbce35bc",
+          "video_url": "https://youtu.be/XqFNGJvYGj4",
+          "data_file": "data/e1a8f88394402134cbce35bc.json",
+          "supported_events": 94,
+          "source_sha256": "c1438b0856cdb9ddf2f2d2b624be2bb4d5f7c64585fbc2c26e05809cd71769c5",
+          "report_sha256": "2ded6f721cd7b33950a5c1e50081b46471bf215653e6adf58212ca3eb4c648c0",
+          "data_sha256": "d836e73bdda141ba238e4370217b815c69e2bf20a31215dee9e9eef5e285a89f"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "run_id": "ylpgo0rm",
+      "run_url": "https://www.speedrun.com/mc/runs/ylpgo0rm",
+      "status": "extracted",
+      "date": "2025-04-14",
+      "official_igt_s": 488.473,
+      "official_rta_s": 506.606,
+      "proofs": [
+        {
+          "id": "32207de1bf81c4898c8471a1",
+          "video_url": "https://youtu.be/wlaQxmx2Pgw",
+          "data_file": "data/32207de1bf81c4898c8471a1.json",
+          "supported_events": 115,
+          "source_sha256": "e8a0bc015debb367729c87ef038fdf2477802902fe757245bb3d92c18beb6a49",
+          "report_sha256": "56edad3a188e24db0953f913ced54c3b4a00ec4370444a1de7e1f566cabf92dd",
+          "data_sha256": "b86ceda5e62fb411bd646da3bafe6b362af9af98d28d4ec7611ed4725b4b7779"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "run_id": "z0kgwojm",
+      "run_url": "https://www.speedrun.com/mc/runs/z0kgwojm",
+      "status": "extracted",
+      "date": "2026-02-06",
+      "official_igt_s": 491.329,
+      "official_rta_s": 504.052,
+      "proofs": [
+        {
+          "id": "02c2575beee602a1e898195b",
+          "video_url": "https://www.youtube.com/watch?v=EEYqcwVCWcM?t=244",
+          "data_file": "data/02c2575beee602a1e898195b.json",
+          "supported_events": 114,
+          "source_sha256": "1b139bf29c0df0d7ea81b6c59d74f41c9fdae8aae6af61cdf66b8b28ff6d37a7",
+          "report_sha256": "a181d8809544aad2b5f5f909f0e4958fd0afc015bbff9ecfe379f73d97a15357",
+          "data_sha256": "7f4de5a7917458409ef22991ad14628f28ad53a86a0581c6425fba05c92dacdd"
+        },
+        {
+          "id": "064f76af28bb2e99a30d63b8",
+          "video_url": "https://www.youtube.com/watch?v=l62FpfYX8C0",
+          "data_file": "data/064f76af28bb2e99a30d63b8.json",
+          "supported_events": 13,
+          "source_sha256": "c750f71fdec8c05a35ce03b287bbcffc86265ee1e1e39545b77642112b74fd80",
+          "report_sha256": "af984cbd6b853627b8075ebf70fd11f234502f8132d10d87461335bf2d3307c2",
+          "data_sha256": "7edbc866a6d31a4f5dfab2d585af6ed55df8e487b71ba7e8afecc50ac34bf1b9"
+        },
+        {
+          "id": "1c5dda9cd5860388f402a8f3",
+          "video_url": "https://www.youtube.com/watch?v=NUsI7YX1hAI",
+          "data_file": "data/1c5dda9cd5860388f402a8f3.json",
+          "supported_events": 152,
+          "source_sha256": "fe423089f14f7c6526929c3d2e90e151c3183ddf8abe79e6a5b0982e99e5aef7",
+          "report_sha256": "7bcd5c35628cdbb739a55ff154e63ed87ec2cd5c6e66d4bfe501fe824bf934b8",
+          "data_sha256": "6be72aa508b929f563b5d68e03bb7e623c2e841c42c7b661e57f00b07da98713"
+        },
+        {
+          "id": "88855614b567df7788a6ed3f",
+          "video_url": "https://www.youtube.com/watch?v=BM2IuVZaMrk",
+          "data_file": "data/88855614b567df7788a6ed3f.json",
+          "supported_events": 138,
+          "source_sha256": "488f17e2996d2cad0efaa6cfd096cdaca7ad5da71ae73913c4edca0af7dd0aba",
+          "report_sha256": "d070f6a0fbc7f6fe0a51654215db4426dfa66d4e207447a2798af2df4fc9756c",
+          "data_sha256": "5c5eb3a914e7bed4908aad44550183f037b5d7583fc0ad8d22f7da96e3fe2f4b"
+        },
+        {
+          "id": "96026e8cc1e7e88b6c5676b8",
+          "video_url": "https://youtu.be/JE00rIpwfoM?si=ApF2z2h3mTW2thSd",
+          "data_file": "data/96026e8cc1e7e88b6c5676b8.json",
+          "supported_events": 97,
+          "source_sha256": "2c73a5d7ab617aa6e120c36838a8d19e4e07f670ca90a3c331f898b86bc74e82",
+          "report_sha256": "56816391311e055be7189e7e0bc33121ed482cf9664352baba8a1c5b127d6024",
+          "data_sha256": "4068f63d53a3dffd144d531ecb71e8957817e9b20f8c9bd4dbe1b159dd83981c"
+        },
+        {
+          "id": "cf1f87b1b48620389a08efe0",
+          "video_url": "https://www.youtube.com/watch?v=KgCb35Ie-KE?t=8",
+          "data_file": "data/cf1f87b1b48620389a08efe0.json",
+          "supported_events": 62,
+          "source_sha256": "f9840711e51922caf5c2089e692ef54c031bea5bd4da609c1dc9f25670e7c23c",
+          "report_sha256": "94c44919ae9fb2f409509444493dd2976d618f9fef7f8884d44ec6b6afd44ebb",
+          "data_sha256": "23350dbe148b923a36bbbe32a7e1c7011a33cd95f91e619c0a37ab81fd937111"
+        },
+        {
+          "id": "d2f69db0fd91df9f1e39b71e",
+          "video_url": "https://www.youtube.com/watch?v=-7EjDv287-k?t=28",
+          "data_file": "data/d2f69db0fd91df9f1e39b71e.json",
+          "supported_events": 88,
+          "source_sha256": "9d25ea5fe76c84ad087df389f290ecbefafb5b820fcc08bbc6362c2029f51df7",
+          "report_sha256": "07e8f832b13eb8bc3680513264bbf568bd8070a578ded4db247a3cc9ffe43b7c",
+          "data_sha256": "ffbfaf597cc13d3d69c70234336a222018e91fab1b0b9cce37803624c67a6fc7"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "run_id": "y6jp6n0m",
+      "run_url": "https://www.speedrun.com/mc/runs/y6jp6n0m",
+      "status": "extracted",
+      "date": "2025-05-03",
+      "official_igt_s": 492.219,
+      "official_rta_s": 503.436,
+      "proofs": [
+        {
+          "id": "76e05786420ce44abc9555e0",
+          "video_url": "https://www.youtube.com/watch?v=xDmVhOtoFyg",
+          "data_file": "data/76e05786420ce44abc9555e0.json",
+          "supported_events": 104,
+          "source_sha256": "458de8287f2f38ad55f379ddce8bb624bd3ff71e7216adb5f3baf1881b300276",
+          "report_sha256": "5dc1b0bb2010ed9ea27e54c06b540166e707d1ac5e85f52d2d22a4f0deef6cce",
+          "data_sha256": "cc7bc795330acd81419560be043bf8abff1b26eeacb85f0cc04bb4e668dcbdd3"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "run_id": "y9g9l5em",
+      "run_url": "https://www.speedrun.com/mc/runs/y9g9l5em",
+      "status": "extracted",
+      "date": "2026-03-26",
+      "official_igt_s": 492.414,
+      "official_rta_s": 512.976,
+      "proofs": [
+        {
+          "id": "41ff5aa10f6142c174ded600",
+          "video_url": "https://www.youtube.com/watch?v=l1R2uUOum_A",
+          "data_file": "data/41ff5aa10f6142c174ded600.json",
+          "supported_events": 104,
+          "source_sha256": "b5a27ade5f13e9965d599cf58e0ebc8ebda8f97866dd85c266d894b4aefacab9",
+          "report_sha256": "06d21915c1593d213698f76968e381e9acd264d0dded6a79f8eaa83412028c37",
+          "data_sha256": "0a55c2a5cdd05e03155ec7b43c20bd9392549d5f640a802f61ef8c020452b887"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "run_id": "y4nxdrdm",
+      "run_url": "https://www.speedrun.com/mc/runs/y4nxdrdm",
+      "status": "extracted",
+      "date": "2025-07-05",
+      "official_igt_s": 492.481,
+      "official_rta_s": 509.466,
+      "proofs": [
+        {
+          "id": "1d69a9b88e86e3b1f1f2685f",
+          "video_url": "https://youtu.be/YN_VFJyO-BI",
+          "data_file": "data/1d69a9b88e86e3b1f1f2685f.json",
+          "supported_events": 98,
+          "source_sha256": "7ce1d85fd51be737f29c005041422f5e4779ba4e910c2e6bc2716ea6d434f948",
+          "report_sha256": "d1f2425aea666ad691c62c3fc2ecb25ea86d94575bd3fef0fde81115f85e0f75",
+          "data_sha256": "7067933a594b0527a0dfcbcf53d98319020f96ab3aacc4593fb4a97bb262d75a"
+        },
+        {
+          "id": "a32ea3197e2451e961f63549",
+          "video_url": "https://www.youtube.com/watch?v=WD-0o21lWEs",
+          "data_file": "data/a32ea3197e2451e961f63549.json",
+          "supported_events": 221,
+          "source_sha256": "ee4033d221f41b5ad2573608fcc7a427d09b6855033499a2fcee1bc442bcfc1b",
+          "report_sha256": "d4f566fc2ba79908478d6237ab7f4699dad163602bad59af5d584a8fd43fb632",
+          "data_sha256": "78ff31c049fa0987f7c93c239e6a18cb7e0b796878094513afd30acd82e79d35"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "run_id": "yvx1dexz",
+      "run_url": "https://www.speedrun.com/mc/runs/yvx1dexz",
+      "status": "extracted",
+      "date": "2024-08-16",
+      "official_igt_s": 493.69,
+      "official_rta_s": 508.517,
+      "proofs": [
+        {
+          "id": "3d2c2fde838cee88c394a3f0",
+          "video_url": "https://youtu.be/Q43QAG-6haA?si=ikxVIwx2HKFPmgEL",
+          "data_file": "data/3d2c2fde838cee88c394a3f0.json",
+          "supported_events": 130,
+          "source_sha256": "cc71d0c1dc7dc06e5b173a97830c63d27d5bd5933e51c9e99c11e2c130c45785",
+          "report_sha256": "719e763098adc9012cdb9957cce4b93ec86bba95280cdf124a293b1a06ce3848",
+          "data_sha256": "ca60a02388e777534993e9a59685eb80d865e1b559fa81c8b5f0d7d75865ee56"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "run_id": "me5vkg8m",
+      "run_url": "https://www.speedrun.com/mc/runs/me5vkg8m",
+      "status": "extracted",
+      "date": "2026-06-25",
+      "official_igt_s": 493.703,
+      "official_rta_s": 505.732,
+      "proofs": [
+        {
+          "id": "851dc74ce2188534fc28e30b",
+          "video_url": "https://www.youtube.com/watch?v=JroOPn6ILWU",
+          "data_file": "data/851dc74ce2188534fc28e30b.json",
+          "supported_events": 109,
+          "source_sha256": "5c00d253e16cf580c497556709bc71c4293afebddff5798b752b43fd95755ce1",
+          "report_sha256": "6b7860434159072851bd2ef0778601230777a5d647e04867682f92f5ceb965ad",
+          "data_sha256": "886104bb93e9c98b586bd419ea149041c46e68f7e1be54ab764422dc854ad81e"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "run_id": "mrp2evgz",
+      "run_url": "https://www.speedrun.com/mc/runs/mrp2evgz",
+      "status": "extracted",
+      "date": "2026-09-08",
+      "official_igt_s": 493.779,
+      "official_rta_s": 501.775,
+      "proofs": [
+        {
+          "id": "2101b09d916411f13a792ffc",
+          "video_url": "https://youtu.be/doDUZA7mfK4",
+          "data_file": "data/2101b09d916411f13a792ffc.json",
+          "supported_events": 99,
+          "source_sha256": "3f02aab0ea75cc30c8ad0b13b3f4e6ccc12e6688c699bf0221b288ffde50577e",
+          "report_sha256": "8815cc599fbdda407c1996f8e297278e9981dbdec2b52c450a4925772ba3ffb6",
+          "data_sha256": "176cd96430c605f4d83ee3f3c3940f28c55094affb5d9b621293c093da0221a8"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "run_id": "z0k9kvjm",
+      "run_url": "https://www.speedrun.com/mc/runs/z0k9kvjm",
+      "status": "extracted",
+      "date": "2025-10-28",
+      "official_igt_s": 494.162,
+      "official_rta_s": 509.35,
+      "proofs": [
+        {
+          "id": "07eaf4c685aff59b359a0562",
+          "video_url": "https://youtu.be/uul2zca_WYg",
+          "data_file": "data/07eaf4c685aff59b359a0562.json",
+          "supported_events": 100,
+          "source_sha256": "3b15f31ac9c8d632044a278bbbf90fefab3cf1b75757cf3fe237d0be54aaafd5",
+          "report_sha256": "7383b5886cf27a3ebc57863b91d93a20b20a490966f5c2a28344a804ae9525f0",
+          "data_sha256": "8674081d917ee2dbcdd64f2d49524e534d6d1419f9af57b55c58070e11c7595e"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "run_id": "y9w1kxrz",
+      "run_url": "https://www.speedrun.com/mc/runs/y9w1kxrz",
+      "status": "extracted",
+      "date": "2025-10-29",
+      "official_igt_s": 496.15,
+      "official_rta_s": 510.672,
+      "proofs": [
+        {
+          "id": "ec664fbdff037b61eb1e8d98",
+          "video_url": "https://www.youtube.com/watch?v=s00j2aH695Q",
+          "data_file": "data/ec664fbdff037b61eb1e8d98.json",
+          "supported_events": 93,
+          "source_sha256": "8dc5f1bdf78ff146b15126a8548c50570fd429adcc7a2262a653d9ff67b17c2a",
+          "report_sha256": "a69bf5432a60853ec1e3c0ee78700b6865954e6df5c861b300e983d31f4d7b82",
+          "data_sha256": "edc5aabd741df11fbc28071679e9d34bbc7f4516f19668379702c106f6bcc0ca"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "run_id": "yvl7e48z",
+      "run_url": "https://www.speedrun.com/mc/runs/yvl7e48z",
+      "status": "extracted",
+      "date": "2024-06-04",
+      "official_igt_s": 496.269,
+      "official_rta_s": 516.926,
+      "proofs": [
+        {
+          "id": "368e78c9e6149cc65687d12f",
+          "video_url": "https://youtu.be/BpieRya2ziI?si=oUxzDSSENyFLvHf_",
+          "data_file": "data/368e78c9e6149cc65687d12f.json",
+          "supported_events": 141,
+          "source_sha256": "89bb8e8db1fdc6033fea7bb530433a9f483d825910472d5570d8b12b479e5ae8",
+          "report_sha256": "77aba81db0ad2b3a4465b54bb1593dd70282e0817a90515e1604f14a0bed6047",
+          "data_sha256": "9e6278a8899f4c25fc717f90d215974185fe87424c95a7b2a29f7332969147f6"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "run_id": "zx5erl8m",
+      "run_url": "https://www.speedrun.com/mc/runs/zx5erl8m",
+      "status": "extracted",
+      "date": "2026-02-15",
+      "official_igt_s": 496.675,
+      "official_rta_s": 508.43,
+      "proofs": [
+        {
+          "id": "116ceffda3b8838f4b761c49",
+          "video_url": "https://youtu.be/DwE2QrBhKHM",
+          "data_file": "data/116ceffda3b8838f4b761c49.json",
+          "supported_events": 52,
+          "source_sha256": "80bdc3939234cfdb6774a7fbfd598605cc61d639339593fccb8199a752263d32",
+          "report_sha256": "fd86e15865b9bcdc1856e19ad54a6b76b43bf9a150cef16a3f70c0cab704399d",
+          "data_sha256": "798ac018e3bd02f139a633b094b7a17f1ef1eca29208b50966275ebd5ca81b02"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "run_id": "zxrg288z",
+      "run_url": "https://www.speedrun.com/mc/runs/zxrg288z",
+      "status": "extracted",
+      "date": "2026-08-02",
+      "official_igt_s": 497.646,
+      "official_rta_s": 506.1,
+      "proofs": [
+        {
+          "id": "10dd62b7f8eb4da917a4a395",
+          "video_url": "https://youtu.be/jSKFkOMikB8",
+          "data_file": "data/10dd62b7f8eb4da917a4a395.json",
+          "supported_events": 119,
+          "source_sha256": "690634e212cd0028b4508cdf3eaf716b0a724067ae5d5ee686c2d63e747ba5b7",
+          "report_sha256": "2c0904dbc283d52a59f7dfa2fb4f84f5cf7bfe192261d8ddb0dd7a07f6485337",
+          "data_sha256": "a133c566b097440f94fdaadac4cc261564ed2991da2abf73c28ff0529176847b"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "run_id": "m326p64y",
+      "run_url": "https://www.speedrun.com/mc/runs/m326p64y",
+      "status": "extracted",
+      "date": "2025-11-26",
+      "official_igt_s": 497.713,
+      "official_rta_s": 515.667,
+      "proofs": [
+        {
+          "id": "5f9d25023b572a00006fea25",
+          "video_url": "https://www.youtube.com/watch?v=sxT_D_vLihU",
+          "data_file": "data/5f9d25023b572a00006fea25.json",
+          "supported_events": 47,
+          "source_sha256": "124a6d5a405542f6ebcb2bdf097bd9b44ffd720ee9f785b4d780adcb1f837bff",
+          "report_sha256": "52a9eddffd6a2def09a12877c97d92d55b4f7a6fb90735f7bd49463cf5016703",
+          "data_sha256": "59d726562e1784300dafd5aded370259888ddedbb0541a757ac7139f397c82be"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "run_id": "y44e6k3y",
+      "run_url": "https://www.speedrun.com/mc/runs/y44e6k3y",
+      "status": "extracted",
+      "date": "2026-07-25",
+      "official_igt_s": 497.946,
+      "official_rta_s": 511.657,
+      "proofs": [
+        {
+          "id": "3292f1968575b768006de5ff",
+          "video_url": "https://youtu.be/1Wab-zl6s80",
+          "data_file": "data/3292f1968575b768006de5ff.json",
+          "supported_events": 131,
+          "source_sha256": "44383025ffb32325fe6123a1df73b94e4a60fc63e94cda49d7a18cd0ec7b9aec",
+          "report_sha256": "970ad9651149346b0661f689022b6cfcac7a22a883cf7ab1646b467aa2ac452e",
+          "data_sha256": "2db3c05365e8f1ceb8e1b6e456edf7bace7da138140ef6e2701f9c1c147835f8"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "run_id": "y841jgwz",
+      "run_url": "https://www.speedrun.com/mc/runs/y841jgwz",
+      "status": "extracted",
+      "date": "2026-07-12",
+      "official_igt_s": 498.158,
+      "official_rta_s": 508.069,
+      "proofs": [
+        {
+          "id": "6bf2b65780dc98e64eb81747",
+          "video_url": "https://youtu.be/nQdjZ6JOXzA",
+          "data_file": "data/6bf2b65780dc98e64eb81747.json",
+          "supported_events": 147,
+          "source_sha256": "b4672f6acc0d4adc584cc8fe122f3b77cc7bef779c65ddab84646ae42346311d",
+          "report_sha256": "3b650a7966122167ed581c6d6366c162d512bc164263ae710404b5c4918d8083",
+          "data_sha256": "03ce3790e1a6a4d6081dfe10e43b42b2c4e85338e486169fc5fce773d3f76b88"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "run_id": "y6g37rqm",
+      "run_url": "https://www.speedrun.com/mc/runs/y6g37rqm",
+      "status": "extracted",
+      "date": "2024-11-26",
+      "official_igt_s": 502.557,
+      "official_rta_s": 513.727,
+      "proofs": [
+        {
+          "id": "b3a0d18f247c212dc3c50452",
+          "video_url": "https://youtu.be/wUyWM2xDw-o",
+          "data_file": "data/b3a0d18f247c212dc3c50452.json",
+          "supported_events": 133,
+          "source_sha256": "5b242916eed3697d2d7b1d731d9991457b231c59ec99f0d52e3de1be0c1d0951",
+          "report_sha256": "e56a7745435314ac003eb5794e72801b3461185e2571d1d993bbec470f5ec350",
+          "data_sha256": "25c2a6f95681650e64acfdbc7579716d97cf7eb8dc1a95848336a7942dff2476"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "run_id": "y9d9rr2m",
+      "run_url": "https://www.speedrun.com/mc/runs/y9d9rr2m",
+      "status": "extracted",
+      "date": "2024-08-16",
+      "official_igt_s": 502.69,
+      "official_rta_s": 517.858,
+      "proofs": [
+        {
+          "id": "8126f3f9e070f2e074dd8c76",
+          "video_url": "https://www.youtube.com/watch?v=rm4DRTZ_EUg",
+          "data_file": "data/8126f3f9e070f2e074dd8c76.json",
+          "supported_events": 5,
+          "source_sha256": "ec0fa7b5fa31d79e1ecbcf50f586df53656f498bc012cda6b4af059de210e463",
+          "report_sha256": "7a489081e5c9bdbc5e681e9e6b993945427275f95e7ee27b7b902b8df0a461e4",
+          "data_sha256": "4606d9569549a47f9337f96a7436df43858af191de1f21e34451386788aa735a"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "run_id": "zpepewvy",
+      "run_url": "https://www.speedrun.com/mc/runs/zpepewvy",
+      "status": "extracted",
+      "date": "2026-09-13",
+      "official_igt_s": 502.826,
+      "official_rta_s": 514.193,
+      "proofs": [
+        {
+          "id": "cf3101f5f44f58c82a694ee6",
+          "video_url": "https://youtu.be/uiTifcUcWcM",
+          "data_file": "data/cf3101f5f44f58c82a694ee6.json",
+          "supported_events": 118,
+          "source_sha256": "662080757849fbc587d33f1e0d1f0257a8b5824999449cacffde4160e86317a3",
+          "report_sha256": "b1d17d43c7ee0fbc6e79176d643d5efb47665af42007cc55b147c3a8a72a0f3b",
+          "data_sha256": "5c914117efa1d6a44728ef6af52b1bd1ee6c90c327b6964ef462bb678914898d"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "run_id": "yvl3g1ez",
+      "run_url": "https://www.speedrun.com/mc/runs/yvl3g1ez",
+      "status": "extracted",
+      "date": "2024-03-01",
+      "official_igt_s": 503.352,
+      "official_rta_s": 524.826,
+      "proofs": [
+        {
+          "id": "b995d2d9e2246c04a54459a3",
+          "video_url": "https://youtu.be/hGRbZEZQeMo",
+          "data_file": "data/b995d2d9e2246c04a54459a3.json",
+          "supported_events": 128,
+          "source_sha256": "6453077e081dc6f2e9744ec56ba3e0cc5ccbc0aa531fff6de19d4424dd4f1368",
+          "report_sha256": "a5e0d9a144523ae74b2bd32080410a70b6180025efc1dc57eb3a004abae1c7ac",
+          "data_sha256": "8e51068b9d2a4afa02191dbcbe21481c77875e12745feb4de97f89b0f231ec0d"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "run_id": "y8p52pnz",
+      "run_url": "https://www.speedrun.com/mc/runs/y8p52pnz",
+      "status": "extracted",
+      "date": "2024-11-21",
+      "official_igt_s": 504.041,
+      "official_rta_s": 522.499,
+      "proofs": [
+        {
+          "id": "0df50fc868877d8acf1d4228",
+          "video_url": "https://youtu.be/3-2eZ4HPAOo?si=Q8f33inG8H_FyYty",
+          "data_file": "data/0df50fc868877d8acf1d4228.json",
+          "supported_events": 109,
+          "source_sha256": "993166b71f695cfe7440eeea69d958d2ec06730502bf5e427ed76c549d4ab601",
+          "report_sha256": "ba21e7f37e1f8f547cbd5919ac6924134e1c65e834b44a58cbe1c211bffe4272",
+          "data_sha256": "82af3fd23c406af6828eb0013e28c8e0fd6bf0bd29d547cf687b431005624524"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "run_id": "zng0o67m",
+      "run_url": "https://www.speedrun.com/mc/runs/zng0o67m",
+      "status": "extracted",
+      "date": "2025-06-13",
+      "official_igt_s": 504.141,
+      "official_rta_s": 515.638,
+      "proofs": [
+        {
+          "id": "6876c16399a725c6a7c8435f",
+          "video_url": "https://youtu.be/b8D4e8a6fzY",
+          "data_file": "data/6876c16399a725c6a7c8435f.json",
+          "supported_events": 130,
+          "source_sha256": "998ce32653db7b503cf83c4bc4db6baf46c606401f2fff489a534baa6197a06f",
+          "report_sha256": "786fe8c547a2ac43c6722c783c14b290363aaaa3b789ed0e04b7ec891e97264a",
+          "data_sha256": "116ee58a06eecaca707e078f1daea8483dfe9be60249b92add5e159f7d757886"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "run_id": "ydxe19vz",
+      "run_url": "https://www.speedrun.com/mc/runs/ydxe19vz",
+      "status": "extracted",
+      "date": "2026-08-09",
+      "official_igt_s": 504.752,
+      "official_rta_s": 526.508,
+      "proofs": [
+        {
+          "id": "3433b981269c493390928060",
+          "video_url": "https://www.youtube.com/watch?v=YDMZUNCbMiA",
+          "data_file": "data/3433b981269c493390928060.json",
+          "supported_events": 107,
+          "source_sha256": "1e0121bd9989bc93780d2bb4966de239443c8b0a56d5486b6618550fe69e6a18",
+          "report_sha256": "77f02bd6793c2b3286c57d952029905bdcbcf1f6090bf928347ebfb6ede0c002",
+          "data_sha256": "0e0b829ff37914f1615619e8b392b61b22eedb6878e10a3d5a6629ff356e0dd7"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "run_id": "znlvg9ly",
+      "run_url": "https://www.speedrun.com/mc/runs/znlvg9ly",
+      "status": "extracted",
+      "date": "2026-09-05",
+      "official_igt_s": 505.17,
+      "official_rta_s": 516.825,
+      "proofs": [
+        {
+          "id": "b19729a7777a0dfed4916e53",
+          "video_url": "https://youtu.be/QkD5BhURF9k?si=iR07oPm6iA0NCSc4",
+          "data_file": "data/b19729a7777a0dfed4916e53.json",
+          "supported_events": 61,
+          "source_sha256": "86f5c3ff81d2e17442435a360e22247d9d1aff4be464194aea1fb49354c7cd5a",
+          "report_sha256": "25ffc9b043631828a01b464ccc96a09ec5a831228fc3ce11c375ddbde9a2b4d8",
+          "data_sha256": "26fd81c4cf14e9fd3d3a2ce71d984a3974e22edd681421fa68da49aa94242002"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "run_id": "mkw7r51m",
+      "run_url": "https://www.speedrun.com/mc/runs/mkw7r51m",
+      "status": "extracted",
+      "date": "2025-06-03",
+      "official_igt_s": 506.037,
+      "official_rta_s": 526.648,
+      "proofs": [
+        {
+          "id": "cc35f7bdab9d8dfaea762289",
+          "video_url": "https://www.youtube.com/watch?v=FlaCkU-bKas",
+          "data_file": "data/cc35f7bdab9d8dfaea762289.json",
+          "supported_events": 100,
+          "source_sha256": "69543ac9aee15c75fd98d96d4a9111111d65a61b2ec04b55b5682c9906c4e759",
+          "report_sha256": "34b5cf4a4b6eff90b9d16c2a4c83b758b003925c5f6007a5788d4e2028fa5228",
+          "data_sha256": "c5756508ba12a0dec6e281620d99984388805c9689eb7ba3410cd1e176599fa0"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "run_id": "yl5oo63z",
+      "run_url": "https://www.speedrun.com/mc/runs/yl5oo63z",
+      "status": "extracted",
+      "date": "2025-11-02",
+      "official_igt_s": 506.317,
+      "official_rta_s": 521.797,
+      "proofs": [
+        {
+          "id": "71e1937636c6d84e02d69858",
+          "video_url": "https://youtu.be/MW_CSWvg52Y",
+          "data_file": "data/71e1937636c6d84e02d69858.json",
+          "supported_events": 122,
+          "source_sha256": "f8af4021c56906396de5d5f4e805485641fdec8da27947d5930b69f78fe651c6",
+          "report_sha256": "3068462413b9c6c942beb43d693759c7454c4707d9db9066a793599fff535cc0",
+          "data_sha256": "31e8e5bf3103f47ec38012b8434da15b3876f3bf780241324251f2fe15bf2b6c"
+        }
+      ]
+    }
+  ]
+}
